@@ -1,0 +1,1942 @@
+order number,date,meat,cheese,sides,toppings,sauce
+1-3,2024-07-01,Grilled Chicken,Alfredo,NA,"Onions, Broccoli, Jalapenos, Tomatoes",Pesto
+1-1,2024-07-01,Grilled Chicken,Cheddar,Cheesecake,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers",BBQ
+1-4,2024-07-01,"Pulled Pork, Brisket",Pepper Jack,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Ranch
+1-5,2024-07-01,Brisket,Alfredo,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs",Hot Honey
+1-6,2024-07-01,NA,Melted Cheddar,Cheesy Garlic Bread,Tomatoes,NA
+1-8,2024-07-01,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Buffalo
+1-7,2024-07-01,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Corn, Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan"
+1-10,2024-07-01,NA,Melted Pepper Jack,NA,"Corn, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan, Pineapple",BBQ
+1-9,2024-07-01,Grilled Chicken,Pepper Jack,Garlic Bread,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Buffalo
+1-11,2024-07-01,Grilled Chicken,Alfredo,NA,"Onions, Parmesan",Ranch
+1-14,2024-07-01,Grilled Chicken,Alfredo,NA,"Broccoli, Mushrooms",Buffalo
+1-13,2024-07-01,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,Breadcrumbs,"Garlic Parmesan, Ranch, BBQ"
+1-15,2024-07-01,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli, Mushrooms, Tomatoes","Pesto, Garlic Parmesan"
+1-16,2024-07-01,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Broccoli",Garlic Parmesan
+1-17,2024-07-01,Pulled Pork,Alfredo,NA,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs","Ranch, BBQ"
+1-18,2024-07-01,NA,"Melted Cheddar, Pepper Jack",NA,"Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+1-21,2024-07-01,Pulled Pork,Cheddar,Cheesy Garlic Bread,NA,"Ranch, BBQ"
+1-20,2024-07-01,Pulled Pork,Cheddar,NA,NA,"Ranch, BBQ"
+1-23,2024-07-01,Pulled Pork,Pepper Jack,NA,Breadcrumbs,Garlic Parmesan
+1-22,2024-07-01,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Jalapenos",Buffalo
+1-24,2024-07-01,Bacon,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+1-25,2024-07-01,Bacon,"Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+1-26,2024-07-01,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack","Doritos, Side Mac, Cheesecake, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Pineapple, Mushrooms","Garlic Parmesan, Buffalo, Pesto, Ranch"
+1-27,2024-07-01,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesecake,Broccoli,"Buffalo, BBQ"
+1-28,2024-07-01,"Bacon, Brisket",Cheddar,Garlic Bread,"Onions, Breadcrumbs",Buffalo
+1-29,2024-07-01,NA,Pepper Jack,Side Mac,"Parmesan, Breadcrumbs",NA
+1-30,2024-07-01,Brisket,Pepper Jack,NA,"Jalapenos, Corn",Buffalo
+1-31,2024-07-01,Grilled Chicken,Cheddar,Cheesy Garlic Bread,NA,Buffalo
+1-32,2024-07-01,Grilled Chicken,Pepper Jack,NA,"Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+1-33,2024-07-01,NA,Alfredo,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Pineapple, Mushrooms",Garlic Parmesan
+1-34,2024-07-01,Brisket,Pepper Jack,NA,"Jalapenos, Bell Peppers",BBQ
+1-35,2024-07-01,Brisket,Melted Pepper Jack,Cheetos,Jalapenos,BBQ
+1-36,2024-07-01,Grilled Chicken,Melted Parmesan,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+1-38,2024-07-01,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Broccoli","Pesto, Garlic Parmesan"
+1-37,2024-07-01,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan",Garlic Parmesan
+1-39,2024-07-01,"Bacon, Pulled Pork",Cheddar,Doritos,"Onions, Parmesan",BBQ
+1-40,2024-07-01,Brisket,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Tomatoes",Pesto
+1-41,2024-07-01,"Bacon, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",NA,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms",BBQ
+1-44,2024-07-01,Brisket,Cheddar,NA,NA,NA
+1-43,2024-07-01,Grilled Chicken,Alfredo,Any Bag Of Chips,NA,NA
+1-45,2024-07-01,Bacon,Pepper Jack,NA,"Onions, Breadcrumbs, Jalapenos, Mushrooms",Pesto
+1-46,2024-07-01,NA,Pepper Jack,Cheesecake,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Garlic Parmesan, Hot Honey"
+1-48,2024-07-01,Grilled Chicken,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",BBQ
+1-49,2024-07-01,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Broccoli",Pesto
+1-50,2024-07-01,"Bacon, Pulled Pork, Brisket",Cheddar,NA,"Parmesan, Corn","Buffalo, Ranch, Garlic Parmesan"
+1-51,2024-07-01,"Bacon, Grilled Chicken",Alfredo,NA,"Parmesan, Broccoli, Breadcrumbs","Ranch, Garlic Parmesan"
+1-52,2024-07-01,Grilled Chicken,Cheddar,Cheesecake,"Corn, Breadcrumbs, Broccoli, Parmesan, Mushrooms",NA
+1-54,2024-07-01,Bacon,Pepper Jack,NA,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+1-53,2024-07-01,"Bacon, Grilled Chicken",Cheddar,NA,"Jalapenos, Corn, Breadcrumbs, Parmesan",BBQ
+1-56,2024-07-01,Grilled Chicken,Alfredo,NA,Mushrooms,BBQ
+1-57,2024-07-01,Brisket,Melted Pepper Jack,NA,"Jalapenos, Bell Peppers, Breadcrumbs, Mushrooms","BBQ, Hot Honey"
+1-55,2024-07-01,"Bacon, Grilled Chicken, Ham","Cheddar Mac, Melted Parmesan",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+1-58,2024-07-01,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+1-59,2024-07-01,NA,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs","Garlic Parmesan, Hot Honey"
+1-61,2024-07-01,Bacon,Cheddar,Cheesy Garlic Bread,Parmesan,NA
+1-60,2024-07-01,Brisket,Cheddar,Cheesy Garlic Bread,Broccoli,NA
+1-62,2024-07-01,Bacon,Cheddar,NA,"Corn, Onions, Jalapenos, Bell Peppers, Mushrooms",Hot Honey
+1-64,2024-07-01,NA,Cheddar,NA,NA,Pesto
+1-63,2024-07-01,Brisket,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Hot Honey
+1-47,2024-07-01,NA,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Bell Peppers",Hot Honey
+1-66,2024-07-01,"Grilled Chicken, Pulled Pork",Cheddar,NA,"Corn, Broccoli, Onions, Jalapenos, Pineapple, Mushrooms","Buffalo, Ranch, BBQ"
+1-67,2024-07-01,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, BBQ, Hot Honey"
+1-68,2024-07-01,NA,Cheddar,NA,NA,NA
+2-2,2024-07-02,Bacon,Alfredo,NA,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",Garlic Parmesan
+2-3,2024-07-02,Ham,Alfredo,NA,"Corn, Tomatoes, Onions, Bell Peppers, Parmesan",Pesto
+2-8,2024-07-02,Bacon,Pepper Jack,Lays Barbecue,"Corn, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Mushrooms",Pesto
+2-5,2024-07-02,Grilled Chicken,Alfredo,NA,"Onions, Parmesan, Broccoli, Mushrooms",Pesto
+2-7,2024-07-02,Grilled Chicken,"Cheddar, Alfredo",NA,"Parmesan, Broccoli, Breadcrumbs","Pesto, Garlic Parmesan"
+2-9,2024-07-02,Brisket,"Cheddar, Alfredo",Lays Classic,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms",BBQ
+2-15,2024-07-02,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan","Garlic Parmesan, BBQ"
+2-13,2024-07-02,Grilled Chicken,Cheddar,Any Bag Of Chips,"Bell Peppers, Breadcrumbs, Tomatoes","Buffalo, Garlic Parmesan"
+2-12,2024-07-02,Grilled Chicken,Pepper Jack,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+2-16,2024-07-02,Bacon,Cheddar,NA,"Parmesan, Corn, Bell Peppers, Breadcrumbs",Garlic Parmesan
+2-14,2024-07-02,Brisket,Melted Pepper Jack,Side Mac,"Onions, Parmesan, Jalapenos",Garlic Parmesan
+2-11,2024-07-02,Grilled Chicken,Cheddar,NA,Breadcrumbs,Buffalo
+2-17,2024-07-02,Brisket,Pepper Jack,NA,"Parmesan, Corn, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+2-18,2024-07-02,Brisket,Cheddar,NA,Breadcrumbs,Hot Honey
+2-19,2024-07-02,Bacon,Cheddar,NA,Parmesan,NA
+2-10,2024-07-02,"Grilled Chicken, Brisket",MIX,NA,"Corn, Broccoli, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan, BBQ"
+2-21,2024-07-02,Bacon,Cheddar,NA,"Onions, Parmesan, Tomatoes",Pesto
+2-22,2024-07-02,"Bacon, Ham, Brisket","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple","Garlic Parmesan, BBQ"
+2-24,2024-07-02,NA,Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+2-25,2024-07-02,Grilled Chicken,Alfredo,NA,"Parmesan, Broccoli, Mushrooms",Pesto
+2-27,2024-07-02,Pulled Pork,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Pineapple, Mushrooms",BBQ
+2-26,2024-07-02,NA,MIX,NA,"Parmesan, Pineapple, Breadcrumbs",Garlic Parmesan
+2-28,2024-07-02,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+2-29,2024-07-02,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan, Pineapple",BBQ
+2-31,2024-07-02,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs, Mushrooms","Ranch, Garlic Parmesan, BBQ"
+2-32,2024-07-02,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+2-34,2024-07-02,Brisket,"Melted Cheddar, Pepper Jack",NA,"Breadcrumbs, Jalapenos, Onions, Parmesan, Mushrooms","Buffalo, Pesto"
+2-35,2024-07-02,Brisket,Pepper Jack,Any Bag Of Chips,"Onions, Mushrooms, Tomatoes",Buffalo
+2-36,2024-07-02,Brisket,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Parmesan, Mushrooms",Garlic Parmesan
+2-39,2024-07-02,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Corn, Breadcrumbs, Parmesan",BBQ
+2-38,2024-07-02,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Corn, Breadcrumbs, Parmesan",BBQ
+2-40,2024-07-02,Brisket,Cheddar,NA,"Corn, Tomatoes",BBQ
+2-41,2024-07-02,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack","Side Mac, Lays Classic","Parmesan, Broccoli, Tomatoes","Ranch, BBQ"
+2-43,2024-07-02,Bacon,Cheddar,NA,Parmesan,BBQ
+2-42,2024-07-02,Pulled Pork,Cheddar,NA,"Corn, Parmesan, Pineapple, Breadcrumbs",NA
+2-44,2024-07-02,Bacon,Alfredo,NA,"Parmesan, Breadcrumbs",Ranch
+2-45,2024-07-02,Bacon,Cheddar,NA,Broccoli,"Buffalo, Ranch"
+2-46,2024-07-02,Bacon,Cheddar,NA,"Parmesan, Corn, Broccoli, Breadcrumbs",Garlic Parmesan
+2-47,2024-07-02,Bacon,Cheddar,NA,"Onions, Breadcrumbs, Mushrooms",NA
+2-48,2024-07-02,Brisket,Cheddar,NA,"Pineapple, Breadcrumbs",BBQ
+2-49,2024-07-02,Ham,Alfredo,NA,Onions,Ranch
+2-50,2024-07-02,"Pulled Pork, Brisket",Alfredo,Cheesecake,"Breadcrumbs, Mushrooms",NA
+2-52,2024-07-02,"Bacon, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",NA,Parmesan,"Ranch, BBQ"
+2-51,2024-07-02,Grilled Chicken,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",Ranch
+2-53,2024-07-02,"Pulled Pork, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Ranch, BBQ"
+2-54,2024-07-02,"Bacon, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+2-57,2024-07-02,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Breadcrumbs",Buffalo
+2-58,2024-07-02,"Bacon, Grilled Chicken, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Ranch
+3-2,2024-07-03,Brisket,"Melted Cheddar, Cheddar","Cheetos, Lays Classic","Corn, Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Pesto, Ranch, Garlic Parmesan"
+3-1,2024-07-03,"Bacon, Brisket",Cheddar,NA,"Parmesan, Corn","Buffalo, Ranch"
+3-3,2024-07-03,Grilled Chicken,Pepper Jack,NA,Corn,"Buffalo, Ranch"
+3-4,2024-07-03,Grilled Chicken,Pepper Jack,NA,"Onions, Parmesan, Jalapenos, Tomatoes","Buffalo, Garlic Parmesan"
+3-5,2024-07-03,Pulled Pork,MIX,NA,"Parmesan, Breadcrumbs",BBQ
+3-7,2024-07-03,"Bacon, Brisket",Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Parmesan",BBQ
+3-8,2024-07-03,"Pulled Pork, Brisket",Cheddar,Any Bag Of Chips,"Parmesan, Breadcrumbs",NA
+3-9,2024-07-03,Brisket,Cheddar,Side Mac,"Corn, Broccoli, Breadcrumbs, Mushrooms",Hot Honey
+3-10,2024-07-03,"Bacon, Pulled Pork","Cheddar, Pepper Jack, Alfredo",NA,Jalapenos,BBQ
+3-11,2024-07-03,"Pulled Pork, Brisket",Pepper Jack,NA,"Jalapenos, Parmesan, Onions, Tomatoes","Garlic Parmesan, BBQ"
+3-12,2024-07-03,Grilled Chicken,"Cheddar, Melted Parmesan","Side Mac, Cheesy Garlic Bread",Parmesan,Pesto
+3-15,2024-07-03,Pulled Pork,"Cheddar, Pepper Jack",Cheesy Garlic Bread,NA,Hot Honey
+3-18,2024-07-03,NA,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",NA
+3-17,2024-07-03,Bacon,Alfredo,NA,"Parmesan, Mushrooms, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+3-16,2024-07-03,NA,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Pineapple","Garlic Parmesan, Hot Honey"
+3-19,2024-07-03,"Ham, Brisket",MIX,Cheesy Garlic Bread,"Bell Peppers, Broccoli, Breadcrumbs",NA
+3-20,2024-07-03,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers","Buffalo, Ranch, Garlic Parmesan"
+3-23,2024-07-03,Grilled Chicken,Cheddar,NA,NA,Garlic Parmesan
+3-24,2024-07-03,Grilled Chicken,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan","Ranch, Garlic Parmesan"
+3-22,2024-07-03,Grilled Chicken,MIX,Cheesy Garlic Bread,"Tomatoes, Jalapenos, Onions, Bell Peppers, Parmesan, Mushrooms",Buffalo
+3-26,2024-07-03,Brisket,Cheddar,NA,"Jalapenos, Parmesan, Tomatoes",BBQ
+3-28,2024-07-03,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+3-27,2024-07-03,Brisket,Cheddar,NA,"Breadcrumbs, Tomatoes",Garlic Parmesan
+3-29,2024-07-03,Brisket,Pepper Jack,Cheesy Garlic Bread,NA,NA
+3-30,2024-07-03,Bacon,Alfredo,NA,"Jalapenos, Bell Peppers, Mushrooms",Hot Honey
+3-32,2024-07-03,Brisket,Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers",BBQ
+3-33,2024-07-03,Bacon,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Broccoli, Breadcrumbs",Ranch
+3-36,2024-07-03,Pulled Pork,Cheddar,"Garlic Bread, Cheesecake","Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+3-35,2024-07-03,"Bacon, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+3-34,2024-07-03,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, BBQ"
+3-37,2024-07-03,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers",BBQ
+3-38,2024-07-03,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, BBQ"
+3-39,2024-07-03,Brisket,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs","Buffalo, BBQ"
+3-41,2024-07-03,Pulled Pork,Cheddar,NA,Parmesan,"Ranch, Garlic Parmesan"
+3-40,2024-07-03,"Grilled Chicken, Brisket",Cheddar,NA,"Onions, Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+3-42,2024-07-03,Brisket,Cheddar,"Side Mac, Cheesecake",Breadcrumbs,BBQ
+3-43,2024-07-03,Grilled Chicken,Cheddar,Garlic Bread,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+3-44,2024-07-03,NA,Pepper Jack,NA,"Onions, Jalapenos",BBQ
+3-45,2024-07-03,NA,"Cheddar, Melted Pepper Jack","Cheesecake, Cheetos, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+3-46,2024-07-03,Brisket,Pepper Jack,Cheesy Garlic Bread,"Bell Peppers, Breadcrumbs",BBQ
+3-49,2024-07-03,Pulled Pork,Cheddar,Cheesecake,Pineapple,BBQ
+3-48,2024-07-03,"Bacon, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Onions, Breadcrumbs, Tomatoes",BBQ
+3-51,2024-07-03,Pulled Pork,Alfredo,NA,"Breadcrumbs, Broccoli, Onions, Parmesan, Pineapple",Pesto
+3-52,2024-07-03,Brisket,Cheddar,Cheesy Garlic Bread,Breadcrumbs,Garlic Parmesan
+3-53,2024-07-03,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms","Ranch, Hot Honey"
+3-54,2024-07-03,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+3-55,2024-07-03,Ham,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn",NA
+3-56,2024-07-03,"Bacon, Grilled Chicken, Brisket, Pulled Pork","Melted Cheddar, Cheddar Mac, Alfredo",Cheesy Garlic Bread,"Parmesan, Corn, Broccoli, Breadcrumbs",BBQ
+5-4,2024-07-05,Brisket,"Cheddar, Alfredo",Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms",BBQ
+5-5,2024-07-05,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Ranch
+5-6,2024-07-05,Brisket,Cheddar,Garlic Bread,"Corn, Broccoli, Breadcrumbs, Mushrooms",BBQ
+5-8,2024-07-05,Brisket,Pepper Jack,Doritos,"Breadcrumbs, Tomatoes","Garlic Parmesan, BBQ"
+5-7,2024-07-05,Brisket,Alfredo,"Side Mac, Cheesy Garlic Bread","Bell Peppers, Parmesan, Broccoli, Breadcrumbs","Pesto, Garlic Parmesan"
+5-9,2024-07-05,Brisket,Cheddar,Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",BBQ
+5-10,2024-07-05,Brisket,"Cheddar Mac, Melted Pepper Jack",NA,NA,NA
+5-11,2024-07-05,Grilled Chicken,"Melted Cheddar, Cheddar, Cheddar Mac",NA,NA,BBQ
+5-13,2024-07-05,Grilled Chicken,"Alfredo, Pepper Jack",Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, Garlic Parmesan"
+5-15,2024-07-05,Brisket,Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Bell Peppers, Breadcrumbs",BBQ
+5-14,2024-07-05,Bacon,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Broccoli, Mushrooms, Tomatoes",Garlic Parmesan
+5-17,2024-07-05,Brisket,Cheddar,NA,Breadcrumbs,BBQ
+5-16,2024-07-05,Brisket,Cheddar,NA,"Corn, Breadcrumbs",Garlic Parmesan
+5-18,2024-07-05,"Grilled Chicken, Brisket",Cheddar,NA,"Jalapenos, Breadcrumbs",BBQ
+5-19,2024-07-05,NA,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",Pesto
+5-20,2024-07-05,Bacon,Cheddar,NA,NA,Garlic Parmesan
+5-21,2024-07-05,Bacon,Pepper Jack,NA,"Onions, Corn, Jalapenos, Parmesan",Pesto
+5-22,2024-07-05,NA,Cheddar,Cheesy Garlic Bread,NA,NA
+5-23,2024-07-05,Bacon,Pepper Jack,Cheesy Garlic Bread,NA,Hot Honey
+5-24,2024-07-05,Pulled Pork,Pepper Jack,Cheesecake,"Onions, Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+5-25,2024-07-05,NA,Melted Pepper Jack,NA,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers, Mushrooms",Garlic Parmesan
+5-26,2024-07-05,"Ham, Brisket","Alfredo, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Jalapenos, Onions, Parmesan, Mushrooms","Buffalo, Hot Honey"
+5-29,2024-07-05,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli",NA
+5-27,2024-07-05,Brisket,Alfredo,NA,"Parmesan, Mushrooms",BBQ
+5-28,2024-07-05,Brisket,Alfredo,Garlic Bread,NA,BBQ
+5-30,2024-07-05,"Pulled Pork, Brisket",Pepper Jack,"Garlic Bread, Cheesecake, Cheesy Garlic Bread","Jalapenos, Broccoli",BBQ
+5-31,2024-07-05,NA,Pepper Jack,"Cheesecake, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Garlic Parmesan
+5-32,2024-07-05,Grilled Chicken,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+5-34,2024-07-05,Brisket,"Pepper Jack Mac, Melted Pepper Jack",Garlic Bread,Broccoli,NA
+5-35,2024-07-05,"Bacon, Grilled Chicken",Pepper Jack,Cheesy Garlic Bread,NA,"Buffalo, Ranch"
+5-37,2024-07-05,Brisket,Cheddar,NA,"Bell Peppers, Tomatoes",NA
+5-38,2024-07-05,"Bacon, Brisket",Alfredo,NA,Parmesan,NA
+5-1,2024-07-05,NA,NA,Cheesy Garlic Bread,NA,NA
+5-39,2024-07-05,Brisket,Cheddar,NA,"Onions, Breadcrumbs, Jalapenos","Buffalo, Ranch"
+5-40,2024-07-05,Grilled Chicken,Cheddar,NA,NA,NA
+5-41,2024-07-05,"Bacon, Brisket",Pepper Jack,NA,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs","Buffalo, Ranch"
+5-42,2024-07-05,Grilled Chicken,Cheddar,Garlic Bread,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan","Ranch, Garlic Parmesan"
+5-44,2024-07-05,NA,Alfredo,NA,"Corn, Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+5-43,2024-07-05,Brisket,Cheddar,Garlic Bread,"Onions, Parmesan, Broccoli, Tomatoes",Pesto
+5-45,2024-07-05,Brisket,Cheddar,NA,"Corn, Tomatoes, Onions, Bell Peppers, Parmesan, Mushrooms",Hot Honey
+6-6,2024-07-06,Brisket,Alfredo,NA,"Jalapenos, Corn, Bell Peppers, Breadcrumbs",BBQ
+6-7,2024-07-06,NA,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+6-8,2024-07-06,"Grilled Chicken, Ham, Brisket","Melted Cheddar, Cheddar, Alfredo",NA,"Onions, Broccoli, Bell Peppers, Breadcrumbs","Pesto, BBQ"
+6-15,2024-07-06,Brisket,"Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Jalapenos, Bell Peppers, Tomatoes",BBQ
+6-18,2024-07-06,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+6-16,2024-07-06,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+6-17,2024-07-06,NA,NA,Side Mac,NA,NA
+6-19,2024-07-06,"Bacon, Brisket","Melted Cheddar, Cheddar, Pepper Jack","Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+6-21,2024-07-06,"Bacon, Brisket",Cheddar,NA,"Onions, Parmesan, Breadcrumbs","Pesto, Garlic Parmesan"
+6-22,2024-07-06,"Pulled Pork, Brisket","Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Parmesan, Pineapple, Mushrooms","Ranch, BBQ"
+6-24,2024-07-06,Brisket,Alfredo,Cheesy Garlic Bread,"Onions, Parmesan, Broccoli, Mushrooms",Buffalo
+6-23,2024-07-06,Brisket,Cheddar,NA,"Onions, Corn",BBQ
+6-25,2024-07-06,"Pulled Pork, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,Jalapenos,"Ranch, BBQ"
+6-26,2024-07-06,NA,Alfredo,Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+6-27,2024-07-06,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+6-28,2024-07-06,NA,Cheddar,NA,"Parmesan, Breadcrumbs",Hot Honey
+6-30,2024-07-06,Brisket,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+6-31,2024-07-06,Brisket,Cheddar,Side Mac,Breadcrumbs,NA
+6-29,2024-07-06,"Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Broccoli, Breadcrumbs","Garlic Parmesan, BBQ"
+6-32,2024-07-06,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Mushrooms","Buffalo, Garlic Parmesan"
+6-34,2024-07-06,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Bell Peppers, Jalapenos","Ranch, Hot Honey"
+6-36,2024-07-06,Grilled Chicken,Cheddar,"Garlic Bread, Cheesecake",Mushrooms,NA
+6-37,2024-07-06,Grilled Chicken,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Bell Peppers, Parmesan","Buffalo, Pesto, Ranch"
+6-38,2024-07-06,NA,Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",NA
+6-39,2024-07-06,Brisket,Alfredo,NA,"Onions, Parmesan, Pineapple, Jalapenos",BBQ
+6-40,2024-07-06,Brisket,"Cheddar, Pepper Jack",NA,"Onions, Bell Peppers, Jalapenos","Ranch, BBQ"
+6-43,2024-07-06,"Bacon, Pulled Pork","Cheddar, Pepper Jack, Alfredo",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Mushrooms","Pesto, Garlic Parmesan, BBQ"
+6-42,2024-07-06,Grilled Chicken,Alfredo,NA,"Bell Peppers, Broccoli, Breadcrumbs",Garlic Parmesan
+6-41,2024-07-06,NA,"Melted Cheddar, Cheddar Mac",NA,"Onions, Broccoli, Mushrooms",Buffalo
+6-46,2024-07-06,Brisket,Cheddar,NA,"Onions, Parmesan, Broccoli",Pesto
+6-44,2024-07-06,"Bacon, Brisket",Cheddar,Garlic Bread,Onions,"Ranch, BBQ"
+6-45,2024-07-06,"Bacon, Brisket",Cheddar,Garlic Bread,Breadcrumbs,Garlic Parmesan
+6-48,2024-07-06,"Bacon, Grilled Chicken",Alfredo,NA,Parmesan,"Garlic Parmesan, BBQ, Hot Honey"
+6-49,2024-07-06,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes",BBQ
+6-50,2024-07-06,Grilled Chicken,Alfredo,NA,"Broccoli, Mushrooms",Pesto
+6-51,2024-07-06,"Bacon, Grilled Chicken",Alfredo,NA,"Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+6-53,2024-07-06,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Corn, Parmesan",Buffalo
+6-54,2024-07-06,"Bacon, Grilled Chicken","Pepper Jack Mac, Melted Pepper Jack",Lays Classic,"Parmesan, Breadcrumbs",BBQ
+6-56,2024-07-06,Bacon,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+6-59,2024-07-06,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+7-1,2024-07-07,Grilled Chicken,Melted Cheddar,Garlic Bread,NA,Pesto
+7-9,2024-07-07,Bacon,Pepper Jack,NA,Broccoli,Hot Honey
+7-8,2024-07-07,Brisket,Cheddar,NA,"Jalapenos, Corn",Hot Honey
+7-14,2024-07-07,NA,Cheddar,Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Tomatoes",Garlic Parmesan
+7-15,2024-07-07,Brisket,Pepper Jack,NA,Bell Peppers,Garlic Parmesan
+7-17,2024-07-07,Grilled Chicken,Alfredo,NA,"Tomatoes, Onions, Jalapenos, Bell Peppers, Pineapple, Mushrooms",Garlic Parmesan
+7-18,2024-07-07,Grilled Chicken,Pepper Jack,NA,"Onions, Jalapenos","BBQ, Hot Honey"
+7-19,2024-07-07,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+7-20,2024-07-07,NA,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",NA
+7-16,2024-07-07,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+7-22,2024-07-07,"Bacon, Grilled Chicken, Pulled Pork","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Garlic Parmesan, Hot Honey"
+7-23,2024-07-07,Pulled Pork,Cheddar,Cheesy Garlic Bread,Corn,BBQ
+7-24,2024-07-07,"Bacon, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan, BBQ"
+7-26,2024-07-07,Grilled Chicken,"Melted Cheddar, Alfredo Mac",Garlic Bread,Breadcrumbs,Garlic Parmesan
+7-25,2024-07-07,"Grilled Chicken, Ham, Brisket",Cheddar,"Garlic Bread, Cheesecake, Cheesy Garlic Bread","Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan","Buffalo, Ranch, Garlic Parmesan, BBQ"
+7-27,2024-07-07,NA,Alfredo,NA,"Onions, Broccoli",BBQ
+7-29,2024-07-07,Bacon,Alfredo,NA,"Corn, Broccoli, Onions, Parmesan, Mushrooms",Hot Honey
+7-31,2024-07-07,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Pineapple",Garlic Parmesan
+7-32,2024-07-07,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Parmesan",BBQ
+7-33,2024-07-07,"Bacon, Pulled Pork",MIX,NA,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan","Buffalo, Ranch, Garlic Parmesan"
+7-36,2024-07-07,"Bacon, Brisket",Pepper Jack,Cheesy Garlic Bread,"Onions, Corn, Jalapenos, Parmesan",Hot Honey
+7-35,2024-07-07,"Grilled Chicken, Brisket, Pulled Pork",Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Buffalo, BBQ"
+7-37,2024-07-07,Bacon,Cheddar,NA,"Parmesan, Corn, Pineapple",Garlic Parmesan
+7-38,2024-07-07,Bacon,MIX,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+7-40,2024-07-07,NA,NA,Garlic Bread,NA,NA
+7-41,2024-07-07,Pulled Pork,"Cheddar, Pepper Jack","Garlic Bread, Cheesecake","Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan",BBQ
+7-43,2024-07-07,NA,"Chicken Alfredo (Alfredo, Chicken, Broccoli, Pesto)",NA,NA,NA
+7-42,2024-07-07,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Parmesan, Onions, Breadcrumbs","Buffalo, Ranch, BBQ, Hot Honey"
+7-45,2024-07-07,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+7-46,2024-07-07,Brisket,Alfredo,NA,NA,BBQ
+7-47,2024-07-07,Brisket,Pepper Jack,Garlic Bread,"Onions, Jalapenos",Ranch
+7-48,2024-07-07,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Corn, Pineapple",BBQ
+7-49,2024-07-07,Grilled Chicken,Pepper Jack,Any Bag Of Chips,"Onions, Broccoli",Garlic Parmesan
+7-50,2024-07-07,Brisket,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Corn, Broccoli, Breadcrumbs","Pesto, Garlic Parmesan"
+7-52,2024-07-07,NA,Alfredo,Cheesy Garlic Bread,Broccoli,Buffalo
+7-53,2024-07-07,Grilled Chicken,Pepper Jack,NA,"Onions, Corn, Breadcrumbs, Mushrooms",Garlic Parmesan
+9-2,2024-07-09,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,Corn,"Buffalo, Ranch"
+9-3,2024-07-09,Pulled Pork,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Parmesan,BBQ
+9-4,2024-07-09,NA,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",Pesto
+9-5,2024-07-09,Bacon,Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+9-7,2024-07-09,Brisket,Pepper Jack,NA,"Onions, Broccoli, Mushrooms",BBQ
+9-6,2024-07-09,NA,"Melted Cheddar, Alfredo",Cheesecake,Tomatoes,NA
+9-8,2024-07-09,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",Garlic Bread,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+9-10,2024-07-09,Grilled Chicken,Cheddar,NA,"Corn, Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Hot Honey"
+9-11,2024-07-09,Bacon,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan",Ranch
+9-12,2024-07-09,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Tomatoes",Ranch
+9-13,2024-07-09,Grilled Chicken,"Melted Cheddar, Alfredo Mac",NA,Mushrooms,Garlic Parmesan
+9-14,2024-07-09,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Bell Peppers, Mushrooms, Tomatoes","Buffalo, Ranch"
+9-15,2024-07-09,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Ranch, BBQ"
+9-17,2024-07-09,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+9-16,2024-07-09,Brisket,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Onions, Jalapenos, Mushrooms",Pesto
+9-18,2024-07-09,"Grilled Chicken, Brisket",Pepper Jack,"Side Mac, Cheesecake","Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, BBQ"
+9-19,2024-07-09,Brisket,"Melted Cheddar, Cheddar, Cheddar Mac",NA,"Onions, Parmesan, Breadcrumbs, Jalapenos","Garlic Parmesan, BBQ"
+9-20,2024-07-09,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Corn, Broccoli",BBQ
+9-22,2024-07-09,Grilled Chicken,Cheddar,Side Mac,"Broccoli, Tomatoes",NA
+9-23,2024-07-09,Brisket,Pepper Jack,Cheesecake,"Parmesan, Breadcrumbs",Garlic Parmesan
+9-24,2024-07-09,"Bacon, Grilled Chicken",Cheddar,Cheesecake,Jalapenos,Buffalo
+9-21,2024-07-09,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",NA
+9-25,2024-07-09,Grilled Chicken,Alfredo,Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+9-28,2024-07-09,Pulled Pork,Cheddar,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs","Ranch, BBQ"
+9-26,2024-07-09,Grilled Chicken,Cheddar,NA,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Pesto, Ranch"
+9-29,2024-07-09,Bacon,"Alfredo Mac, Melted Parmesan, Alfredo","Garlic Bread, Cheesecake, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+9-30,2024-07-09,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",NA
+9-31,2024-07-09,Grilled Chicken,Pepper Jack,NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Mushrooms",NA
+9-32,2024-07-09,"Ham, Grilled Chicken",Cheddar,Garlic Bread,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+9-33,2024-07-09,Grilled Chicken,"Melted Pepper Jack, Alfredo Mac",Cheesy Garlic Bread,Parmesan,"Buffalo, Ranch"
+9-34,2024-07-09,Grilled Chicken,Cheddar,Garlic Bread,"Corn, Breadcrumbs",Garlic Parmesan
+9-35,2024-07-09,NA,MIX,NA,NA,Garlic Parmesan
+9-37,2024-07-09,Brisket,Cheddar,Cheesecake,"Parmesan, Breadcrumbs, Mushrooms",Buffalo
+9-38,2024-07-09,Bacon,Alfredo,Cheesy Garlic Bread,"Jalapenos, Mushrooms",Hot Honey
+9-40,2024-07-09,Brisket,Cheddar,Garlic Bread,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+9-41,2024-07-09,Pulled Pork,Cheddar,Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan","Garlic Parmesan, BBQ"
+9-42,2024-07-09,NA,NA,"Garlic Bread, Cheesy Garlic Bread",NA,NA
+9-43,2024-07-09,NA,Cheddar,NA,Broccoli,NA
+9-44,2024-07-09,"Grilled Chicken, Brisket, Pulled Pork","Cheddar, Alfredo",Cheesy Garlic Bread,Parmesan,BBQ
+9-45,2024-07-09,Bacon,Pepper Jack,NA,"Jalapenos, Parmesan, Breadcrumbs",BBQ
+9-46,2024-07-09,Grilled Chicken,"Cheddar, Pepper Jack, Alfredo",Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Pesto, Garlic Parmesan"
+9-48,2024-07-09,Pulled Pork,Cheddar,NA,"Corn, Onions, Parmesan, Pineapple, Mushrooms",Hot Honey
+9-49,2024-07-09,"Bacon, Grilled Chicken, Pulled Pork",Pepper Jack,Cheesy Garlic Bread,"Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+9-50,2024-07-09,Grilled Chicken,Pepper Jack,Garlic Bread,"Bell Peppers, Corn, Broccoli, Tomatoes",Buffalo
+9-52,2024-07-09,Brisket,"Melted Cheddar, Cheddar",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Parmesan","Pesto, BBQ"
+9-53,2024-07-09,Brisket,"Melted Cheddar, Cheddar",NA,NA,BBQ
+9-54,2024-07-09,Brisket,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+9-55,2024-07-09,"Bacon, Brisket","Pepper Jack Mac, Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Ranch
+9-56,2024-07-09,NA,Melted Cheddar,Any Bag Of Chips,NA,NA
+9-57,2024-07-09,NA,"Melted Cheddar, Alfredo Mac",Cheesecake,NA,NA
+9-58,2024-07-09,Bacon,Alfredo,Cheesecake,Mushrooms,Hot Honey
+9-61,2024-07-09,Ham,Cheddar,NA,"Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Ranch
+9-59,2024-07-09,Bacon,Cheddar,NA,"Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan","Garlic Parmesan, Ranch"
+9-62,2024-07-09,"Bacon, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Pesto, Garlic Parmesan"
+10-2,2024-07-10,Grilled Chicken,Cheddar,NA,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan","Buffalo, Garlic Parmesan"
+10-3,2024-07-10,Brisket,Pepper Jack,NA,"Onions, Jalapenos",NA
+10-6,2024-07-10,"Bacon, Brisket",Melted Cheddar,NA,"Onions, Parmesan, Jalapenos","Garlic Parmesan, BBQ"
+10-5,2024-07-10,"Bacon, Brisket",Melted Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Garlic Parmesan, BBQ"
+10-4,2024-07-10,"Grilled Chicken, Brisket","Melted Pepper Jack, Melted Parmesan",Cheesecake,"Corn, Breadcrumbs, Jalapenos, Onions, Bell Peppers","Garlic Parmesan, Pesto, BBQ"
+10-7,2024-07-10,"Pulled Pork, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+10-8,2024-07-10,Brisket,Alfredo,NA,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs","Ranch, BBQ"
+10-9,2024-07-10,Brisket,Pepper Jack,Garlic Bread,"Onions, Jalapenos",BBQ
+10-11,2024-07-10,Brisket,Cheddar,NA,"Parmesan, Corn, Pineapple","Garlic Parmesan, Hot Honey"
+10-10,2024-07-10,Brisket,"Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",BBQ
+10-12,2024-07-10,Grilled Chicken,Alfredo,NA,"Broccoli, Mushrooms",Buffalo
+10-13,2024-07-10,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,Parmesan,BBQ
+10-15,2024-07-10,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",NA
+10-16,2024-07-10,"Ham, Brisket",Cheddar,"Garlic Bread, Cheesecake","Parmesan, Breadcrumbs",NA
+10-17,2024-07-10,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Breadcrumbs, Broccoli, Jalapenos, Bell Peppers, Mushrooms","Pesto, Garlic Parmesan"
+10-18,2024-07-10,Bacon,Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Parmesan, Mushrooms","Pesto, BBQ"
+10-20,2024-07-10,Grilled Chicken,Cheddar,Cheesy Garlic Bread,Breadcrumbs,"Buffalo, Ranch"
+10-19,2024-07-10,NA,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Jalapenos, Mushrooms","Garlic Parmesan, Ranch"
+10-21,2024-07-10,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+10-22,2024-07-10,Brisket,Pepper Jack,NA,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",BBQ
+10-23,2024-07-10,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Onions, Pineapple, Parmesan","BBQ, Hot Honey"
+10-24,2024-07-10,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms",NA
+10-25,2024-07-10,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Jalapenos",Garlic Parmesan
+10-26,2024-07-10,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Pesto
+10-28,2024-07-10,NA,"Pepper Jack Mac, MIX, Melted Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, Ranch, Garlic Parmesan"
+10-35,2024-07-10,"Bacon, Brisket",Cheddar,Cheesecake,Parmesan,Ranch
+10-36,2024-07-10,Bacon,Cheddar,Cheesy Garlic Bread,Breadcrumbs,BBQ
+10-40,2024-07-10,Brisket,Cheddar,"Garlic Bread, Side Mac",Parmesan,"Buffalo, BBQ"
+10-39,2024-07-10,Bacon,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+10-41,2024-07-10,Brisket,Pepper Jack,Cheesecake,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan",BBQ
+10-42,2024-07-10,"Grilled Chicken, Brisket, Pulled Pork",Pepper Jack,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Corn, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+10-43,2024-07-10,NA,Cheddar,NA,"Onions, Tomatoes",Pesto
+10-45,2024-07-10,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+10-44,2024-07-10,Brisket,Cheddar,NA,"Jalapenos, Breadcrumbs",BBQ
+10-47,2024-07-10,Grilled Chicken,"Melted Cheddar, Cheddar Mac",NA,Breadcrumbs,Buffalo
+10-49,2024-07-10,"Pulled Pork, Grilled Chicken","Melted Cheddar, Pepper Jack",NA,Breadcrumbs,Pesto
+10-46,2024-07-10,Brisket,Cheddar,Garlic Bread,"Onions, Corn, Bell Peppers, Tomatoes",Ranch
+10-48,2024-07-10,Brisket,Alfredo,NA,"Onions, Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+10-50,2024-07-10,Brisket,Cheddar,NA,"Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms","Buffalo, Garlic Parmesan"
+10-51,2024-07-10,"Bacon, Pulled Pork","Cheddar, Alfredo Mac, Melted Parmesan","Side Mac, Cheesecake, Cheesy Garlic Bread",Parmesan,NA
+10-53,2024-07-10,"Bacon, Grilled Chicken","Melted Cheddar, Cheddar",NA,"Parmesan, Corn","Buffalo, Garlic Parmesan"
+10-52,2024-07-10,Brisket,"Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Onions, Parmesan, Mushrooms","Ranch, BBQ"
+10-55,2024-07-10,Ham,Cheddar,NA,NA,Hot Honey
+10-56,2024-07-10,"Bacon, Grilled Chicken",Pepper Jack,NA,Parmesan,"Buffalo, Ranch"
+10-57,2024-07-10,"Bacon, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Onions, Breadcrumbs, Mushrooms","Ranch, BBQ"
+10-59,2024-07-10,Brisket,Alfredo,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+10-60,2024-07-10,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Pesto, Ranch, Garlic Parmesan"
+10-61,2024-07-10,Grilled Chicken,Cheddar,Cheesy Garlic Bread,Breadcrumbs,Buffalo
+10-63,2024-07-10,"Bacon, Brisket",Cheddar,Any Bag Of Chips,"Parmesan, Corn",Ranch
+10-62,2024-07-10,Brisket,Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Pesto
+10-64,2024-07-10,Brisket,"Melted Cheddar, Alfredo Mac, Alfredo",Cheesy Garlic Bread,Breadcrumbs,Ranch
+10-66,2024-07-10,NA,"Cheddar, Alfredo",NA,"Onions, Parmesan, Tomatoes, Mushrooms",Garlic Parmesan
+10-65,2024-07-10,"Bacon, Pulled Pork, Grilled Chicken, Brisket","Cheddar, Melted Parmesan","Side Mac, Cheesy Garlic Bread","Jalapenos, Parmesan, Pineapple, Breadcrumbs","Garlic Parmesan, BBQ, Hot Honey"
+10-69,2024-07-10,NA,Cheddar,"Cheesy Garlic Bread, Cheesecake",NA,NA
+10-71,2024-07-10,"Bacon, Brisket","Cheddar, Melted Pepper Jack","Cheesy Garlic Bread, Cheesecake","Parmesan, Breadcrumbs",BBQ
+10-72,2024-07-10,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Ranch
+10-73,2024-07-10,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Onions, Parmesan, Jalapenos",Garlic Parmesan
+10-74,2024-07-10,Pulled Pork,Alfredo,Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan",Garlic Parmesan
+10-75,2024-07-10,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Bell Peppers, Parmesan, Pineapple, Mushrooms",Buffalo
+10-76,2024-07-10,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Corn, Breadcrumbs, Jalapenos, Parmesan, Pineapple","Buffalo, Garlic Parmesan"
+10-78,2024-07-10,Grilled Chicken,Cheddar,"Garlic Bread, Cheesy Garlic Bread",Parmesan,NA
+10-79,2024-07-10,"Bacon, Brisket","Cheddar, Melted Pepper Jack",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs","Ranch, BBQ"
+10-80,2024-07-10,Grilled Chicken,Cheddar,Garlic Bread,"Corn, Parmesan, Breadcrumbs, Jalapenos",Buffalo
+10-81,2024-07-10,Brisket,Cheddar,Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos",BBQ
+10-77,2024-07-10,Brisket,Cheddar,NA,"Breadcrumbs, Mushrooms",BBQ
+10-83,2024-07-10,Brisket,Cheddar,Cheesy Garlic Bread,"Broccoli, Breadcrumbs",NA
+10-84,2024-07-10,"Bacon, Pulled Pork",Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+10-86,2024-07-10,Brisket,Cheddar,Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+10-87,2024-07-10,Brisket,"Cheddar, Alfredo",Cheesy Garlic Bread,"Onions, Parmesan, Jalapenos",Garlic Parmesan
+10-90,2024-07-10,"Bacon, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms",Ranch
+10-91,2024-07-10,NA,Cheddar,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+10-92,2024-07-10,Bacon,Melted Cheddar,NA,Parmesan,Pesto
+11-2,2024-07-11,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Corn","Ranch, Hot Honey"
+11-4,2024-07-11,NA,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",Pesto
+11-3,2024-07-11,Grilled Chicken,Pepper Jack,NA,NA,BBQ
+11-5,2024-07-11,Brisket,Cheddar,NA,"Onions, Corn, Bell Peppers",BBQ
+11-6,2024-07-11,Grilled Chicken,Cheddar,NA,Jalapenos,Buffalo
+11-7,2024-07-11,NA,Melted Cheddar,NA,Bell Peppers,Pesto
+11-8,2024-07-11,Brisket,"Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Ranch, Garlic Parmesan"
+11-9,2024-07-11,"Bacon, Ham",Cheddar,NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Pineapple",Hot Honey
+11-10,2024-07-11,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Pesto, BBQ, Hot Honey"
+11-11,2024-07-11,NA,Cheddar,NA,"Parmesan, Mushrooms",Garlic Parmesan
+11-13,2024-07-11,Bacon,Cheddar,Cheesy Garlic Bread,"Corn, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+11-12,2024-07-11,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",BBQ
+11-15,2024-07-11,NA,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+11-14,2024-07-11,"Bacon, Grilled Chicken","Cheddar, Pepper Jack",NA,Breadcrumbs,BBQ
+11-16,2024-07-11,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+11-17,2024-07-11,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+11-19,2024-07-11,Brisket,Cheddar,NA,Parmesan,"Buffalo, Ranch, Garlic Parmesan"
+11-20,2024-07-11,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Garlic Parmesan, Hot Honey"
+11-21,2024-07-11,Grilled Chicken,Alfredo,Garlic Bread,NA,NA
+11-22,2024-07-11,Bacon,Pepper Jack,NA,"Onions, Bell Peppers, Mushrooms","Garlic Parmesan, BBQ"
+11-23,2024-07-11,"Pulled Pork, Brisket",Pepper Jack,NA,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Pineapple, Mushrooms",Ranch
+11-24,2024-07-11,"Grilled Chicken, Brisket","Melted Cheddar, Melted Pepper Jack",NA,"Jalapenos, Parmesan, Tomatoes","Buffalo, Ranch, BBQ"
+11-25,2024-07-11,NA,"Classic Mac (Cheddar, Breadcrumbs, Garlic Parmesan)",NA,NA,NA
+11-27,2024-07-11,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Broccoli",Garlic Parmesan
+11-28,2024-07-11,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+11-29,2024-07-11,Brisket,Alfredo,NA,"Jalapenos, Broccoli",Ranch
+11-31,2024-07-11,Grilled Chicken,Alfredo,NA,"Parmesan, Breadcrumbs",NA
+11-32,2024-07-11,NA,Alfredo,Cheesy Garlic Bread,"Onions, Corn, Bell Peppers, Jalapenos",NA
+11-33,2024-07-11,Brisket,Alfredo,NA,"Corn, Tomatoes, Broccoli, Onions, Pineapple, Mushrooms",Hot Honey
+11-34,2024-07-11,Bacon,Pepper Jack,Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers",Pesto
+11-35,2024-07-11,"Bacon, Pulled Pork, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread",Breadcrumbs,BBQ
+11-38,2024-07-11,"Bacon, Grilled Chicken, Ham",Cheddar,"Garlic Bread, Any Bag Of Chips","Bell Peppers, Breadcrumbs, Tomatoes",Garlic Parmesan
+11-36,2024-07-11,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,Breadcrumbs,Buffalo
+11-39,2024-07-11,Grilled Chicken,"Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs","Buffalo, Garlic Parmesan"
+11-41,2024-07-11,Grilled Chicken,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Broccoli,Garlic Parmesan
+11-42,2024-07-11,NA,Cheddar,"Cheesecake, Cheesy Garlic Bread","Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+11-43,2024-07-11,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,NA,BBQ
+11-44,2024-07-11,"Grilled Chicken, Brisket","Alfredo Mac, Melted Parmesan, Pepper Jack",NA,"Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+11-46,2024-07-11,NA,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Pesto, Garlic Parmesan"
+11-45,2024-07-11,Bacon,"Cheddar, Alfredo",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Tomatoes","Ranch, Hot Honey"
+11-48,2024-07-11,Brisket,Melted Cheddar,NA,"Corn, Pineapple","Pesto, Garlic Parmesan"
+11-47,2024-07-11,"Grilled Chicken, Brisket","Cheddar, Alfredo","Cheesecake, Cheesy Garlic Bread","Parmesan, Broccoli","Garlic Parmesan, BBQ"
+11-52,2024-07-11,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs",BBQ
+11-53,2024-07-11,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+11-51,2024-07-11,"Bacon, Grilled Chicken","Cheddar, Alfredo","Garlic Bread, Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Corn, Broccoli, Breadcrumbs","BBQ, Hot Honey"
+11-54,2024-07-11,NA,Cheddar,"Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Broccoli, Jalapenos, Bell Peppers, Parmesan",Buffalo
+11-55,2024-07-11,"Bacon, Pulled Pork","Cheddar, Melted Pepper Jack",NA,Jalapenos,"Ranch, BBQ"
+11-56,2024-07-11,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms","Buffalo, Garlic Parmesan"
+11-57,2024-07-11,"Bacon, Brisket","Melted Pepper Jack, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers","Buffalo, Pesto"
+11-59,2024-07-11,Brisket,Cheddar,Cheesy Garlic Bread,Onions,"Garlic Parmesan, BBQ"
+11-58,2024-07-11,"Bacon, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",Garlic Parmesan
+11-60,2024-07-11,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Breadcrumbs",Buffalo
+11-61,2024-07-11,"Pulled Pork, Grilled Chicken","Cheddar, Alfredo",NA,"Parmesan, Broccoli",BBQ
+11-62,2024-07-11,Bacon,"Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Corn, Onions",Ranch
+11-63,2024-07-11,"Pulled Pork, Brisket",Pepper Jack,Cheesy Garlic Bread,"Corn, Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms",BBQ
+11-64,2024-07-11,"Ham, Brisket",Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan","Pesto, BBQ"
+11-66,2024-07-11,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs","Ranch, BBQ"
+11-65,2024-07-11,"Bacon, Ham, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Corn, Broccoli, Onions, Pineapple, Mushrooms","Pesto, Hot Honey"
+11-69,2024-07-11,Grilled Chicken,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Parmesan,Buffalo
+11-70,2024-07-11,Brisket,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Bell Peppers, Breadcrumbs, Tomatoes",Hot Honey
+11-71,2024-07-11,Grilled Chicken,Cheddar,NA,Breadcrumbs,Buffalo
+11-72,2024-07-11,NA,Cheddar,NA,"Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+11-73,2024-07-11,Bacon,Cheddar,NA,Bell Peppers,NA
+11-77,2024-07-11,Grilled Chicken,Alfredo,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan, Mushrooms",Hot Honey
+11-75,2024-07-11,Brisket,Alfredo,"Garlic Bread, Cheesy Garlic Bread",Parmesan,BBQ
+11-76,2024-07-11,Grilled Chicken,"Pepper Jack Mac, Melted Cheddar",NA,Bell Peppers,Garlic Parmesan
+11-78,2024-07-11,Ham,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Jalapenos, Pineapple, Mushrooms","Garlic Parmesan, Hot Honey"
+11-79,2024-07-11,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Onions, Corn, Breadcrumbs, Mushrooms",NA
+11-82,2024-07-11,NA,"Garden Mac (Cheddar, Broccoli, Tomatos, Ranch)",NA,NA,NA
+12-2,2024-07-12,NA,"Melted Pepper Jack, Alfredo Mac",Cheesy Garlic Bread,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, Ranch, Garlic Parmesan"
+12-3,2024-07-12,"Grilled Chicken, Brisket","Melted Cheddar, Pepper Jack",Cheesy Garlic Bread,"Onions, Bell Peppers",BBQ
+12-5,2024-07-12,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Corn, Bell Peppers, Tomatoes",NA
+12-4,2024-07-12,NA,Pepper Jack,NA,"Parmesan, Corn, Broccoli, Breadcrumbs","Pesto, Garlic Parmesan"
+12-11,2024-07-12,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+12-7,2024-07-12,Grilled Chicken,Cheddar,Cheesy Garlic Bread,Onions,BBQ
+12-14,2024-07-12,Pulled Pork,Cheddar,NA,Pineapple,BBQ
+12-16,2024-07-12,Brisket,Cheddar,NA,NA,BBQ
+12-17,2024-07-12,Pulled Pork,Cheddar,Garlic Bread,"Onions, Corn, Bell Peppers, Tomatoes",BBQ
+12-12,2024-07-12,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,"Parmesan, Corn, Broccoli, Mushrooms",NA
+12-18,2024-07-12,Grilled Chicken,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",Hot Honey
+12-19,2024-07-12,"Grilled Chicken, Ham",Cheddar,Cheesy Garlic Bread,"Onions, Bell Peppers, Breadcrumbs",BBQ
+12-20,2024-07-12,Grilled Chicken,Cheddar,Garlic Bread,"Mushrooms, Breadcrumbs, Tomatoes",Garlic Parmesan
+12-22,2024-07-12,"Grilled Chicken, Brisket","Alfredo, Pepper Jack",NA,"Corn, Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+12-23,2024-07-12,NA,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+12-27,2024-07-12,Brisket,"Melted Cheddar, Cheddar",NA,"Corn, Tomatoes",BBQ
+12-26,2024-07-12,NA,Cheddar,NA,Parmesan,Pesto
+12-29,2024-07-12,"Pulled Pork, Brisket",Pepper Jack,NA,"Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch"
+12-28,2024-07-12,"Bacon, Ham",Alfredo,NA,"Breadcrumbs, Broccoli, Jalapenos, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+12-30,2024-07-12,Brisket,Cheddar,NA,"Bell Peppers, Parmesan, Broccoli, Breadcrumbs",BBQ
+12-31,2024-07-12,Bacon,Alfredo,Cheesy Garlic Bread,Parmesan,"Ranch, Garlic Parmesan"
+12-32,2024-07-12,NA,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+12-33,2024-07-12,Brisket,Cheddar,NA,"Parmesan, Corn, Breadcrumbs, Mushrooms",BBQ
+12-35,2024-07-12,"Grilled Chicken, Brisket, Pulled Pork","Cheddar, Pepper Jack, Alfredo","Doritos, Lays Barbecue, Cheesy Garlic Bread","Onions, Bell Peppers, Pineapple, Jalapenos","Pesto, Garlic Parmesan, BBQ, Hot Honey"
+12-36,2024-07-12,Pulled Pork,Pepper Jack,NA,"Onions, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+12-34,2024-07-12,"Ham, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Onions, Broccoli","Pesto, Garlic Parmesan"
+12-37,2024-07-12,"Bacon, Brisket",Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+12-38,2024-07-12,"Bacon, Grilled Chicken",Alfredo,Lays Classic,Breadcrumbs,NA
+12-39,2024-07-12,"Ham, Pulled Pork","Cheddar, Pepper Jack",NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms","Ranch, Hot Honey"
+12-41,2024-07-12,Pulled Pork,"Cheddar, Alfredo",Cheesy Garlic Bread,Broccoli,BBQ
+12-42,2024-07-12,"Bacon, Brisket","Melted Cheddar, Cheddar Mac",Garlic Bread,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+12-44,2024-07-12,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+12-43,2024-07-12,Brisket,Melted Pepper Jack,NA,NA,"Garlic Parmesan, BBQ"
+12-45,2024-07-12,NA,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Bell Peppers, Parmesan",Garlic Parmesan
+12-48,2024-07-12,NA,NA,Cheesecake,NA,NA
+12-46,2024-07-12,Grilled Chicken,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",NA
+12-47,2024-07-12,"Bacon, Grilled Chicken",Alfredo,Any Bag Of Chips,"Parmesan, Breadcrumbs",NA
+12-50,2024-07-12,Ham,Alfredo,NA,Onions,"Pesto, Garlic Parmesan"
+12-51,2024-07-12,Brisket,Cheddar,Garlic Bread,"Corn, Broccoli",BBQ
+12-52,2024-07-12,Brisket,"Melted Cheddar, Cheddar",Cheesecake,"Onions, Parmesan, Broccoli",BBQ
+12-55,2024-07-12,"Pulled Pork, Brisket","Cheddar, Pepper Jack",Cheesecake,Jalapenos,"Buffalo, Garlic Parmesan"
+12-56,2024-07-12,Grilled Chicken,Cheddar,NA,"Bell Peppers, Broccoli, Breadcrumbs",Garlic Parmesan
+12-57,2024-07-12,Grilled Chicken,Cheddar,NA,"Bell Peppers, Broccoli",Garlic Parmesan
+12-59,2024-07-12,NA,Cheddar,NA,"Onions, Corn, Breadcrumbs, Parmesan",Garlic Parmesan
+12-58,2024-07-12,"Bacon, Grilled Chicken","Cheddar, Alfredo",Lays Classic,"Onions, Corn","Ranch, Garlic Parmesan"
+12-60,2024-07-12,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, BBQ"
+12-61,2024-07-12,"Bacon, Pulled Pork",Pepper Jack,Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Ranch
+12-62,2024-07-12,Brisket,Pepper Jack,NA,Parmesan,BBQ
+12-65,2024-07-12,Brisket,Cheddar,Garlic Bread,"Onions, Corn, Breadcrumbs, Parmesan",Ranch
+12-64,2024-07-12,Bacon,Cheddar,NA,Corn,BBQ
+12-66,2024-07-12,"Grilled Chicken, Brisket","Melted Pepper Jack, Pepper Jack","Cheesecake, Cheesy Garlic Bread","Parmesan, Tomatoes","BBQ, Hot Honey"
+12-67,2024-07-12,Bacon,Alfredo,NA,"Onions, Parmesan",Hot Honey
+12-68,2024-07-12,Bacon,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Garlic Parmesan, BBQ"
+12-69,2024-07-12,Brisket,"Cheddar, Melted Pepper Jack, Pepper Jack","Cheesy Garlic Bread, Cheesecake","Onions, Pineapple",Hot Honey
+12-70,2024-07-12,"Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs",Buffalo
+12-72,2024-07-12,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions",Garlic Parmesan
+12-73,2024-07-12,NA,Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos","Ranch, Garlic Parmesan"
+12-74,2024-07-12,Bacon,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Pineapple",Hot Honey
+12-75,2024-07-12,Brisket,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+12-77,2024-07-12,Grilled Chicken,Cheddar,Garlic Bread,Breadcrumbs,"Buffalo, Ranch"
+12-76,2024-07-12,Grilled Chicken,Cheddar,NA,Corn,Ranch
+12-79,2024-07-12,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+12-81,2024-07-12,Bacon,Cheddar,NA,"Parmesan, Corn, Breadcrumbs","Buffalo, Garlic Parmesan"
+12-78,2024-07-12,Brisket,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+12-80,2024-07-12,Pulled Pork,Pepper Jack,NA,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+12-82,2024-07-12,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs","Ranch, Garlic Parmesan"
+12-84,2024-07-12,Pulled Pork,Cheddar,NA,"Parmesan, Corn","Ranch, BBQ"
+12-85,2024-07-12,"Bacon, Grilled Chicken, Ham",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+12-86,2024-07-12,Grilled Chicken,Alfredo,Cheesecake,Broccoli,NA
+12-87,2024-07-12,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+12-88,2024-07-12,Pulled Pork,Cheddar,NA,"Corn, Breadcrumbs",BBQ
+12-89,2024-07-12,Grilled Chicken,Cheddar,Cheesy Garlic Bread,Broccoli,Garlic Parmesan
+12-90,2024-07-12,"Bacon, Brisket",Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+12-91,2024-07-12,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Breadcrumbs","Ranch, BBQ"
+12-92,2024-07-12,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs","Pesto, Hot Honey"
+12-94,2024-07-12,Brisket,Alfredo,Cheesy Garlic Bread,Parmesan,Pesto
+12-93,2024-07-12,"Bacon, Grilled Chicken","Cheddar, Pepper Jack, Alfredo",NA,"Jalapenos, Pineapple","Buffalo, BBQ"
+12-96,2024-07-12,Bacon,Cheddar,"Any Bag Of Chips, Cheesy Garlic Bread",Parmesan,NA
+12-95,2024-07-12,"Ham, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Onions, Corn, Breadcrumbs","BBQ, Hot Honey"
+12-97,2024-07-12,"Grilled Chicken, Brisket",Alfredo,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs","Ranch, Garlic Parmesan"
+12-98,2024-07-12,Brisket,Alfredo,Cheesy Garlic Bread,"Onions, Breadcrumbs, Jalapenos",BBQ
+12-1,2024-07-12,NA,NA,Doritos,NA,NA
+13-3,2024-07-13,Ham,Alfredo,NA,Pineapple,NA
+13-4,2024-07-13,"Pulled Pork, Ham","Cheddar, Pepper Jack",NA,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+13-2,2024-07-13,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Pineapple",BBQ
+13-6,2024-07-13,"Grilled Chicken, Pulled Pork",Cheddar,Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",BBQ
+13-7,2024-07-13,Brisket,Cheddar,Garlic Bread,"Parmesan, Corn, Breadcrumbs",Hot Honey
+13-9,2024-07-13,Grilled Chicken,Cheddar,NA,"Bell Peppers, Broccoli",Pesto
+13-8,2024-07-13,Brisket,"Cheddar Mac, Cheddar, Melted Pepper Jack","Any Bag Of Chips, Cheesy Garlic Bread","Jalapenos, Broccoli, Breadcrumbs","Ranch, Hot Honey"
+13-11,2024-07-13,"Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Jalapenos, Broccoli, Mushrooms","Buffalo, Pesto"
+13-12,2024-07-13,NA,Alfredo,NA,Parmesan,Pesto
+13-14,2024-07-13,"Grilled Chicken, Brisket",Pepper Jack,NA,Mushrooms,"Buffalo, Ranch"
+13-15,2024-07-13,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Ranch
+13-16,2024-07-13,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Onions, Jalapenos","Buffalo, Ranch, BBQ"
+13-17,2024-07-13,"Pulled Pork, Grilled Chicken, Brisket","Melted Cheddar, Cheddar, Cheddar Mac, Alfredo",NA,"Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+13-18,2024-07-13,Bacon,Cheddar,Garlic Bread,"Corn, Broccoli, Pineapple, Mushrooms",BBQ
+13-21,2024-07-13,Brisket,"Pepper Jack Mac, Cheddar, Melted Pepper Jack","Garlic Bread, Cheesy Garlic Bread",Parmesan,"Garlic Parmesan, BBQ"
+13-20,2024-07-13,Grilled Chicken,Alfredo,NA,Breadcrumbs,BBQ
+13-19,2024-07-13,Brisket,Pepper Jack,NA,"Onions, Broccoli, Breadcrumbs",BBQ
+13-23,2024-07-13,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Onions, Corn","Pesto, BBQ"
+13-24,2024-07-13,"Grilled Chicken, Brisket, Pulled Pork","Cheddar, Alfredo",NA,"Onions, Broccoli, Corn, Bell Peppers","Garlic Parmesan, BBQ"
+13-22,2024-07-13,"Bacon, Grilled Chicken, Ham",Cheddar,"Side Mac, Cheesy Garlic Bread","Parmesan, Corn, Breadcrumbs","Garlic Parmesan, BBQ"
+13-25,2024-07-13,"Bacon, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan",Ranch
+13-26,2024-07-13,Brisket,Pepper Jack,Cheesy Garlic Bread,"Bell Peppers, Breadcrumbs",BBQ
+13-27,2024-07-13,"Bacon, Grilled Chicken","Cheddar, Alfredo",Garlic Bread,"Corn, Breadcrumbs, Broccoli, Parmesan, Mushrooms","Garlic Parmesan, Ranch"
+13-28,2024-07-13,Brisket,"Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms",Garlic Parmesan
+13-29,2024-07-13,"Grilled Chicken, Pulled Pork","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Garlic Parmesan, BBQ"
+13-30,2024-07-13,Pulled Pork,Cheddar,NA,"Corn, Tomatoes, Jalapenos, Onions, Bell Peppers",BBQ
+13-31,2024-07-13,Brisket,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",Pesto
+13-32,2024-07-13,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+13-33,2024-07-13,Grilled Chicken,Cheddar,Cheesecake,"Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+13-34,2024-07-13,"Bacon, Grilled Chicken","Melted Cheddar, Cheddar",Cheesy Garlic Bread,Breadcrumbs,Garlic Parmesan
+13-35,2024-07-13,"Bacon, Brisket",Pepper Jack,Cheesy Garlic Bread,Jalapenos,BBQ
+13-36,2024-07-13,NA,NA,Cheesecake,NA,NA
+13-37,2024-07-13,"Bacon, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+13-39,2024-07-13,Brisket,Alfredo,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan","Ranch, BBQ"
+13-38,2024-07-13,Brisket,Cheddar,Any Bag Of Chips,"Onions, Parmesan, Broccoli, Breadcrumbs","Ranch, BBQ"
+13-40,2024-07-13,Pulled Pork,Pepper Jack,NA,"Onions, Corn, Bell Peppers",BBQ
+13-41,2024-07-13,Grilled Chicken,Cheddar,Garlic Bread,"Parmesan, Corn, Broccoli, Breadcrumbs",NA
+13-43,2024-07-13,Pulled Pork,Pepper Jack,Cheesecake,"Jalapenos, Corn, Breadcrumbs, Parmesan",Buffalo
+13-42,2024-07-13,"Grilled Chicken, Pulled Pork","Cheddar, Pepper Jack",NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers","Garlic Parmesan, BBQ"
+13-44,2024-07-13,"Bacon, Grilled Chicken","Melted Cheddar, Melted Pepper Jack, Alfredo","Side Mac, Cheesy Garlic Bread","Onions, Parmesan, Broccoli, Breadcrumbs","Ranch, BBQ"
+13-46,2024-07-13,Pulled Pork,Pepper Jack,Any Bag Of Chips,Jalapenos,Garlic Parmesan
+13-48,2024-07-13,Pulled Pork,Pepper Jack,NA,NA,BBQ
+13-50,2024-07-13,Grilled Chicken,"Melted Cheddar, Alfredo Mac",NA,"Parmesan, Breadcrumbs",BBQ
+13-49,2024-07-13,"Pulled Pork, Grilled Chicken",Cheddar,NA,"Bell Peppers, Broccoli, Breadcrumbs, Mushrooms","Buffalo, BBQ"
+13-52,2024-07-13,Brisket,Cheddar,Cheesy Garlic Bread,NA,Garlic Parmesan
+13-53,2024-07-13,Brisket,Alfredo,NA,Parmesan,Buffalo
+13-55,2024-07-13,Pulled Pork,Pepper Jack,"Garlic Bread, Cheesy Garlic Bread",Breadcrumbs,"Buffalo, Ranch"
+13-54,2024-07-13,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+13-56,2024-07-13,Brisket,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Ranch
+13-57,2024-07-13,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Parmesan, Mushrooms",NA
+13-58,2024-07-13,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Corn, Broccoli",NA
+13-59,2024-07-13,Brisket,Cheddar,NA,Onions,"Pesto, Garlic Parmesan"
+13-61,2024-07-13,Grilled Chicken,Pepper Jack,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Hot Honey
+13-65,2024-07-13,Bacon,Cheddar,Garlic Bread,"Onions, Parmesan, Bell Peppers, Mushrooms",Hot Honey
+13-63,2024-07-13,Pulled Pork,Cheddar,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+13-62,2024-07-13,"Bacon, Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+13-64,2024-07-13,"Bacon, Brisket",Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+13-66,2024-07-13,"Grilled Chicken, Brisket","Cheddar, Alfredo","Garlic Bread, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs","Garlic Parmesan, BBQ"
+13-70,2024-07-13,Grilled Chicken,Pepper Jack,NA,"Corn, Broccoli, Jalapenos, Bell Peppers, Mushrooms",NA
+13-69,2024-07-13,Brisket,Cheddar,NA,Corn,Hot Honey
+13-68,2024-07-13,"Bacon, Brisket",Pepper Jack,NA,"Jalapenos, Breadcrumbs",Ranch
+13-67,2024-07-13,"Bacon, Brisket",Cheddar,NA,Onions,BBQ
+13-74,2024-07-13,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",NA
+13-73,2024-07-13,Brisket,Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",BBQ
+13-71,2024-07-13,Bacon,Cheddar,NA,Breadcrumbs,Hot Honey
+13-72,2024-07-13,Brisket,Cheddar,NA,"Onions, Parmesan, Bell Peppers",BBQ
+13-75,2024-07-13,Grilled Chicken,Melted Cheddar,NA,NA,"Buffalo, Ranch"
+13-76,2024-07-13,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Broccoli","Ranch, BBQ"
+13-77,2024-07-13,Brisket,Cheddar,Cheesy Garlic Bread,Onions,"Ranch, BBQ"
+13-79,2024-07-13,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",Buffalo
+13-78,2024-07-13,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs, Mushrooms",NA
+13-87,2024-07-13,"Bacon, Brisket","Melted Cheddar, Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan","Garlic Parmesan, BBQ"
+13-89,2024-07-13,Brisket,Cheddar,NA,"Corn, Tomatoes, Broccoli, Bell Peppers, Parmesan",Hot Honey
+13-90,2024-07-13,Bacon,"Melted Cheddar, Cheddar Mac",NA,"Parmesan, Breadcrumbs",NA
+13-93,2024-07-13,Grilled Chicken,"Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,Jalapenos,"Buffalo, Ranch"
+13-92,2024-07-13,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Ranch, BBQ"
+13-91,2024-07-13,"Bacon, Grilled Chicken","Cheddar Mac, Melted Parmesan, Alfredo","Garlic Bread, Any Bag Of Chips","Parmesan, Breadcrumbs",Garlic Parmesan
+13-94,2024-07-13,NA,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+13-95,2024-07-13,Brisket,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Mushrooms","Pesto, Garlic Parmesan"
+13-100,2024-07-13,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+13-101,2024-07-13,Brisket,Pepper Jack,NA,"Onions, Breadcrumbs",BBQ
+13-103,2024-07-13,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Broccoli",Ranch
+13-102,2024-07-13,Brisket,Cheddar,Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+14-2,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,"Onions, Breadcrumbs",Buffalo
+14-3,2024-07-14,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Corn, Breadcrumbs, Broccoli, Jalapenos, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Garlic Parmesan, BBQ"
+14-4,2024-07-14,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+14-5,2024-07-14,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Onions, Jalapenos, Parmesan, Pineapple","BBQ, Hot Honey"
+14-6,2024-07-14,"Bacon, Brisket","Cheddar Mac, Cheddar, Melted Pepper Jack",NA,"Parmesan, Breadcrumbs","Ranch, BBQ"
+14-7,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Bell Peppers, Parmesan, Mushrooms",BBQ
+14-8,2024-07-14,Brisket,Pepper Jack,NA,"Onions, Broccoli, Breadcrumbs",BBQ
+14-10,2024-07-14,"Grilled Chicken, Pulled Pork",Cheddar,NA,"Onions, Parmesan, Breadcrumbs","Buffalo, BBQ"
+14-12,2024-07-14,Brisket,Pepper Jack,NA,"Onions, Broccoli, Breadcrumbs",BBQ
+14-11,2024-07-14,Ham,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",NA
+14-13,2024-07-14,"Bacon, Pulled Pork, Brisket","Cheddar, Alfredo","Doritos, Lays Barbecue","Tomatoes, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Ranch, Garlic Parmesan, BBQ"
+14-16,2024-07-14,NA,NA,Cheesecake,NA,NA
+14-14,2024-07-14,NA,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-17,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,Parmesan,BBQ
+14-15,2024-07-14,"Bacon, Grilled Chicken, Ham",MIX,NA,"Parmesan, Corn, Pineapple, Breadcrumbs","Garlic Parmesan, Hot Honey"
+14-21,2024-07-14,NA,Cheddar,Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+14-20,2024-07-14,"Grilled Chicken, Brisket",MIX,NA,"Parmesan, Breadcrumbs",NA
+14-22,2024-07-14,"Bacon, Grilled Chicken","Cheddar, Alfredo",NA,"Parmesan, Mushrooms, Breadcrumbs, Tomatoes","Buffalo, Garlic Parmesan"
+14-23,2024-07-14,Grilled Chicken,"Cheddar, Alfredo",Garlic Bread,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan, Hot Honey"
+14-24,2024-07-14,"Pulled Pork, Brisket","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch, Garlic Parmesan"
+14-25,2024-07-14,"Bacon, Pulled Pork","Cheddar, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+14-26,2024-07-14,"Grilled Chicken, Brisket","Pepper Jack, Alfredo",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+14-27,2024-07-14,"Bacon, Pulled Pork, Ham","Cheddar, Alfredo",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs",Pesto
+14-28,2024-07-14,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, Garlic Parmesan"
+14-29,2024-07-14,"Bacon, Grilled Chicken","Cheddar, Alfredo",NA,"Corn, Tomatoes, Onions, Jalapenos, Pineapple","Pesto, Ranch, Garlic Parmesan"
+14-30,2024-07-14,Brisket,Cheddar,Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch"
+14-31,2024-07-14,"Pulled Pork, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Tomatoes, Onions, Jalapenos, Bell Peppers, Mushrooms","BBQ, Hot Honey"
+14-34,2024-07-14,"Bacon, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan","Garlic Parmesan, BBQ"
+14-33,2024-07-14,NA,NA,Cheesecake,NA,NA
+14-35,2024-07-14,Grilled Chicken,"Pepper Jack Mac, MIX, Melted Pepper Jack",NA,"Jalapenos, Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+14-32,2024-07-14,"Bacon, Ham","Melted Cheddar, Alfredo Mac",Any Bag Of Chips,Parmesan,Garlic Parmesan
+14-36,2024-07-14,Grilled Chicken,MIX,NA,"Onions, Corn, Bell Peppers, Breadcrumbs","Buffalo, Ranch"
+14-39,2024-07-14,Ham,Cheddar,NA,Corn,Garlic Parmesan
+14-40,2024-07-14,"Pulled Pork, Brisket",Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+14-41,2024-07-14,"Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+14-47,2024-07-14,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,"Onions, Corn, Breadcrumbs, Parmesan",BBQ
+14-43,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Buffalo, Ranch, BBQ"
+14-46,2024-07-14,"Bacon, Brisket","Cheddar, Alfredo",NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+14-45,2024-07-14,Grilled Chicken,Alfredo,Cheesy Garlic Bread,Jalapenos,BBQ
+14-48,2024-07-14,Grilled Chicken,"Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan",Ranch
+14-42,2024-07-14,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Tomatoes",Pesto
+14-49,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan","Garlic Parmesan, BBQ"
+14-50,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+14-51,2024-07-14,Pulled Pork,"Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs","Buffalo, BBQ"
+14-53,2024-07-14,"Pulled Pork, Grilled Chicken",Cheddar,Cheesecake,"Parmesan, Corn, Breadcrumbs, Mushrooms","Garlic Parmesan, Buffalo, BBQ"
+14-54,2024-07-14,NA,"Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+14-55,2024-07-14,Grilled Chicken,Pepper Jack,NA,Jalapenos,NA
+14-56,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+14-57,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,"Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+14-62,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Onions, Breadcrumbs, Mushrooms",BBQ
+14-61,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Parmesan, Breadcrumbs","Pesto, Garlic Parmesan"
+14-63,2024-07-14,NA,Cheddar,Cheesy Garlic Bread,Corn,NA
+14-67,2024-07-14,"Bacon, Grilled Chicken","Cheddar, Pepper Jack","Garlic Bread, Cheesy Garlic Bread",Corn,"Buffalo, BBQ"
+14-66,2024-07-14,"Ham, Brisket",Cheddar,NA,"Breadcrumbs, Mushrooms",Buffalo
+14-71,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Onions, Parmesan, Breadcrumbs, Jalapenos","Buffalo, Ranch, Garlic Parmesan"
+14-72,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+14-73,2024-07-14,Ham,Alfredo,NA,"Corn, Bell Peppers, Mushrooms, Tomatoes",Garlic Parmesan
+14-74,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan, Breadcrumbs","Ranch, Garlic Parmesan, BBQ"
+14-78,2024-07-14,Brisket,Cheddar,NA,"Onions, Corn, Tomatoes",BBQ
+14-75,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan",Buffalo
+14-76,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Ranch
+14-77,2024-07-14,Bacon,Cheddar,NA,"Corn, Parmesan, Onions, Breadcrumbs",Ranch
+14-80,2024-07-14,Grilled Chicken,Alfredo,Doritos,Parmesan,BBQ
+14-79,2024-07-14,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,"Corn, Onions, Jalapenos, Bell Peppers, Mushrooms",BBQ
+14-81,2024-07-14,NA,"Pepper Jack, Alfredo",Cheesy Garlic Bread,"Tomatoes, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+14-82,2024-07-14,Brisket,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Bell Peppers, Breadcrumbs, Mushrooms","Pesto, BBQ"
+14-84,2024-07-14,Grilled Chicken,"Melted Cheddar, Cheddar",Side Mac,NA,NA
+14-85,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+14-86,2024-07-14,Pulled Pork,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+14-87,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,"Onions, Parmesan, Tomatoes",BBQ
+14-91,2024-07-14,"Grilled Chicken, Pulled Pork","Cheddar, Alfredo",NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs","Ranch, Garlic Parmesan"
+14-92,2024-07-14,"Pulled Pork, Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,NA,BBQ
+14-94,2024-07-14,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs","Pesto, Garlic Parmesan"
+14-96,2024-07-14,NA,"Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms","Ranch, Garlic Parmesan, Hot Honey"
+14-93,2024-07-14,Brisket,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Mushrooms",Garlic Parmesan
+14-99,2024-07-14,"Pulled Pork, Grilled Chicken","Cheddar, Pepper Jack",NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+14-97,2024-07-14,"Pulled Pork, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+14-89,2024-07-14,Pulled Pork,"Melted Cheddar, Cheddar Mac",NA,NA,Buffalo
+14-101,2024-07-14,Bacon,Cheddar,NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","BBQ, Hot Honey"
+14-90,2024-07-14,Brisket,Cheddar,NA,NA,BBQ
+14-102,2024-07-14,NA,Alfredo,Lays Classic,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-95,2024-07-14,Pulled Pork,Cheddar,NA,"Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+14-98,2024-07-14,"Bacon, Grilled Chicken",MIX,Cheesy Garlic Bread,Parmesan,"Buffalo, Ranch"
+14-104,2024-07-14,Pulled Pork,"Cheddar, Pepper Jack",NA,"Onions, Parmesan, Pineapple, Tomatoes",BBQ
+14-105,2024-07-14,"Bacon, Grilled Chicken, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Onions, Parmesan, Breadcrumbs","Ranch, BBQ"
+14-100,2024-07-14,"Pulled Pork, Brisket","Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+14-106,2024-07-14,"Bacon, Pulled Pork, Brisket","Cheddar, Alfredo",NA,Parmesan,"Garlic Parmesan, Ranch, BBQ"
+14-107,2024-07-14,"Grilled Chicken, Ham",Alfredo,Garlic Bread,"Breadcrumbs, Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan, Hot Honey"
+14-108,2024-07-14,"Bacon, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Jalapenos, Breadcrumbs","Ranch, Garlic Parmesan, BBQ"
+14-110,2024-07-14,Bacon,Cheddar,NA,Onions,"Buffalo, Garlic Parmesan"
+14-109,2024-07-14,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Pesto, Garlic Parmesan"
+14-113,2024-07-14,"Grilled Chicken, Brisket","Pepper Jack, Alfredo",Cheesecake,"Breadcrumbs, Jalapenos, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, BBQ, Hot Honey"
+14-112,2024-07-14,"Bacon, Ham, Pulled Pork","MIX, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan","Ranch, Garlic Parmesan, BBQ"
+14-114,2024-07-14,"Bacon, Grilled Chicken",Alfredo,NA,"Parmesan, Mushrooms","Buffalo, Ranch"
+14-115,2024-07-14,Brisket,Alfredo,NA,"Onions, Bell Peppers, Jalapenos",Hot Honey
+14-116,2024-07-14,Pulled Pork,"Alfredo, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Pineapple, Mushrooms","Garlic Parmesan, Pesto, BBQ"
+14-117,2024-07-14,"Grilled Chicken, Pulled Pork","Cheddar, Alfredo",NA,"Jalapenos, Parmesan, Breadcrumbs","Pesto, Garlic Parmesan, BBQ"
+14-118,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Pineapple, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+14-122,2024-07-14,NA,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+14-123,2024-07-14,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms","Garlic Parmesan, BBQ"
+14-126,2024-07-14,Brisket,"Cheddar, Pepper Jack",NA,NA,BBQ
+14-127,2024-07-14,"Grilled Chicken, Pulled Pork",Cheddar,NA,"Onions, Bell Peppers","Pesto, BBQ, Hot Honey"
+14-128,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Hot Honey
+14-129,2024-07-14,"Grilled Chicken, Brisket, Pulled Pork",Alfredo,NA,"Parmesan, Mushrooms, Tomatoes",BBQ
+14-130,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs","Garlic Parmesan, Hot Honey"
+14-133,2024-07-14,"Bacon, Pulled Pork, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+14-131,2024-07-14,"Pulled Pork, Brisket",MIX,NA,Breadcrumbs,"Ranch, BBQ"
+14-136,2024-07-14,"Grilled Chicken, Brisket","Pepper Jack, Alfredo",NA,"Onions, Parmesan, Breadcrumbs","Pesto, Garlic Parmesan, BBQ, Hot Honey"
+14-137,2024-07-14,NA,"Alfredo, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Tomatoes, Onions, Jalapenos, Bell Peppers, Mushrooms",Garlic Parmesan
+14-141,2024-07-14,Grilled Chicken,"Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan","Pesto, Garlic Parmesan"
+14-142,2024-07-14,"Pulled Pork, Brisket",Pepper Jack,NA,"Tomatoes, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan, Hot Honey"
+14-144,2024-07-14,Ham,"Cheddar, Alfredo",NA,"Breadcrumbs, Onions, Parmesan, Pineapple, Mushrooms","BBQ, Hot Honey"
+14-145,2024-07-14,"Pulled Pork, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,Parmesan,"Buffalo, Ranch, BBQ"
+14-148,2024-07-14,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs","Garlic Parmesan, BBQ"
+14-147,2024-07-14,"Grilled Chicken, Pulled Pork",Cheddar,NA,Parmesan,Buffalo
+14-146,2024-07-14,"Bacon, Grilled Chicken, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, Ranch, BBQ"
+14-151,2024-07-14,"Bacon, Grilled Chicken, Pulled Pork",Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Mushrooms","Pesto, Garlic Parmesan, BBQ"
+14-152,2024-07-14,Grilled Chicken,MIX,NA,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+14-154,2024-07-14,Brisket,MIX,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+14-155,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Alfredo","Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Bell Peppers",BBQ
+14-158,2024-07-14,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Onions, Tomatoes",Hot Honey
+14-160,2024-07-14,Grilled Chicken,Pepper Jack,NA,NA,Buffalo
+14-161,2024-07-14,Grilled Chicken,"MIX, Cheddar",NA,"Parmesan, Breadcrumbs",NA
+14-162,2024-07-14,"Pulled Pork, Grilled Chicken",Cheddar,Cheesy Garlic Bread,"Onions, Bell Peppers",Garlic Parmesan
+14-164,2024-07-14,"Bacon, Pulled Pork","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+14-165,2024-07-14,"Pulled Pork, Grilled Chicken","Cheddar, Alfredo",NA,"Jalapenos, Parmesan, Breadcrumbs","Garlic Parmesan, Ranch, BBQ"
+14-167,2024-07-14,"Bacon, Grilled Chicken",Alfredo,NA,"Bell Peppers, Mushrooms","Pesto, Garlic Parmesan"
+14-169,2024-07-14,Grilled Chicken,"Cheddar, Alfredo",NA,"Onions, Parmesan, Breadcrumbs, Jalapenos","Garlic Parmesan, BBQ"
+14-171,2024-07-14,"Bacon, Pulled Pork",Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms",BBQ
+14-174,2024-07-14,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",BBQ
+14-173,2024-07-14,"Bacon, Pulled Pork",MIX,Garlic Bread,"Jalapenos, Mushrooms, Breadcrumbs, Tomatoes",BBQ
+14-175,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Breadcrumbs",NA
+14-177,2024-07-14,Grilled Chicken,"Cheddar, Alfredo",Cheesy Garlic Bread,Parmesan,NA
+14-179,2024-07-14,Pulled Pork,Cheddar,Cheesy Garlic Bread,NA,BBQ
+14-178,2024-07-14,Bacon,"MIX, Cheddar",NA,Jalapenos,NA
+14-185,2024-07-14,Brisket,Melted Cheddar,"Side Mac, Cheesecake",NA,NA
+14-186,2024-07-14,Grilled Chicken,"Cheddar, Alfredo",NA,"Onions, Parmesan, Breadcrumbs, Tomatoes","Buffalo, Garlic Parmesan"
+14-187,2024-07-14,NA,MIX,Garlic Bread,"Breadcrumbs, Tomatoes, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Buffalo, Ranch, BBQ"
+14-189,2024-07-14,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",Garlic Bread,"Onions, Bell Peppers, Jalapenos, Tomatoes","Pesto, Garlic Parmesan, BBQ"
+14-190,2024-07-14,"Grilled Chicken, Brisket, Pulled Pork",MIX,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+14-192,2024-07-14,Grilled Chicken,MIX,NA,"Parmesan, Breadcrumbs",NA
+14-191,2024-07-14,Bacon,"Cheddar, Alfredo",NA,"Parmesan, Mushrooms",NA
+14-193,2024-07-14,"Bacon, Grilled Chicken",Alfredo,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+14-195,2024-07-14,"Bacon, Brisket",MIX,NA,"Parmesan, Breadcrumbs","BBQ, Hot Honey"
+14-199,2024-07-14,NA,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-200,2024-07-14,"Bacon, Ham","MIX, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+14-198,2024-07-14,"Bacon, Ham, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+14-207,2024-07-14,NA,"Cheddar, Alfredo",NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Garlic Parmesan"
+14-203,2024-07-14,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs",NA
+14-204,2024-07-14,Grilled Chicken,Cheddar,NA,NA,Hot Honey
+14-206,2024-07-14,Bacon,Alfredo,NA,NA,NA
+14-211,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,Onions,Ranch
+14-205,2024-07-14,Grilled Chicken,Pepper Jack,Garlic Bread,"Jalapenos, Breadcrumbs","Buffalo, Ranch"
+14-212,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,NA,BBQ
+14-213,2024-07-14,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan, Bell Peppers, Mushrooms","Buffalo, Garlic Parmesan"
+14-208,2024-07-14,Bacon,Cheddar,NA,"Onions, Pineapple, Jalapenos","Buffalo, Ranch"
+14-210,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",Any Bag Of Chips,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Pineapple",BBQ
+14-214,2024-07-14,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Onions, Parmesan, Breadcrumbs, Jalapenos",Garlic Parmesan
+14-215,2024-07-14,"Bacon, Grilled Chicken, Pulled Pork",Cheddar,Cheesy Garlic Bread,Onions,"Ranch, BBQ"
+14-222,2024-07-14,Grilled Chicken,Alfredo,Garlic Bread,Jalapenos,NA
+14-217,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,NA,BBQ
+14-221,2024-07-14,"Ham, Grilled Chicken","Cheddar, Alfredo",NA,"Jalapenos, Breadcrumbs","Garlic Parmesan, Hot Honey"
+14-223,2024-07-14,"Ham, Brisket","Cheddar, Alfredo",NA,"Tomatoes, Onions, Parmesan, Pineapple, Mushrooms",Garlic Parmesan
+14-220,2024-07-14,Brisket,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Pineapple, Breadcrumbs","Garlic Parmesan, BBQ"
+14-218,2024-07-14,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+14-224,2024-07-14,"Grilled Chicken, Brisket",Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch, Hot Honey"
+14-225,2024-07-14,"Bacon, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Onions, Breadcrumbs","Garlic Parmesan, BBQ"
+14-228,2024-07-14,Pulled Pork,Cheddar,Cheesy Garlic Bread,NA,BBQ
+14-229,2024-07-14,Brisket,Cheddar,NA,"Parmesan, Tomatoes","Buffalo, Ranch"
+14-227,2024-07-14,"Bacon, Brisket","MIX, Cheddar",NA,"Onions, Jalapenos, Tomatoes","Buffalo, Pesto, Ranch"
+14-233,2024-07-14,"Grilled Chicken, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread",NA,NA
+14-230,2024-07-14,NA,Cheddar,"Garlic Bread, Any Bag Of Chips","Onions, Parmesan, Bell Peppers, Jalapenos","Buffalo, Garlic Parmesan"
+14-235,2024-07-14,"Bacon, Ham",Alfredo,NA,"Parmesan, Mushrooms, Tomatoes","Pesto, Garlic Parmesan"
+14-236,2024-07-14,Grilled Chicken,Alfredo,NA,NA,NA
+14-238,2024-07-14,Grilled Chicken,Alfredo,NA,Parmesan,Garlic Parmesan
+14-237,2024-07-14,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-242,2024-07-14,"Bacon, Grilled Chicken","Melted Cheddar, Alfredo","Garlic Bread, Any Bag Of Chips, Cheesy Garlic Bread",Breadcrumbs,BBQ
+14-240,2024-07-14,Grilled Chicken,Alfredo,Garlic Bread,NA,NA
+14-243,2024-07-14,NA,Cheddar,NA,NA,NA
+14-248,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Onions, Parmesan, Jalapenos, Tomatoes","Pesto, Garlic Parmesan"
+14-249,2024-07-14,Bacon,Cheddar,NA,Parmesan,BBQ
+14-250,2024-07-14,Bacon,Cheddar,NA,Breadcrumbs,BBQ
+14-247,2024-07-14,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Mushrooms","Garlic Parmesan, Buffalo, Ranch"
+14-251,2024-07-14,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",Pesto
+14-255,2024-07-14,Brisket,Cheddar,Cheesy Garlic Bread,NA,"Ranch, BBQ"
+14-256,2024-07-14,"Grilled Chicken, Brisket, Pulled Pork",Cheddar,NA,"Onions, Breadcrumbs, Jalapenos, Mushrooms","Garlic Parmesan, BBQ"
+14-259,2024-07-14,"Bacon, Grilled Chicken","Cheddar, Alfredo",Garlic Bread,Pineapple,Buffalo
+14-261,2024-07-14,"Grilled Chicken, Brisket, Pulled Pork","Cheddar, Alfredo",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, Garlic Parmesan, BBQ"
+14-257,2024-07-14,"Bacon, Ham, Brisket","MIX, Cheddar, Melted Cheddar","Garlic Bread, Cheesy Garlic Bread","Onions, Breadcrumbs","Ranch, BBQ"
+14-262,2024-07-14,Grilled Chicken,"Melted Cheddar, Melted Parmesan",NA,"Tomatoes, Onions, Bell Peppers, Pineapple, Mushrooms",Pesto
+14-263,2024-07-14,"Pulled Pork, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Mushrooms","Pesto, BBQ"
+14-264,2024-07-14,Bacon,Alfredo,NA,"Pineapple, Parmesan, Mushrooms, Tomatoes",Pesto
+14-268,2024-07-14,"Bacon, Pulled Pork","Cheddar, Alfredo",Cheesecake,Breadcrumbs,Garlic Parmesan
+14-269,2024-07-14,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Pineapple, Parmesan, Breadcrumbs",Garlic Parmesan
+14-270,2024-07-14,Brisket,"Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs",BBQ
+14-265,2024-07-14,Brisket,"Melted Cheddar, Alfredo Mac, Alfredo",NA,NA,Garlic Parmesan
+14-272,2024-07-14,Brisket,Cheddar,NA,"Onions, Parmesan, Bell Peppers",BBQ
+14-273,2024-07-14,Brisket,"Melted Parmesan, Alfredo",NA,"Parmesan, Breadcrumbs, Tomatoes","Garlic Parmesan, Hot Honey"
+14-275,2024-07-14,"Bacon, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Mushrooms",Garlic Parmesan
+14-276,2024-07-14,Ham,Alfredo,Cheesy Garlic Bread,Parmesan,Pesto
+14-274,2024-07-14,"Grilled Chicken, Pulled Pork","Melted Pepper Jack, Alfredo",Cheesy Garlic Bread,"Pineapple, Parmesan, Breadcrumbs","Garlic Parmesan, BBQ, Hot Honey"
+14-277,2024-07-14,"Grilled Chicken, Brisket",Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+14-278,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+14-279,2024-07-14,"Ham, Grilled Chicken",Alfredo,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-287,2024-07-14,"Grilled Chicken, Brisket",Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Buffalo, Pesto, Ranch"
+14-282,2024-07-14,"Bacon, Pulled Pork, Brisket",Alfredo,NA,"Onions, Parmesan, Mushrooms",Garlic Parmesan
+14-285,2024-07-14,Bacon,Alfredo,NA,NA,Garlic Parmesan
+14-283,2024-07-14,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+14-288,2024-07-14,Grilled Chicken,Cheddar,NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Buffalo, Pesto, Garlic Parmesan"
+14-291,2024-07-14,"Pulled Pork, Brisket","Cheddar, Alfredo","Garlic Bread, Cheesy Garlic Bread","Parmesan, Bell Peppers, Breadcrumbs","Buffalo, Garlic Parmesan"
+14-294,2024-07-14,Brisket,Cheddar,NA,NA,Buffalo
+14-296,2024-07-14,Brisket,Cheddar,NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs",BBQ
+14-297,2024-07-14,NA,Cheddar,NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan"
+14-298,2024-07-14,"Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, BBQ"
+14-295,2024-07-14,"Grilled Chicken, Brisket",Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Pesto, Garlic Parmesan"
+14-299,2024-07-14,Grilled Chicken,Alfredo,NA,NA,Buffalo
+14-302,2024-07-14,Brisket,"Cheddar, Melted Parmesan",NA,"Onions, Breadcrumbs","BBQ, Hot Honey"
+14-301,2024-07-14,Brisket,"Melted Cheddar, Cheddar",NA,"Parmesan, Breadcrumbs",BBQ
+14-300,2024-07-14,Brisket,Alfredo,NA,Parmesan,BBQ
+14-305,2024-07-14,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+14-303,2024-07-14,Brisket,Alfredo,NA,Parmesan,Ranch
+14-308,2024-07-14,"Bacon, Ham",Cheddar,NA,"Parmesan, Bell Peppers, Breadcrumbs",Hot Honey
+14-309,2024-07-14,"Bacon, Pulled Pork, Grilled Chicken",Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Pesto, Ranch"
+14-304,2024-07-14,Bacon,Alfredo,NA,Parmesan,"Pesto, Garlic Parmesan"
+14-307,2024-07-14,Bacon,Alfredo,NA,"Onions, Breadcrumbs","Buffalo, Ranch"
+14-311,2024-07-14,"Bacon, Brisket","Cheddar, Alfredo",NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Ranch, Hot Honey"
+14-312,2024-07-14,Bacon,"Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Hot Honey"
+14-313,2024-07-14,"Bacon, Pulled Pork, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Pesto, Ranch"
+14-316,2024-07-14,"Bacon, Pulled Pork","Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs","Ranch, BBQ, Hot Honey"
+14-315,2024-07-14,"Bacon, Grilled Chicken, Pulled Pork",Cheddar,NA,"Parmesan, Breadcrumbs","Ranch, BBQ, Hot Honey"
+14-318,2024-07-14,Brisket,"Cheddar, Melted Pepper Jack, Alfredo Mac",NA,Parmesan,"Garlic Parmesan, BBQ"
+14-317,2024-07-14,"Bacon, Pulled Pork",Cheddar,NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs",Hot Honey
+14-319,2024-07-14,Grilled Chicken,"Cheddar, Alfredo",NA,Bell Peppers,NA
+14-321,2024-07-14,Grilled Chicken,Cheddar,NA,"Onions, Bell Peppers",Hot Honey
+14-325,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Onions, Parmesan, Breadcrumbs",BBQ
+14-322,2024-07-14,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs",BBQ
+14-323,2024-07-14,"Bacon, Brisket","Melted Cheddar, Cheddar, Alfredo Mac","Garlic Bread, Lays Classic","Onions, Parmesan, Bell Peppers, Breadcrumbs","Buffalo, Ranch, BBQ, Hot Honey"
+14-326,2024-07-14,"Bacon, Brisket",Cheddar,NA,Parmesan,"Ranch, BBQ"
+14-327,2024-07-14,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Onions, Parmesan, Breadcrumbs",BBQ
+14-329,2024-07-14,"Bacon, Grilled Chicken, Brisket",Alfredo,NA,"Onions, Breadcrumbs","Buffalo, Ranch, BBQ"
+14-328,2024-07-14,"Grilled Chicken, Brisket","Melted Cheddar, Alfredo Mac",NA,Breadcrumbs,BBQ
+15-2,2024-07-15,"Bacon, Brisket",MIX,NA,Parmesan,"Buffalo, Ranch"
+15-4,2024-07-15,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Breadcrumbs","Pesto, Ranch, Garlic Parmesan"
+15-5,2024-07-15,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+15-6,2024-07-15,Brisket,Alfredo,NA,"Parmesan, Bell Peppers, Breadcrumbs, Mushrooms","Ranch, BBQ"
+15-7,2024-07-15,Brisket,MIX,NA,"Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+15-10,2024-07-15,"Bacon, Brisket",Melted Cheddar,NA,NA,BBQ
+15-8,2024-07-15,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+15-9,2024-07-15,Grilled Chicken,MIX,NA,"Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+15-11,2024-07-15,Grilled Chicken,MIX,NA,"Parmesan, Breadcrumbs, Mushrooms","Ranch, Garlic Parmesan"
+15-12,2024-07-15,Grilled Chicken,Cheddar,NA,"Corn, Mushrooms","Buffalo, Hot Honey"
+15-13,2024-07-15,Bacon,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Pesto
+15-14,2024-07-15,"Pulled Pork, Brisket","Melted Cheddar, Pepper Jack",Cheesy Garlic Bread,"Parmesan, Bell Peppers, Mushrooms, Tomatoes","Garlic Parmesan, Pesto, BBQ"
+15-15,2024-07-15,"Bacon, Grilled Chicken",Cheddar,NA,"Onions, Bell Peppers, Jalapenos","Buffalo, BBQ"
+15-16,2024-07-15,Brisket,MIX,Cheesy Garlic Bread,"Onions, Bell Peppers","Ranch, BBQ"
+15-18,2024-07-15,Brisket,MIX,Cheesy Garlic Bread,"Onions, Bell Peppers","Ranch, BBQ"
+15-17,2024-07-15,NA,MIX,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Pineapple, Mushrooms",Garlic Parmesan
+15-19,2024-07-15,Brisket,MIX,Cheesy Garlic Bread,"Onions, Bell Peppers","Ranch, BBQ"
+15-22,2024-07-15,"Bacon, Grilled Chicken","MIX, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Tomatoes","Garlic Parmesan, Hot Honey"
+15-23,2024-07-15,"Bacon, Pulled Pork","Cheddar, Alfredo","Any Bag Of Chips, Cheesy Garlic Bread","Corn, Breadcrumbs, Jalapenos, Parmesan, Pineapple",Hot Honey
+15-24,2024-07-15,Grilled Chicken,Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+15-25,2024-07-15,"Bacon, Brisket","Melted Cheddar, Cheddar, Alfredo Mac",Any Bag Of Chips,"Onions, Corn, Breadcrumbs, Parmesan",BBQ
+15-26,2024-07-15,Bacon,Pepper Jack,NA,Parmesan,Garlic Parmesan
+15-21,2024-07-15,NA,Pepper Jack,NA,Parmesan,Buffalo
+15-28,2024-07-15,Grilled Chicken,Cheddar,NA,Mushrooms,Buffalo
+15-30,2024-07-15,"Pulled Pork, Brisket",Cheddar,NA,"Corn, Breadcrumbs",BBQ
+15-31,2024-07-15,Brisket,MIX,NA,"Bell Peppers, Pineapple, Breadcrumbs",BBQ
+15-29,2024-07-15,Brisket,MIX,NA,"Parmesan, Corn, Bell Peppers","Ranch, BBQ"
+15-33,2024-07-15,Grilled Chicken,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+15-32,2024-07-15,"Bacon, Pulled Pork, Brisket",MIX,NA,"Onions, Parmesan, Jalapenos, Tomatoes",NA
+15-35,2024-07-15,Brisket,Cheddar,NA,NA,BBQ
+15-36,2024-07-15,"Bacon, Brisket",Cheddar,NA,Jalapenos,BBQ
+15-34,2024-07-15,Brisket,"Melted Cheddar, Cheddar",NA,"Parmesan, Broccoli, Breadcrumbs",Ranch
+15-40,2024-07-15,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+15-39,2024-07-15,"Bacon, Pulled Pork, Grilled Chicken, Brisket","MIX, Cheddar, Pepper Jack",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Ranch, BBQ"
+15-42,2024-07-15,Brisket,MIX,NA,"Onions, Corn, Bell Peppers","BBQ, Hot Honey"
+15-45,2024-07-15,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Corn, Onions, Jalapenos, Parmesan, Mushrooms",Buffalo
+15-48,2024-07-15,Grilled Chicken,Alfredo,Garlic Bread,"Corn, Broccoli",Garlic Parmesan
+15-46,2024-07-15,NA,MIX,NA,"Parmesan, Breadcrumbs",Ranch
+15-47,2024-07-15,Bacon,Cheddar,Cheesy Garlic Bread,Parmesan,NA
+15-50,2024-07-15,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Onions, Parmesan","Buffalo, Garlic Parmesan"
+15-52,2024-07-15,"Grilled Chicken, Brisket",Cheddar,NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms",BBQ
+15-53,2024-07-15,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,"Parmesan, Corn, Breadcrumbs",Ranch
+15-54,2024-07-15,"Bacon, Brisket",Pepper Jack,"Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch, Garlic Parmesan, Hot Honey"
+15-55,2024-07-15,Brisket,"Cheddar, Alfredo",NA,"Jalapenos, Parmesan, Corn, Breadcrumbs","Ranch, BBQ"
+15-56,2024-07-15,Brisket,Cheddar,NA,Broccoli,BBQ
+15-57,2024-07-15,"Bacon, Brisket","Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+15-59,2024-07-15,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+15-60,2024-07-15,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Garlic Parmesan"
+15-63,2024-07-15,Pulled Pork,Cheddar,NA,Breadcrumbs,BBQ
+15-64,2024-07-15,Brisket,Cheddar,NA,"Jalapenos, Parmesan",BBQ
+15-62,2024-07-15,Brisket,MIX,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+15-61,2024-07-15,Brisket,Cheddar,NA,Parmesan,BBQ
+15-65,2024-07-15,Bacon,MIX,NA,Jalapenos,Buffalo
+15-66,2024-07-15,Ham,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn",NA
+15-67,2024-07-15,Grilled Chicken,Cheddar,Garlic Bread,"Onions, Jalapenos","Buffalo, Ranch"
+15-69,2024-07-15,Brisket,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",BBQ
+15-68,2024-07-15,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,Parmesan,"Ranch, BBQ"
+15-71,2024-07-15,"Bacon, Brisket",Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+16-2,2024-07-16,Brisket,Cheddar,NA,NA,NA
+16-3,2024-07-16,NA,Pepper Jack,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+16-4,2024-07-16,"Bacon, Brisket",MIX,NA,"Onions, Corn",BBQ
+16-5,2024-07-16,Brisket,Cheddar,Cheesy Garlic Bread,Corn,BBQ
+16-6,2024-07-16,Grilled Chicken,MIX,Cheesy Garlic Bread,"Parmesan, Broccoli, Mushrooms",Pesto
+16-7,2024-07-16,Bacon,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+16-8,2024-07-16,Brisket,"Cheddar Mac, Melted Parmesan",NA,"Jalapenos, Tomatoes",Garlic Parmesan
+16-10,2024-07-16,Pulled Pork,Cheddar,NA,NA,BBQ
+16-9,2024-07-16,"Bacon, Pulled Pork","Melted Cheddar, Cheddar",NA,Breadcrumbs,BBQ
+16-11,2024-07-16,Grilled Chicken,Cheddar,NA,"Tomatoes, Onions, Jalapenos, Bell Peppers, Pineapple",Hot Honey
+16-13,2024-07-16,NA,Pepper Jack,Garlic Bread,"Onions, Broccoli, Bell Peppers",Hot Honey
+16-12,2024-07-16,NA,Cheddar,NA,"Corn, Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+16-14,2024-07-16,"Bacon, Brisket",MIX,Cheesy Garlic Bread,Parmesan,Ranch
+16-15,2024-07-16,"Bacon, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+16-16,2024-07-16,NA,Cheddar,"Side Mac, Any Bag Of Chips",NA,NA
+16-18,2024-07-16,Pulled Pork,Cheddar,NA,"Onions, Bell Peppers","Garlic Parmesan, Hot Honey"
+16-17,2024-07-16,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan","Ranch, BBQ"
+16-20,2024-07-16,Brisket,Cheddar,NA,"Corn, Broccoli, Onions, Jalapenos, Bell Peppers, Mushrooms","Ranch, Hot Honey"
+16-22,2024-07-16,Brisket,Pepper Jack,NA,"Jalapenos, Corn, Breadcrumbs, Mushrooms","Ranch, BBQ"
+16-19,2024-07-16,"Bacon, Grilled Chicken, Brisket","MIX, Cheddar, Melted Cheddar","Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs, Tomatoes","Pesto, Ranch, BBQ"
+16-26,2024-07-16,Grilled Chicken,Alfredo,Garlic Bread,"Onions, Broccoli, Mushrooms",NA
+16-24,2024-07-16,NA,MIX,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+16-27,2024-07-16,Brisket,Cheddar,Cheesy Garlic Bread,Parmesan,BBQ
+16-29,2024-07-16,Bacon,Cheddar,Cheesy Garlic Bread,"Pineapple, Breadcrumbs",Garlic Parmesan
+16-28,2024-07-16,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+16-30,2024-07-16,Bacon,Cheddar,Cheesy Garlic Bread,"Pineapple, Breadcrumbs",Garlic Parmesan
+16-31,2024-07-16,Bacon,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Buffalo
+16-32,2024-07-16,Grilled Chicken,Pepper Jack,NA,Parmesan,NA
+16-33,2024-07-16,Grilled Chicken,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Ranch
+16-34,2024-07-16,Pulled Pork,Pepper Jack,NA,"Corn, Breadcrumbs, Broccoli, Onions, Parmesan",BBQ
+16-35,2024-07-16,Brisket,Cheddar,Cheesy Garlic Bread,NA,Garlic Parmesan
+16-36,2024-07-16,Brisket,Cheddar,Cheesy Garlic Bread,NA,Garlic Parmesan
+16-37,2024-07-16,NA,Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+16-38,2024-07-16,"Bacon, Ham, Brisket",MIX,"Side Mac, Cheesy Garlic Bread","Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan","Pesto, Garlic Parmesan"
+16-39,2024-07-16,"Bacon, Grilled Chicken",Cheddar,NA,Parmesan,"Buffalo, Ranch"
+16-40,2024-07-16,"Bacon, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,Breadcrumbs,Ranch
+16-42,2024-07-16,"Bacon, Ham, Pulled Pork","Cheddar, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Broccoli, Tomatoes",BBQ
+16-44,2024-07-16,NA,MIX,Cheesecake,"Breadcrumbs, Tomatoes, Broccoli, Parmesan, Mushrooms",Pesto
+16-45,2024-07-16,NA,Melted Cheddar,Side Mac,"Onions, Pineapple",NA
+16-46,2024-07-16,"Bacon, Ham",Cheddar,Cheesy Garlic Bread,"Onions, Corn","Ranch, Hot Honey"
+16-49,2024-07-16,"Bacon, Grilled Chicken, Brisket","MIX, Cheddar","Any Bag Of Chips, Cheesy Garlic Bread","Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Mushrooms",Ranch
+16-52,2024-07-16,NA,Melted Cheddar,Cheesecake,NA,NA
+16-54,2024-07-16,NA,Cheddar,Garlic Bread,"Jalapenos, Parmesan, Broccoli, Breadcrumbs","Buffalo, Ranch"
+16-55,2024-07-16,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs",BBQ
+16-56,2024-07-16,"Pulled Pork, Grilled Chicken","Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs",BBQ
+16-58,2024-07-16,NA,NA,Side Mac,NA,NA
+16-59,2024-07-16,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",Buffalo
+16-60,2024-07-16,Ham,Cheddar,NA,Corn,Ranch
+16-61,2024-07-16,Grilled Chicken,"MIX, Cheddar",NA,"Corn, Parmesan, Broccoli, Breadcrumbs","Buffalo, Ranch, BBQ"
+16-63,2024-07-16,Grilled Chicken,Cheddar,NA,"Onions, Parmesan, Tomatoes",Ranch
+16-64,2024-07-16,Grilled Chicken,Melted Cheddar,NA,"Onions, Bell Peppers","Buffalo, Ranch"
+16-65,2024-07-16,Bacon,Cheddar,NA,"Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+16-66,2024-07-16,NA,"Melted Cheddar, Cheddar, Cheddar Mac",NA,"Parmesan, Tomatoes","Garlic Parmesan, Hot Honey"
+16-67,2024-07-16,Bacon,MIX,NA,"Corn, Broccoli",Pesto
+17-1,2024-07-17,Brisket,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Ranch, BBQ"
+17-3,2024-07-17,"Bacon, Ham, Brisket",MIX,NA,NA,Garlic Parmesan
+17-5,2024-07-17,Brisket,Melted Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+17-6,2024-07-17,"Bacon, Grilled Chicken, Brisket",MIX,Garlic Bread,"Onions, Parmesan, Broccoli, Bell Peppers","Ranch, BBQ"
+17-7,2024-07-17,Bacon,MIX,Any Bag Of Chips,"Jalapenos, Breadcrumbs",Hot Honey
+17-8,2024-07-17,Brisket,Cheddar,NA,"Onions, Parmesan, Broccoli, Mushrooms",BBQ
+17-9,2024-07-17,Ham,MIX,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, BBQ"
+17-10,2024-07-17,"Bacon, Ham","MIX, Cheddar",Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Mushrooms","Ranch, BBQ"
+17-11,2024-07-17,Brisket,Pepper Jack,NA,"Jalapenos, Corn, Breadcrumbs, Mushrooms",BBQ
+17-12,2024-07-17,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms",Garlic Parmesan
+17-14,2024-07-17,"Bacon, Grilled Chicken",Pepper Jack,Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+17-13,2024-07-17,Pulled Pork,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,NA,NA
+17-15,2024-07-17,Grilled Chicken,Cheddar,NA,"Broccoli, Breadcrumbs, Mushrooms",BBQ
+17-16,2024-07-17,NA,Cheddar,NA,"Onions, Parmesan, Broccoli",Ranch
+17-19,2024-07-17,Grilled Chicken,MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan",Hot Honey
+17-17,2024-07-17,Bacon,MIX,NA,Onions,Garlic Parmesan
+17-18,2024-07-17,"Bacon, Brisket","MIX, Cheddar",NA,"Onions, Parmesan, Breadcrumbs, Mushrooms","Buffalo, Hot Honey"
+17-20,2024-07-17,Grilled Chicken,Cheddar,NA,NA,BBQ
+17-21,2024-07-17,"Bacon, Brisket",Pepper Jack,NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms",NA
+17-22,2024-07-17,Bacon,Cheddar,Garlic Bread,"Parmesan, Broccoli, Mushrooms",Garlic Parmesan
+17-23,2024-07-17,Grilled Chicken,Cheddar,NA,"Mushrooms, Tomatoes",Hot Honey
+17-4,2024-07-17,"Pulled Pork, Grilled Chicken",Cheddar,"Any Bag Of Chips, Cheesy Garlic Bread","Breadcrumbs, Broccoli, Onions, Parmesan, Pineapple, Mushrooms","BBQ, Hot Honey"
+17-25,2024-07-17,Brisket,Cheddar,NA,Tomatoes,"Buffalo, Ranch, Hot Honey"
+17-26,2024-07-17,"Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs","Pesto, BBQ"
+17-27,2024-07-17,"Grilled Chicken, Ham, Brisket","Cheddar Mac, Cheddar, Melted Pepper Jack",Any Bag Of Chips,"Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Pineapple, Mushrooms","Buffalo, BBQ, Hot Honey"
+17-29,2024-07-17,Brisket,Pepper Jack,NA,"Parmesan, Tomatoes",BBQ
+17-28,2024-07-17,"Bacon, Pulled Pork",MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Hot Honey
+17-30,2024-07-17,"Bacon, Grilled Chicken, Brisket","Melted Cheddar, Alfredo Mac",NA,"Onions, Bell Peppers","BBQ, Hot Honey"
+17-31,2024-07-17,Grilled Chicken,Cheddar,NA,NA,"Buffalo, Ranch"
+17-32,2024-07-17,Grilled Chicken,Alfredo,Cheesecake,"Broccoli, Mushrooms",Buffalo
+17-33,2024-07-17,Brisket,Alfredo,NA,"Corn, Mushrooms, Tomatoes",Garlic Parmesan
+17-34,2024-07-17,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Broccoli, Mushrooms",Ranch
+17-35,2024-07-17,Pulled Pork,Cheddar,Cheesy Garlic Bread,NA,Buffalo
+17-37,2024-07-17,"Pulled Pork, Brisket",Cheddar,NA,Breadcrumbs,Ranch
+17-36,2024-07-17,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",NA
+17-38,2024-07-17,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+17-39,2024-07-17,"Grilled Chicken, Pulled Pork","Pepper Jack Mac, Melted Cheddar, Cheddar, Pepper Jack",Cheesy Garlic Bread,Parmesan,"Ranch, BBQ, Hot Honey"
+17-40,2024-07-17,"Bacon, Ham, Pulled Pork","Melted Cheddar, Cheddar",NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+17-42,2024-07-17,Pulled Pork,Melted Pepper Jack,Cheesecake,"Onions, Bell Peppers",BBQ
+17-43,2024-07-17,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Tomatoes",Ranch
+17-44,2024-07-17,"Bacon, Brisket","MIX, Cheddar Mac, Melted Cheddar",NA,"Breadcrumbs, Tomatoes, Broccoli, Onions, Mushrooms","Garlic Parmesan, Pesto, Ranch"
+17-47,2024-07-17,"Bacon, Brisket",Cheddar,"Cheesecake, Cheesy Garlic Bread","Parmesan, Corn, Bell Peppers","Garlic Parmesan, BBQ"
+17-45,2024-07-17,Brisket,Cheddar,NA,"Onions, Broccoli, Breadcrumbs",Garlic Parmesan
+17-46,2024-07-17,"Bacon, Grilled Chicken, Brisket",MIX,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+17-48,2024-07-17,"Bacon, Grilled Chicken, Brisket",MIX,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+17-49,2024-07-17,Brisket,Cheddar,NA,"Bell Peppers, Mushrooms","Ranch, BBQ"
+17-50,2024-07-17,Brisket,Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",BBQ
+17-52,2024-07-17,Brisket,"Pepper Jack Mac, Melted Cheddar",NA,NA,Ranch
+17-53,2024-07-17,Bacon,Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+17-54,2024-07-17,Pulled Pork,Cheddar,NA,"Onions, Corn, Jalapenos",BBQ
+17-55,2024-07-17,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+17-56,2024-07-17,Bacon,"MIX, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+17-57,2024-07-17,Grilled Chicken,MIX,NA,"Parmesan, Broccoli",NA
+17-58,2024-07-17,Grilled Chicken,MIX,NA,"Breadcrumbs, Broccoli, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+17-59,2024-07-17,NA,Cheddar,NA,"Jalapenos, Broccoli",Garlic Parmesan
+17-60,2024-07-17,Brisket,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",BBQ
+17-61,2024-07-17,"Bacon, Brisket",MIX,NA,"Onions, Parmesan, Bell Peppers","Ranch, BBQ"
+17-64,2024-07-17,NA,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+17-63,2024-07-17,Brisket,Cheddar,Cheesy Garlic Bread,"Jalapenos, Corn, Broccoli",BBQ
+17-62,2024-07-17,Brisket,Cheddar,NA,"Onions, Breadcrumbs, Jalapenos, Tomatoes",BBQ
+17-65,2024-07-17,"Bacon, Grilled Chicken",Alfredo,NA,Parmesan,Garlic Parmesan
+17-66,2024-07-17,"Bacon, Grilled Chicken",Cheddar,NA,"Tomatoes, Onions, Jalapenos, Parmesan, Mushrooms",Garlic Parmesan
+17-67,2024-07-17,"Bacon, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Hot Honey
+18-1,2024-07-18,Bacon,Pepper Jack,Garlic Bread,"Corn, Breadcrumbs, Broccoli, Jalapenos, Bell Peppers",Pesto
+18-2,2024-07-18,"Pulled Pork, Brisket",Cheddar,Cheesecake,"Broccoli, Breadcrumbs",BBQ
+18-3,2024-07-18,Bacon,Cheddar,NA,"Broccoli, Breadcrumbs",NA
+18-5,2024-07-18,Pulled Pork,Cheddar,"Side Mac, Cheesy Garlic Bread",Parmesan,BBQ
+18-6,2024-07-18,Brisket,"MIX, Cheddar",Cheesy Garlic Bread,"Jalapenos, Parmesan",Garlic Parmesan
+18-7,2024-07-18,Grilled Chicken,MIX,NA,"Onions, Parmesan, Breadcrumbs, Jalapenos",BBQ
+18-8,2024-07-18,NA,MIX,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",NA
+18-9,2024-07-18,Brisket,Alfredo,NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, BBQ"
+18-10,2024-07-18,"Bacon, Pulled Pork, Ham","MIX, Cheddar",NA,Parmesan,Garlic Parmesan
+18-11,2024-07-18,Bacon,MIX,NA,"Parmesan, Corn, Breadcrumbs",Ranch
+18-12,2024-07-18,Bacon,MIX,NA,Breadcrumbs,Hot Honey
+18-13,2024-07-18,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Corn, Broccoli",Pesto
+18-16,2024-07-18,Grilled Chicken,Alfredo,NA,"Parmesan, Breadcrumbs",NA
+18-15,2024-07-18,NA,Cheddar,NA,NA,NA
+18-18,2024-07-18,Brisket,Pepper Jack,NA,"Bell Peppers, Breadcrumbs",NA
+18-17,2024-07-18,Ham,Cheddar,Cheesy Garlic Bread,NA,NA
+18-19,2024-07-18,Brisket,Cheddar,Side Mac,"Parmesan, Breadcrumbs",BBQ
+18-20,2024-07-18,"Bacon, Brisket",Cheddar,NA,"Onions, Jalapenos","BBQ, Hot Honey"
+18-21,2024-07-18,Brisket,Cheddar,NA,Onions,BBQ
+18-23,2024-07-18,NA,"Melted Cheddar, Cheddar Mac",Side Mac,NA,NA
+18-24,2024-07-18,Brisket,MIX,Cheesy Garlic Bread,"Onions, Bell Peppers","Ranch, BBQ"
+18-25,2024-07-18,NA,MIX,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Ranch"
+18-27,2024-07-18,Pulled Pork,Cheddar,Any Bag Of Chips,"Parmesan, Breadcrumbs",BBQ
+18-26,2024-07-18,Grilled Chicken,MIX,NA,"Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Pesto"
+18-28,2024-07-18,"Grilled Chicken, Brisket","Cheddar, Alfredo",Garlic Bread,"Corn, Breadcrumbs","Ranch, BBQ"
+18-29,2024-07-18,NA,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+18-30,2024-07-18,"Grilled Chicken, Ham",Pepper Jack,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Hot Honey"
+18-31,2024-07-18,"Grilled Chicken, Ham",Alfredo,NA,"Parmesan, Breadcrumbs, Tomatoes",NA
+18-32,2024-07-18,NA,Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+18-33,2024-07-18,Brisket,Alfredo,Cheesy Garlic Bread,"Jalapenos, Parmesan, Broccoli",Buffalo
+18-34,2024-07-18,Grilled Chicken,"Cheddar Mac, Melted Pepper Jack",Cheesy Garlic Bread,"Corn, Broccoli, Mushrooms",Garlic Parmesan
+18-35,2024-07-18,"Bacon, Grilled Chicken","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+18-36,2024-07-18,Grilled Chicken,Pepper Jack,NA,"Parmesan, Breadcrumbs",Ranch
+18-37,2024-07-18,"Grilled Chicken, Brisket",MIX,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+18-38,2024-07-18,Pulled Pork,"Melted Cheddar, Cheddar Mac",NA,NA,BBQ
+18-39,2024-07-18,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+18-40,2024-07-18,NA,NA,Garlic Bread,NA,NA
+18-41,2024-07-18,NA,NA,Garlic Bread,NA,NA
+18-42,2024-07-18,NA,NA,Cheesy Garlic Bread,NA,NA
+18-45,2024-07-18,NA,MIX,NA,"Bell Peppers, Corn, Broccoli",NA
+18-44,2024-07-18,"Bacon, Grilled Chicken, Ham, Pulled Pork, Brisket","Cheddar, Pepper Jack","Side Mac, Cheesy Garlic Bread","Corn, Onions, Bell Peppers, Parmesan, Mushrooms","Buffalo, Ranch, Garlic Parmesan"
+18-46,2024-07-18,Grilled Chicken,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Buffalo
+18-47,2024-07-18,"Bacon, Pulled Pork, Grilled Chicken","Cheddar, Alfredo",NA,"Onions, Parmesan, Breadcrumbs, Jalapenos","Ranch, BBQ"
+18-48,2024-07-18,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs","Buffalo, Ranch, Garlic Parmesan"
+18-49,2024-07-18,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Mushrooms",Buffalo
+18-51,2024-07-18,Brisket,"Pepper Jack Mac, Melted Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Buffalo
+18-52,2024-07-18,Brisket,MIX,NA,"Jalapenos, Mushrooms","Ranch, Garlic Parmesan"
+18-54,2024-07-18,NA,Cheddar,NA,NA,NA
+18-56,2024-07-18,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Tomatoes",NA
+18-58,2024-07-18,"Bacon, Pulled Pork","MIX, Melted Pepper Jack",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Hot Honey
+18-62,2024-07-18,NA,Alfredo,NA,"Onions, Parmesan, Jalapenos, Mushrooms",Buffalo
+18-60,2024-07-18,Pulled Pork,MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan, Pineapple, Mushrooms",BBQ
+18-61,2024-07-18,Brisket,MIX,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+18-63,2024-07-18,Bacon,Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",NA
+18-64,2024-07-18,Brisket,MIX,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs, Tomatoes",Garlic Parmesan
+18-65,2024-07-18,Brisket,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan",Pesto
+18-66,2024-07-18,"Bacon, Grilled Chicken",Alfredo,NA,Parmesan,Ranch
+18-68,2024-07-18,"Grilled Chicken, Brisket, Pulled Pork",Pepper Jack,NA,"Jalapenos, Corn, Pineapple","BBQ, Hot Honey"
+18-69,2024-07-18,NA,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",NA
+18-70,2024-07-18,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+18-71,2024-07-18,Grilled Chicken,Cheddar,Any Bag Of Chips,"Mushrooms, Tomatoes",Hot Honey
+18-72,2024-07-18,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers",BBQ
+18-73,2024-07-18,"Bacon, Pulled Pork",Cheddar,Garlic Bread,"Onions, Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+18-74,2024-07-18,Grilled Chicken,"Cheddar Mac, Melted Pepper Jack, MIX",Any Bag Of Chips,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Pesto, Garlic Parmesan"
+18-75,2024-07-18,"Grilled Chicken, Brisket","Pepper Jack Mac, Cheddar, Melted Pepper Jack","Side Mac, Cheesy Garlic Bread","Onions, Corn, Mushrooms","Ranch, BBQ"
+18-76,2024-07-18,Brisket,Cheddar,NA,NA,NA
+18-77,2024-07-18,NA,Cheddar,"Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+18-78,2024-07-18,Grilled Chicken,"Cheddar, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Breadcrumbs, Jalapenos, Onions, Parmesan, Mushrooms","Buffalo, Ranch, Hot Honey"
+18-79,2024-07-18,Grilled Chicken,Pepper Jack,Cheesecake,"Parmesan, Breadcrumbs",Garlic Parmesan
+18-80,2024-07-18,Pulled Pork,Cheddar,NA,Breadcrumbs,BBQ
+18-82,2024-07-18,Grilled Chicken,"Cheddar, Alfredo",Side Mac,"Corn, Broccoli, Onions, Bell Peppers, Mushrooms","Buffalo, Garlic Parmesan"
+18-84,2024-07-18,Bacon,MIX,NA,"Bell Peppers, Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+18-87,2024-07-18,Grilled Chicken,Alfredo,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+18-86,2024-07-18,Grilled Chicken,Alfredo,Garlic Bread,Parmesan,Garlic Parmesan
+18-88,2024-07-18,Brisket,"Pepper Jack, Alfredo",NA,Parmesan,BBQ
+18-89,2024-07-18,"Pulled Pork, Brisket",Alfredo,NA,"Onions, Parmesan, Breadcrumbs","Ranch, BBQ"
+18-90,2024-07-18,"Grilled Chicken, Brisket",Alfredo,NA,"Corn, Tomatoes, Broccoli, Jalapenos, Parmesan",BBQ
+18-91,2024-07-18,Bacon,Alfredo,NA,Parmesan,Ranch
+18-92,2024-07-18,"Bacon, Brisket",Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Garlic Parmesan, BBQ"
+18-93,2024-07-18,Brisket,Alfredo,NA,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan",Hot Honey
+18-94,2024-07-18,Brisket,Melted Cheddar,NA,NA,BBQ
+19-1,2024-07-19,"Pulled Pork, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Buffalo, BBQ"
+19-3,2024-07-19,Bacon,Cheddar,"Cheesecake, Cheesy Garlic Bread","Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",Hot Honey
+19-4,2024-07-19,Brisket,Cheddar,NA,NA,BBQ
+19-5,2024-07-19,Bacon,"Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan",Pesto
+19-6,2024-07-19,"Grilled Chicken, Ham","Pepper Jack, Alfredo",Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Mushrooms",Garlic Parmesan
+19-7,2024-07-19,"Bacon, Grilled Chicken","Alfredo, Pepper Jack",NA,Onions,Garlic Parmesan
+19-8,2024-07-19,Bacon,Alfredo,Cheesy Garlic Bread,Parmesan,"Ranch, Garlic Parmesan"
+19-10,2024-07-19,Brisket,Cheddar,Garlic Bread,Breadcrumbs,BBQ
+19-11,2024-07-19,Pulled Pork,Cheddar,Cheesy Garlic Bread,Breadcrumbs,NA
+19-9,2024-07-19,Pulled Pork,MIX,NA,"Onions, Parmesan, Breadcrumbs, Jalapenos",Garlic Parmesan
+19-12,2024-07-19,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Onions, Jalapenos",BBQ
+19-13,2024-07-19,NA,Melted Cheddar,Cheesecake,NA,NA
+19-14,2024-07-19,Ham,Melted Cheddar,Any Bag Of Chips,Tomatoes,Hot Honey
+19-15,2024-07-19,NA,"Melted Cheddar, Cheddar Mac",NA,"Jalapenos, Mushrooms",Hot Honey
+19-16,2024-07-19,Grilled Chicken,Alfredo,Cheesy Garlic Bread,NA,NA
+19-17,2024-07-19,Brisket,Alfredo,NA,"Breadcrumbs, Mushrooms",NA
+19-18,2024-07-19,Bacon,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+19-21,2024-07-19,Grilled Chicken,Alfredo,NA,Parmesan,Garlic Parmesan
+19-20,2024-07-19,Bacon,Alfredo,NA,Parmesan,Garlic Parmesan
+19-23,2024-07-19,Grilled Chicken,Alfredo,"Cheesecake, Cheesy Garlic Bread",Parmesan,NA
+19-19,2024-07-19,Brisket,Cheddar,Cheesy Garlic Bread,Breadcrumbs,Pesto
+19-25,2024-07-19,NA,Alfredo,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Pesto, Garlic Parmesan, Hot Honey"
+19-22,2024-07-19,"Bacon, Brisket",Cheddar,Any Bag Of Chips,Corn,"Ranch, Garlic Parmesan"
+19-24,2024-07-19,Brisket,Cheddar,Cheesy Garlic Bread,"Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan",BBQ
+19-26,2024-07-19,Brisket,Cheddar,NA,Breadcrumbs,BBQ
+19-27,2024-07-19,Bacon,Cheddar,NA,"Onions, Corn",Pesto
+19-28,2024-07-19,"Bacon, Brisket",Cheddar,NA,"Onions, Parmesan, Pineapple, Breadcrumbs","Ranch, BBQ"
+19-30,2024-07-19,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Parmesan","Buffalo, Ranch"
+19-31,2024-07-19,Grilled Chicken,Alfredo,NA,Mushrooms,Garlic Parmesan
+19-32,2024-07-19,Grilled Chicken,Cheddar,NA,"Broccoli, Mushrooms",Garlic Parmesan
+19-34,2024-07-19,Pulled Pork,Cheddar,NA,"Corn, Bell Peppers, Mushrooms",Hot Honey
+19-35,2024-07-19,"Bacon, Grilled Chicken",Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli","Pesto, Garlic Parmesan"
+19-38,2024-07-19,Brisket,"MIX, Cheddar",Cheesy Garlic Bread,"Corn, Tomatoes, Onions, Bell Peppers, Mushrooms",BBQ
+19-33,2024-07-19,NA,"Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Jalapenos, Parmesan, Mushrooms","Buffalo, Hot Honey"
+19-36,2024-07-19,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,"Parmesan, Corn, Breadcrumbs","Pesto, Garlic Parmesan"
+19-40,2024-07-19,"Bacon, Brisket","MIX, Alfredo",NA,"Parmesan, Broccoli, Breadcrumbs","Garlic Parmesan, Hot Honey"
+19-42,2024-07-19,"Bacon, Brisket",Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",NA
+19-41,2024-07-19,"Bacon, Brisket","MIX, Cheddar",NA,"Parmesan, Breadcrumbs",NA
+19-39,2024-07-19,Brisket,Cheddar,Garlic Bread,Parmesan,BBQ
+19-44,2024-07-19,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,"Onions, Breadcrumbs","Buffalo, Ranch, BBQ"
+19-45,2024-07-19,Grilled Chicken,Alfredo,NA,"Jalapenos, Corn, Bell Peppers, Parmesan",Hot Honey
+19-48,2024-07-19,"Bacon, Grilled Chicken, Brisket",Cheddar,Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+19-46,2024-07-19,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+19-47,2024-07-19,Grilled Chicken,MIX,NA,"Parmesan, Pineapple, Breadcrumbs, Tomatoes",Garlic Parmesan
+19-49,2024-07-19,Grilled Chicken,Pepper Jack,NA,"Parmesan, Corn, Mushrooms",Garlic Parmesan
+19-51,2024-07-19,Grilled Chicken,MIX,NA,"Onions, Bell Peppers, Breadcrumbs, Tomatoes",Hot Honey
+19-50,2024-07-19,NA,Cheddar,Cheesecake,NA,BBQ
+19-52,2024-07-19,"Bacon, Grilled Chicken, Brisket",MIX,Cheesy Garlic Bread,"Jalapenos, Mushrooms","Buffalo, BBQ"
+19-53,2024-07-19,Bacon,MIX,"Cheesy Garlic Bread, Cheesecake",NA,Garlic Parmesan
+19-55,2024-07-19,Brisket,Cheddar,"Garlic Bread, Lays Barbecue","Onions, Breadcrumbs",BBQ
+19-56,2024-07-19,Pulled Pork,Pepper Jack,Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Mushrooms","Buffalo, Ranch"
+19-60,2024-07-19,"Grilled Chicken, Brisket","Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+19-63,2024-07-19,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Tomatoes",NA
+19-61,2024-07-19,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs","Ranch, BBQ"
+19-62,2024-07-19,"Bacon, Ham",Alfredo,NA,"Parmesan, Breadcrumbs",NA
+19-65,2024-07-19,Grilled Chicken,"Melted Cheddar, Cheddar Mac",NA,"Parmesan, Bell Peppers",Pesto
+19-64,2024-07-19,"Bacon, Brisket","Cheddar, Alfredo",Garlic Bread,"Corn, Mushrooms",Garlic Parmesan
+19-67,2024-07-19,NA,"Melted Cheddar, Cheddar Mac",NA,NA,NA
+19-68,2024-07-19,NA,Cheddar,NA,Breadcrumbs,NA
+19-69,2024-07-19,"Grilled Chicken, Brisket",Pepper Jack,"Garlic Bread, Cheesy Garlic Bread","Jalapenos, Parmesan, Broccoli",Garlic Parmesan
+19-70,2024-07-19,Bacon,Cheddar,NA,Breadcrumbs,NA
+19-71,2024-07-19,NA,Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan, Mushrooms",BBQ
+19-72,2024-07-19,Pulled Pork,Cheddar,NA,"Onions, Parmesan, Mushrooms",BBQ
+19-73,2024-07-19,Brisket,Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan",BBQ
+19-74,2024-07-19,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Broccoli, Pineapple","BBQ, Hot Honey"
+19-75,2024-07-19,Brisket,Cheddar,NA,NA,NA
+19-76,2024-07-19,Brisket,Pepper Jack,NA,NA,NA
+19-78,2024-07-19,"Bacon, Grilled Chicken, Brisket","Melted Cheddar, Cheddar, Melted Parmesan","Side Mac, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+19-82,2024-07-19,Brisket,Cheddar,Garlic Bread,"Onions, Breadcrumbs, Jalapenos",BBQ
+19-81,2024-07-19,Bacon,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+19-83,2024-07-19,NA,MIX,NA,"Breadcrumbs, Tomatoes, Jalapenos, Bell Peppers, Parmesan",NA
+19-90,2024-07-19,Bacon,Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+19-86,2024-07-19,NA,Cheddar,NA,"Broccoli, Breadcrumbs",Garlic Parmesan
+19-88,2024-07-19,NA,Cheddar,NA,"Corn, Broccoli, Breadcrumbs","Garlic Parmesan, Hot Honey"
+19-89,2024-07-19,Pulled Pork,MIX,NA,"Parmesan, Corn, Broccoli, Breadcrumbs",NA
+19-91,2024-07-19,"Pulled Pork, Brisket",Cheddar,"Garlic Bread, Side Mac","Onions, Parmesan, Bell Peppers, Jalapenos",Buffalo
+19-92,2024-07-19,"Bacon, Grilled Chicken","Cheddar Mac, Cheddar, Melted Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Garlic Parmesan
+19-94,2024-07-19,NA,Cheddar,NA,NA,NA
+19-93,2024-07-19,"Bacon, Brisket","MIX, Cheddar",NA,"Parmesan, Corn, Breadcrumbs",NA
+19-95,2024-07-19,NA,Melted Cheddar,NA,"Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Ranch, Hot Honey, Buffalo, Pesto, BBQ"
+19-97,2024-07-19,"Ham, Grilled Chicken, Brisket","Melted Cheddar, Cheddar",NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+19-96,2024-07-19,"Pulled Pork, Brisket","MIX, Cheddar",NA,"Parmesan, Broccoli, Breadcrumbs","Ranch, Hot Honey"
+19-98,2024-07-19,"Bacon, Grilled Chicken",Alfredo,"Cheetos, Cheesy Garlic Bread","Jalapenos, Parmesan, Broccoli, Tomatoes",Pesto
+19-79,2024-07-19,NA,Pepper Jack,NA,"Corn, Breadcrumbs, Broccoli, Onions, Mushrooms","Pesto, Ranch, Garlic Parmesan"
+19-100,2024-07-19,NA,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers",Pesto
+20-1,2024-07-20,Bacon,MIX,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan, BBQ, Hot Honey"
+20-3,2024-07-20,NA,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan","Buffalo, Pesto"
+20-2,2024-07-20,Grilled Chicken,"Melted Cheddar, Cheddar",Cheesecake,NA,NA
+20-5,2024-07-20,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+20-6,2024-07-20,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Hot Honey
+20-7,2024-07-20,Brisket,"Cheddar, Alfredo",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Ranch, Garlic Parmesan, Hot Honey, Buffalo, Pesto"
+20-8,2024-07-20,Brisket,Cheddar,NA,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+20-9,2024-07-20,Ham,Cheddar,NA,Corn,Garlic Parmesan
+20-10,2024-07-20,Bacon,Cheddar,"Garlic Bread, Cheesecake, Cheesy Garlic Bread","Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+20-13,2024-07-20,Bacon,Alfredo,NA,NA,NA
+20-12,2024-07-20,Grilled Chicken,Alfredo,Any Bag Of Chips,Parmesan,Hot Honey
+20-11,2024-07-20,Ham,Cheddar,NA,Breadcrumbs,NA
+20-14,2024-07-20,Grilled Chicken,Melted Parmesan,NA,"Jalapenos, Parmesan, Bell Peppers, Mushrooms",BBQ
+20-17,2024-07-20,Grilled Chicken,Cheddar,NA,"Parmesan, Breadcrumbs",Buffalo
+20-16,2024-07-20,Grilled Chicken,Alfredo,NA,"Parmesan, Breadcrumbs, Mushrooms",Pesto
+20-15,2024-07-20,NA,"Melted Cheddar, Cheddar Mac",NA,NA,Garlic Parmesan
+20-19,2024-07-20,"Ham, Brisket","MIX, Cheddar",Any Bag Of Chips,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Mushrooms",BBQ
+20-20,2024-07-20,"Ham, Brisket","Melted Cheddar, Cheddar Mac, MIX",NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+20-23,2024-07-20,NA,Cheddar,NA,Parmesan,Garlic Parmesan
+20-22,2024-07-20,Brisket,Cheddar,NA,"Parmesan, Broccoli",BBQ
+20-21,2024-07-20,"Grilled Chicken, Brisket","MIX, Cheddar",Side Mac,"Parmesan, Pineapple, Breadcrumbs, Mushrooms","Garlic Parmesan, Hot Honey"
+20-24,2024-07-20,Bacon,MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan",Garlic Parmesan
+20-25,2024-07-20,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Jalapenos, Mushrooms",Buffalo
+20-26,2024-07-20,"Grilled Chicken, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Onions, Mushrooms","Buffalo, Ranch"
+20-27,2024-07-20,Brisket,Cheddar,Cheesy Garlic Bread,NA,Garlic Parmesan
+20-28,2024-07-20,NA,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+20-29,2024-07-20,Pulled Pork,"MIX, Cheddar",NA,NA,BBQ
+20-30,2024-07-20,"Bacon, Brisket","Cheddar, Pepper Jack",NA,"Jalapenos, Parmesan","Buffalo, Ranch, Hot Honey"
+20-31,2024-07-20,Brisket,Alfredo,NA,"Corn, Breadcrumbs, Broccoli, Onions, Mushrooms",BBQ
+20-32,2024-07-20,"Bacon, Brisket",Cheddar,"Cheetos, Cheesecake",NA,BBQ
+20-35,2024-07-20,Brisket,Pepper Jack,NA,"Jalapenos, Breadcrumbs","Buffalo, Ranch"
+20-36,2024-07-20,Grilled Chicken,Pepper Jack,NA,"Corn, Parmesan, Breadcrumbs, Mushrooms",Pesto
+20-38,2024-07-20,NA,Pepper Jack,NA,"Corn, Breadcrumbs, Jalapenos, Parmesan, Mushrooms",Ranch
+20-40,2024-07-20,Brisket,Cheddar,Cheesy Garlic Bread,"Onions, Corn, Bell Peppers, Parmesan",Ranch
+20-39,2024-07-20,"Bacon, Brisket","Cheddar, Alfredo","Garlic Bread, Any Bag Of Chips","Corn, Parmesan, Bell Peppers, Jalapenos","Garlic Parmesan, Hot Honey"
+20-42,2024-07-20,Brisket,Cheddar,NA,"Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",BBQ
+20-43,2024-07-20,"Bacon, Pulled Pork",Cheddar,Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs","BBQ, Hot Honey"
+20-44,2024-07-20,Brisket,Cheddar,NA,"Corn, Broccoli, Breadcrumbs",BBQ
+20-45,2024-07-20,NA,Cheddar,NA,"Parmesan, Breadcrumbs, Mushrooms",BBQ
+20-46,2024-07-20,NA,Pepper Jack,NA,"Jalapenos, Corn",Garlic Parmesan
+20-47,2024-07-20,Brisket,Cheddar,Cheesy Garlic Bread,Parmesan,Pesto
+20-52,2024-07-20,"Bacon, Pulled Pork",MIX,Cheesy Garlic Bread,Breadcrumbs,BBQ
+20-51,2024-07-20,Pulled Pork,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+20-53,2024-07-20,Grilled Chicken,MIX,NA,"Jalapenos, Breadcrumbs",BBQ
+20-54,2024-07-20,"Bacon, Brisket","Cheddar, Pepper Jack, Alfredo",Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs","Garlic Parmesan, Buffalo, Ranch, BBQ"
+20-55,2024-07-20,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Onions, Parmesan",BBQ
+20-58,2024-07-20,Pulled Pork,"Melted Cheddar, Cheddar Mac, Pepper Jack",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Parmesan, Mushrooms","Pesto, BBQ, Hot Honey"
+20-59,2024-07-20,Grilled Chicken,Cheddar,NA,Mushrooms,Buffalo
+20-60,2024-07-20,Pulled Pork,Alfredo,NA,"Jalapenos, Broccoli",Buffalo
+20-61,2024-07-20,NA,Cheddar,"Garlic Bread, Cheesy Garlic Bread",NA,"Ranch, Garlic Parmesan"
+20-64,2024-07-20,Bacon,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Garlic Parmesan, Hot Honey"
+20-63,2024-07-20,Brisket,MIX,Cheesy Garlic Bread,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms",BBQ
+20-62,2024-07-20,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+20-66,2024-07-20,"Bacon, Ham",Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Buffalo
+20-65,2024-07-20,Bacon,MIX,Cheesy Garlic Bread,NA,Garlic Parmesan
+20-68,2024-07-20,NA,MIX,NA,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan"
+20-67,2024-07-20,NA,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+20-69,2024-07-20,Grilled Chicken,"Melted Cheddar, Cheddar Mac",Side Mac,Parmesan,Ranch
+20-70,2024-07-20,Pulled Pork,"Cheddar Mac, Melted Parmesan",Side Mac,"Parmesan, Mushrooms",Ranch
+20-72,2024-07-20,Bacon,Cheddar,Garlic Bread,NA,Buffalo
+20-73,2024-07-20,"Bacon, Pulled Pork",Pepper Jack,Any Bag Of Chips,Onions,BBQ
+20-74,2024-07-20,Pulled Pork,Alfredo,Any Bag Of Chips,NA,BBQ
+20-76,2024-07-20,Pulled Pork,Alfredo,Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+20-77,2024-07-20,"Bacon, Ham, Brisket","Alfredo, Pepper Jack",NA,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+21-3,2024-07-21,"Bacon, Grilled Chicken",Pepper Jack,NA,Breadcrumbs,Buffalo
+21-4,2024-07-21,NA,Cheddar,Cheesecake,"Parmesan, Breadcrumbs",Hot Honey
+21-5,2024-07-21,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack, Alfredo",NA,"Parmesan, Bell Peppers, Breadcrumbs, Tomatoes","Garlic Parmesan, BBQ"
+21-6,2024-07-21,Brisket,"Cheddar, Pepper Jack",NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+21-9,2024-07-21,"Bacon, Grilled Chicken",MIX,Cheesy Garlic Bread,"Parmesan, Corn, Broccoli, Breadcrumbs",Garlic Parmesan
+21-10,2024-07-21,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Bell Peppers, Breadcrumbs, Tomatoes",Pesto
+21-12,2024-07-21,NA,Alfredo,NA,"Jalapenos, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+21-11,2024-07-21,NA,"Pepper Jack Mac, Melted Parmesan",NA,"Jalapenos, Corn, Breadcrumbs, Parmesan","Ranch, Garlic Parmesan"
+21-13,2024-07-21,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Jalapenos, Bell Peppers, Mushrooms",Buffalo
+21-15,2024-07-21,Brisket,"Melted Parmesan, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Parmesan","Garlic Parmesan, Buffalo, Ranch"
+21-14,2024-07-21,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+21-16,2024-07-21,"Bacon, Pulled Pork, Brisket",Cheddar,"Doritos, Cheesy Garlic Bread","Jalapenos, Corn, Bell Peppers, Tomatoes","Buffalo, BBQ"
+21-17,2024-07-21,Grilled Chicken,Cheddar,NA,Breadcrumbs,NA
+21-19,2024-07-21,NA,Cheddar,Cheesy Garlic Bread,NA,Pesto
+21-18,2024-07-21,"Bacon, Grilled Chicken","Pepper Jack Mac, MIX, Melted Pepper Jack",Cheesy Garlic Bread,"Corn, Breadcrumbs, Jalapenos, Parmesan, Mushrooms","Ranch, Hot Honey"
+21-8,2024-07-21,Bacon,Pepper Jack,NA,"Jalapenos, Mushrooms",BBQ
+21-20,2024-07-21,Brisket,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",BBQ
+21-24,2024-07-21,NA,NA,Garlic Bread,NA,NA
+21-21,2024-07-21,Bacon,MIX,NA,"Parmesan, Bell Peppers, Breadcrumbs, Mushrooms",Pesto
+21-25,2024-07-21,"Bacon, Pulled Pork",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+21-23,2024-07-21,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Broccoli, Mushrooms, Tomatoes","Garlic Parmesan, BBQ"
+21-26,2024-07-21,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Corn, Broccoli","Ranch, Garlic Parmesan"
+21-30,2024-07-21,Grilled Chicken,Melted Pepper Jack,NA,Parmesan,Ranch
+21-29,2024-07-21,"Grilled Chicken, Ham",MIX,NA,"Jalapenos, Corn",Hot Honey
+21-28,2024-07-21,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan","Buffalo, Ranch, Hot Honey"
+21-31,2024-07-21,Ham,MIX,Garlic Bread,"Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Hot Honey
+21-32,2024-07-21,NA,MIX,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+21-33,2024-07-21,"Pulled Pork, Brisket",Cheddar,NA,Parmesan,"Buffalo, Ranch"
+21-34,2024-07-21,Pulled Pork,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+21-35,2024-07-21,NA,MIX,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",Pesto
+21-36,2024-07-21,Grilled Chicken,MIX,Cheesy Garlic Bread,Parmesan,Hot Honey
+21-40,2024-07-21,"Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+21-38,2024-07-21,Grilled Chicken,Cheddar,NA,Jalapenos,"Buffalo, Ranch"
+21-37,2024-07-21,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Breadcrumbs","Buffalo, BBQ"
+21-39,2024-07-21,Brisket,MIX,NA,Broccoli,Garlic Parmesan
+21-41,2024-07-21,Brisket,MIX,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+21-42,2024-07-21,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,Parmesan,Buffalo
+21-44,2024-07-21,"Bacon, Grilled Chicken",MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Tomatoes","Buffalo, Garlic Parmesan"
+21-43,2024-07-21,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs","Buffalo, Garlic Parmesan"
+21-45,2024-07-21,Grilled Chicken,"Pepper Jack Mac, Cheddar, Melted Pepper Jack",NA,NA,Ranch
+21-46,2024-07-21,Grilled Chicken,"MIX, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",NA
+21-47,2024-07-21,"Grilled Chicken, Brisket, Pulled Pork",Alfredo,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Mushrooms, Tomatoes",BBQ
+21-48,2024-07-21,Pulled Pork,"Pepper Jack Mac, Melted Parmesan, Pepper Jack",NA,Breadcrumbs,BBQ
+21-49,2024-07-21,"Bacon, Pulled Pork",MIX,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Jalapenos, Bell Peppers, Parmesan","Ranch, Garlic Parmesan, BBQ, Hot Honey"
+21-51,2024-07-21,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","BBQ, Hot Honey"
+21-50,2024-07-21,NA,Alfredo,NA,"Broccoli, Breadcrumbs",Garlic Parmesan
+21-53,2024-07-21,Grilled Chicken,Alfredo,NA,"Breadcrumbs, Tomatoes, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Ranch, Garlic Parmesan"
+21-52,2024-07-21,"Bacon, Pulled Pork, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Mushrooms, Tomatoes",Garlic Parmesan
+21-54,2024-07-21,Ham,Pepper Jack,NA,"Parmesan, Corn, Bell Peppers",Hot Honey
+21-55,2024-07-21,"Grilled Chicken, Pulled Pork","Pepper Jack Mac, Melted Pepper Jack, Melted Parmesan, Alfredo",NA,"Jalapenos, Parmesan, Broccoli, Mushrooms","Buffalo, BBQ"
+21-56,2024-07-21,Pulled Pork,"Pepper Jack Mac, Melted Parmesan",Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+21-58,2024-07-21,Grilled Chicken,Alfredo,Cheesy Garlic Bread,Parmesan,Pesto
+21-59,2024-07-21,Grilled Chicken,Pepper Jack,NA,"Corn, Breadcrumbs, Broccoli, Bell Peppers, Parmesan, Mushrooms",Buffalo
+21-60,2024-07-21,Grilled Chicken,Alfredo,NA,Parmesan,NA
+21-61,2024-07-21,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,Breadcrumbs,"Buffalo, Ranch"
+21-63,2024-07-21,Brisket,Pepper Jack,NA,Breadcrumbs,Pesto
+21-64,2024-07-21,"Bacon, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs","BBQ, Hot Honey"
+21-66,2024-07-21,NA,"Pepper Jack, Alfredo","Cheesy Garlic Bread, Cheesecake","Parmesan, Breadcrumbs",Buffalo
+21-69,2024-07-21,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+21-67,2024-07-21,Pulled Pork,Pepper Jack,NA,"Jalapenos, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+21-70,2024-07-21,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+21-65,2024-07-21,Ham,Cheddar,Cheesy Garlic Bread,Breadcrumbs,NA
+21-71,2024-07-21,NA,Alfredo,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+21-73,2024-07-21,"Pulled Pork, Brisket",Pepper Jack,NA,Jalapenos,Pesto
+21-74,2024-07-21,Brisket,Cheddar,Garlic Bread,NA,BBQ
+21-75,2024-07-21,"Pulled Pork, Brisket",Cheddar,NA,Breadcrumbs,BBQ
+21-79,2024-07-21,Grilled Chicken,Alfredo,Cheesecake,"Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan, Pineapple",Hot Honey
+21-78,2024-07-21,"Grilled Chicken, Brisket, Pulled Pork","Cheddar, Alfredo",Cheesy Garlic Bread,"Corn, Breadcrumbs, Jalapenos, Parmesan, Mushrooms","Buffalo, BBQ"
+21-77,2024-07-21,"Bacon, Brisket",MIX,Cheesy Garlic Bread,NA,BBQ
+21-76,2024-07-21,"Bacon, Brisket",Cheddar,Garlic Bread,NA,NA
+21-80,2024-07-21,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli","Ranch, BBQ"
+21-81,2024-07-21,NA,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs","Ranch, Garlic Parmesan"
+21-82,2024-07-21,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Pineapple, Breadcrumbs","Ranch, BBQ"
+21-84,2024-07-21,"Pulled Pork, Brisket","Pepper Jack Mac, Cheddar, Melted Parmesan",Cheesy Garlic Bread,Mushrooms,BBQ
+21-83,2024-07-21,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Tomatoes","Ranch, BBQ"
+21-85,2024-07-21,Grilled Chicken,Melted Pepper Jack,Cheesecake,"Parmesan, Corn, Bell Peppers",Pesto
+22-2,2024-07-22,Bacon,Melted Pepper Jack,Any Bag Of Chips,Jalapenos,"Pesto, Garlic Parmesan"
+22-3,2024-07-22,"Pulled Pork, Brisket","MIX, Pepper Jack",NA,"Jalapenos, Onions, Bell Peppers, Breadcrumbs",Ranch
+22-4,2024-07-22,Grilled Chicken,Alfredo,NA,Parmesan,NA
+22-5,2024-07-22,"Bacon, Brisket",Cheddar,"Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Broccoli, Tomatoes","Garlic Parmesan, Ranch"
+22-6,2024-07-22,Grilled Chicken,Alfredo,NA,Pineapple,Ranch
+22-7,2024-07-22,"Grilled Chicken, Brisket",Cheddar,"Cheesecake, Cheesy Garlic Bread","Corn, Breadcrumbs, Broccoli, Bell Peppers, Pineapple","Garlic Parmesan, BBQ"
+22-8,2024-07-22,"Bacon, Pulled Pork, Grilled Chicken",Cheddar,NA,"Corn, Breadcrumbs, Onions, Parmesan, Pineapple, Mushrooms","Garlic Parmesan, BBQ"
+22-10,2024-07-22,Grilled Chicken,Alfredo,NA,"Broccoli, Breadcrumbs, Mushrooms",Buffalo
+22-11,2024-07-22,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Bell Peppers, Mushrooms, Tomatoes","Buffalo, Ranch"
+22-12,2024-07-22,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+22-13,2024-07-22,Brisket,Cheddar,Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",NA
+22-14,2024-07-22,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+22-15,2024-07-22,Bacon,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Mushrooms",Ranch
+22-17,2024-07-22,"Grilled Chicken, Brisket","MIX, Cheddar",Cheesy Garlic Bread,Parmesan,"Garlic Parmesan, Hot Honey"
+22-16,2024-07-22,"Bacon, Grilled Chicken, Pulled Pork","MIX, Cheddar",Garlic Bread,"Corn, Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+22-18,2024-07-22,"Bacon, Pulled Pork, Brisket","MIX, Pepper Jack","Side Mac, Any Bag Of Chips","Corn, Breadcrumbs, Tomatoes, Broccoli, Parmesan, Mushrooms","Ranch, Garlic Parmesan, BBQ"
+22-19,2024-07-22,Bacon,MIX,NA,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+22-21,2024-07-22,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+22-22,2024-07-22,NA,NA,Any Bag Of Chips,NA,NA
+22-23,2024-07-22,Bacon,MIX,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Pesto, Garlic Parmesan, Hot Honey"
+22-25,2024-07-22,Grilled Chicken,Melted Parmesan,Doritos,"Parmesan, Breadcrumbs",BBQ
+22-26,2024-07-22,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs",NA
+22-27,2024-07-22,"Bacon, Grilled Chicken, Brisket, Pulled Pork","Melted Pepper Jack, Pepper Jack",Cheesy Garlic Bread,"Onions, Parmesan, Bell Peppers","Ranch, Garlic Parmesan"
+22-28,2024-07-22,Brisket,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Bell Peppers, Breadcrumbs",Buffalo
+22-30,2024-07-22,Grilled Chicken,"Cheddar, Pepper Jack","Garlic Bread, Any Bag Of Chips","Breadcrumbs, Tomatoes, Jalapenos, Onions, Parmesan","Buffalo, Ranch, Garlic Parmesan"
+22-31,2024-07-22,Grilled Chicken,Cheddar,NA,Mushrooms,Buffalo
+22-32,2024-07-22,Bacon,Alfredo,Cheesecake,"Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+22-34,2024-07-22,Ham,Cheddar,"Side Mac, Cheesy Garlic Bread","Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Hot Honey
+22-35,2024-07-22,Brisket,"MIX, Cheddar",Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Buffalo
+22-36,2024-07-22,NA,Cheddar,NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Hot Honey"
+22-33,2024-07-22,Brisket,"Cheddar Mac, MIX, Melted Pepper Jack",NA,Parmesan,"Garlic Parmesan, BBQ"
+22-37,2024-07-22,"Grilled Chicken, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Broccoli, Breadcrumbs, Mushrooms",Garlic Parmesan
+22-38,2024-07-22,Grilled Chicken,Pepper Jack,Garlic Bread,NA,NA
+22-40,2024-07-22,"Bacon, Grilled Chicken, Brisket","Cheddar, Alfredo","Garlic Bread, Cheesy Garlic Bread","Jalapenos, Parmesan, Breadcrumbs","Garlic Parmesan, BBQ, Hot Honey"
+22-41,2024-07-22,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs","Buffalo, Ranch"
+22-42,2024-07-22,Grilled Chicken,"Melted Cheddar, Cheddar Mac",NA,NA,Buffalo
+22-43,2024-07-22,Brisket,Cheddar,NA,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",Garlic Parmesan
+22-44,2024-07-22,"Bacon, Grilled Chicken, Brisket","Melted Cheddar, Melted Pepper Jack, Alfredo Mac","Cheesy Garlic Bread, Cheesecake","Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers",Ranch
+22-45,2024-07-22,Brisket,Cheddar,Cheesy Garlic Bread,Onions,BBQ
+22-46,2024-07-22,Brisket,MIX,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+22-48,2024-07-22,Pulled Pork,Pepper Jack,"Any Bag Of Chips, Cheesy Garlic Bread","Jalapenos, Corn",BBQ
+22-49,2024-07-22,Brisket,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos",Pesto
+22-50,2024-07-22,Pulled Pork,"Melted Cheddar, Cheddar Mac",NA,NA,BBQ
+22-51,2024-07-22,"Grilled Chicken, Brisket",MIX,NA,"Onions, Parmesan, Breadcrumbs, Jalapenos",Ranch
+22-59,2024-07-22,Grilled Chicken,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+22-52,2024-07-22,"Bacon, Grilled Chicken, Ham, Pulled Pork","MIX, Melted Cheddar, Pepper Jack Mac, Cheddar, Pepper Jack","Garlic Bread, Any Bag Of Chips, Cheesy Garlic Bread, Cheesecake","Parmesan, Broccoli, Pineapple","Garlic Parmesan, BBQ"
+22-61,2024-07-22,"Bacon, Grilled Chicken","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+22-60,2024-07-22,Pulled Pork,MIX,Cheesy Garlic Bread,Parmesan,BBQ
+22-62,2024-07-22,"Bacon, Grilled Chicken","Pepper Jack Mac, Melted Cheddar",NA,"Onions, Parmesan, Bell Peppers, Jalapenos",Garlic Parmesan
+23-2,2024-07-23,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms","Ranch, BBQ"
+23-3,2024-07-23,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+23-4,2024-07-23,Brisket,Alfredo,NA,"Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Hot Honey"
+23-5,2024-07-23,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+23-6,2024-07-23,NA,Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan",NA
+23-7,2024-07-23,NA,Pepper Jack,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",NA
+23-8,2024-07-23,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Jalapenos","Garlic Parmesan, BBQ"
+23-9,2024-07-23,Brisket,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+23-10,2024-07-23,"Grilled Chicken, Pulled Pork","MIX, Cheddar","Garlic Bread, Side Mac, Cheesy Garlic Bread","Corn, Parmesan, Broccoli, Breadcrumbs",BBQ
+23-12,2024-07-23,"Bacon, Grilled Chicken, Brisket","MIX, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Parmesan, Pineapple, Mushrooms","BBQ, Hot Honey"
+23-15,2024-07-23,Brisket,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",BBQ
+23-14,2024-07-23,Brisket,"MIX, Cheddar",NA,"Parmesan, Broccoli",Pesto
+23-13,2024-07-23,Ham,Cheddar,"Side Mac, Cheesy Garlic Bread",Pineapple,BBQ
+23-17,2024-07-23,Grilled Chicken,MIX,NA,"Broccoli, Tomatoes",Garlic Parmesan
+23-18,2024-07-23,NA,Cheddar,NA,"Broccoli, Breadcrumbs",BBQ
+23-19,2024-07-23,"Bacon, Brisket",Cheddar,NA,"Onions, Bell Peppers, Jalapenos","BBQ, Hot Honey"
+23-21,2024-07-23,Brisket,MIX,Cheesy Garlic Bread,"Onions, Breadcrumbs, Tomatoes",Garlic Parmesan
+23-23,2024-07-23,Brisket,MIX,NA,"Onions, Parmesan, Jalapenos",Buffalo
+23-25,2024-07-23,Bacon,Alfredo,NA,"Onions, Bell Peppers",NA
+23-24,2024-07-23,NA,Pepper Jack,Cheesecake,NA,NA
+23-22,2024-07-23,Grilled Chicken,"Cheddar, Alfredo",NA,"Parmesan, Broccoli, Mushrooms","Pesto, Garlic Parmesan"
+23-26,2024-07-23,Grilled Chicken,"Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan","Buffalo, Garlic Parmesan"
+23-27,2024-07-23,"Pulled Pork, Brisket","Pepper Jack Mac, Melted Cheddar, Melted Pepper Jack","Side Mac, Cheesy Garlic Bread","Onions, Parmesan, Bell Peppers, Tomatoes","Pesto, Garlic Parmesan"
+23-33,2024-07-23,Brisket,Melted Pepper Jack,Side Mac,"Onions, Parmesan, Bell Peppers",Pesto
+23-32,2024-07-23,"Bacon, Brisket","Cheddar, Alfredo",Any Bag Of Chips,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Pineapple, Mushrooms","Pesto, BBQ, Hot Honey"
+23-34,2024-07-23,NA,Cheddar,NA,"Parmesan, Breadcrumbs",NA
+23-35,2024-07-23,Grilled Chicken,"Pepper Jack Mac, Melted Pepper Jack",Cheesecake,"Jalapenos, Pineapple, Tomatoes","Pesto, Garlic Parmesan"
+23-39,2024-07-23,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Parmesan, Broccoli",Garlic Parmesan
+23-37,2024-07-23,"Grilled Chicken, Ham, Brisket","Pepper Jack Mac, Melted Pepper Jack",Garlic Bread,"Onions, Bell Peppers, Jalapenos, Tomatoes","Pesto, Garlic Parmesan"
+23-40,2024-07-23,NA,"MIX, Cheddar",Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+23-41,2024-07-23,Bacon,MIX,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple","Pesto, Garlic Parmesan, Hot Honey"
+23-42,2024-07-23,Bacon,Cheddar,Cheesy Garlic Bread,NA,NA
+23-43,2024-07-23,NA,Cheddar,Garlic Bread,NA,NA
+23-44,2024-07-23,"Bacon, Grilled Chicken",Pepper Jack,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Parmesan",Hot Honey
+23-45,2024-07-23,Bacon,Cheddar,NA,NA,"Buffalo, BBQ, Hot Honey"
+23-47,2024-07-23,Pulled Pork,"MIX, Cheddar",NA,"Corn, Breadcrumbs, Tomatoes, Onions, Pineapple","Ranch, Garlic Parmesan, BBQ"
+23-48,2024-07-23,"Pulled Pork, Brisket",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Garlic Parmesan
+23-49,2024-07-23,Grilled Chicken,Alfredo,"Doritos, Side Mac","Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+23-50,2024-07-23,Bacon,"Melted Cheddar, Cheddar Mac",Cheetos,NA,NA
+23-46,2024-07-23,Brisket,Cheddar,Any Bag Of Chips,Jalapenos,BBQ
+23-51,2024-07-23,Bacon,Cheddar,Garlic Bread,NA,Buffalo
+23-52,2024-07-23,NA,Melted Cheddar,NA,"Jalapenos, Bell Peppers",NA
+23-53,2024-07-23,Brisket,Pepper Jack,NA,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",BBQ
+23-54,2024-07-23,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Jalapenos, Corn",Garlic Parmesan
+23-55,2024-07-23,Brisket,Cheddar,Cheesy Garlic Bread,Broccoli,BBQ
+23-56,2024-07-23,Grilled Chicken,MIX,Cheesy Garlic Bread,Breadcrumbs,Ranch
+23-57,2024-07-23,Grilled Chicken,Alfredo,Lays Classic,NA,Ranch
+23-58,2024-07-23,Pulled Pork,Alfredo,NA,"Corn, Broccoli, Bell Peppers, Parmesan, Mushrooms",Buffalo
+23-61,2024-07-23,Pulled Pork,Alfredo,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Parmesan, Mushrooms",Pesto
+23-60,2024-07-23,"Bacon, Pulled Pork, Brisket","MIX, Cheddar","Garlic Bread, Cheesy Garlic Bread","Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Ranch, Hot Honey"
+23-63,2024-07-23,"Ham, Pulled Pork","Cheddar, Melted Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Parmesan, Pineapple","Buffalo, Hot Honey"
+23-64,2024-07-23,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+23-66,2024-07-23,Grilled Chicken,Cheddar,Garlic Bread,Breadcrumbs,Buffalo
+23-67,2024-07-23,"Pulled Pork, Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Onions, Corn, Jalapenos, Parmesan","Buffalo, BBQ"
+23-68,2024-07-23,"Grilled Chicken, Brisket, Pulled Pork",Alfredo,NA,"Parmesan, Mushrooms, Tomatoes",BBQ
+23-70,2024-07-23,"Pulled Pork, Brisket","Pepper Jack Mac, Melted Cheddar",NA,NA,"Ranch, BBQ"
+23-69,2024-07-23,Brisket,Cheddar,NA,Breadcrumbs,Hot Honey
+23-71,2024-07-23,Grilled Chicken,Pepper Jack,NA,"Onions, Broccoli, Tomatoes",Garlic Parmesan
+23-72,2024-07-23,Pulled Pork,"Pepper Jack Mac, Cheddar, Melted Pepper Jack",NA,"Parmesan, Breadcrumbs",BBQ
+23-73,2024-07-23,Bacon,Cheddar,NA,"Corn, Parmesan, Broccoli, Breadcrumbs","Pesto, Garlic Parmesan"
+23-75,2024-07-23,Brisket,Cheddar,NA,"Jalapenos, Broccoli, Breadcrumbs, Bell Peppers","Garlic Parmesan, Hot Honey"
+23-77,2024-07-23,NA,MIX,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan",NA
+23-76,2024-07-23,NA,Cheddar,NA,"Broccoli, Breadcrumbs",NA
+23-78,2024-07-23,NA,Pepper Jack,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Mushrooms",Pesto
+23-79,2024-07-23,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos","Ranch, BBQ"
+23-80,2024-07-23,"Pulled Pork, Brisket",MIX,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, BBQ"
+23-82,2024-07-23,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Bell Peppers",BBQ
+23-81,2024-07-23,"Grilled Chicken, Brisket, Pulled Pork","MIX, Cheddar",NA,"Onions, Parmesan, Jalapenos","Garlic Parmesan, Ranch"
+23-83,2024-07-23,Brisket,MIX,NA,"Onions, Parmesan, Breadcrumbs",Garlic Parmesan
+23-84,2024-07-23,Ham,Cheddar,NA,"Parmesan, Corn, Bell Peppers, Mushrooms","Buffalo, Ranch"
+23-86,2024-07-23,"Ham, Brisket","Cheddar, Melted Pepper Jack","Garlic Bread, Side Mac, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan","Garlic Parmesan, BBQ, Hot Honey"
+24-2,2024-07-24,Brisket,Cheddar,Cheesy Garlic Bread,"Onions, Corn, Breadcrumbs",Garlic Parmesan
+24-3,2024-07-24,Pulled Pork,Melted Cheddar,Cheesy Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",Garlic Parmesan
+24-4,2024-07-24,Brisket,Cheddar,Garlic Bread,"Corn, Bell Peppers, Mushrooms",BBQ
+24-6,2024-07-24,Ham,Cheddar,NA,"Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",NA
+24-10,2024-07-24,"Grilled Chicken, Ham",Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Hot Honey"
+24-9,2024-07-24,Grilled Chicken,Cheddar,Garlic Bread,"Onions, Parmesan, Breadcrumbs",BBQ
+24-8,2024-07-24,NA,"MIX, Cheddar",Any Bag Of Chips,"Breadcrumbs, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",NA
+24-14,2024-07-24,Brisket,"Pepper Jack, Alfredo",Cheesy Garlic Bread,"Onions, Breadcrumbs, Jalapenos","Garlic Parmesan, Hot Honey"
+24-12,2024-07-24,"Grilled Chicken, Brisket","MIX, Cheddar, Pepper Jack",NA,"Corn, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Pesto
+24-15,2024-07-24,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli",Pesto
+24-16,2024-07-24,"Grilled Chicken, Brisket",Alfredo,NA,"Parmesan, Broccoli, Breadcrumbs","Buffalo, Ranch"
+24-17,2024-07-24,"Grilled Chicken, Brisket",Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Mushrooms","Buffalo, BBQ"
+24-20,2024-07-24,Brisket,MIX,NA,"Corn, Broccoli, Onions, Jalapenos, Mushrooms","Garlic Parmesan, BBQ"
+24-19,2024-07-24,NA,MIX,NA,"Jalapenos, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+24-21,2024-07-24,"Grilled Chicken, Brisket",Alfredo,NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+24-23,2024-07-24,Bacon,MIX,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs","Pesto, Ranch, Garlic Parmesan"
+24-24,2024-07-24,Grilled Chicken,MIX,NA,"Onions, Parmesan, Breadcrumbs","Pesto, Ranch, Garlic Parmesan"
+24-26,2024-07-24,Bacon,"MIX, Cheddar",NA,NA,NA
+24-25,2024-07-24,"Ham, Brisket","Cheddar, Melted Pepper Jack",NA,"Breadcrumbs, Tomatoes, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, BBQ"
+24-27,2024-07-24,Grilled Chicken,MIX,Cheesy Garlic Bread,"Onions, Bell Peppers, Jalapenos",Ranch
+24-29,2024-07-24,Bacon,Pepper Jack,NA,"Onions, Breadcrumbs, Jalapenos, Mushrooms",Pesto
+24-28,2024-07-24,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Breadcrumbs, Mushrooms",NA
+24-30,2024-07-24,"Pulled Pork, Grilled Chicken, Ham","Cheddar, Alfredo",NA,"Corn, Tomatoes, Broccoli, Jalapenos, Onions, Bell Peppers, Parmesan, Mushrooms","Pesto, BBQ"
+24-32,2024-07-24,Pulled Pork,Cheddar,NA,"Broccoli, Breadcrumbs",BBQ
+24-34,2024-07-24,Brisket,Cheddar,NA,"Onions, Corn, Breadcrumbs, Mushrooms",Hot Honey
+24-35,2024-07-24,Brisket,Cheddar,NA,"Jalapenos, Corn, Broccoli, Tomatoes",BBQ
+24-37,2024-07-24,Brisket,MIX,NA,"Onions, Corn, Breadcrumbs, Jalapenos",Buffalo
+24-36,2024-07-24,NA,Cheddar,Any Bag Of Chips,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+24-39,2024-07-24,"Bacon, Pulled Pork, Ham","Cheddar, Pepper Jack",NA,"Onions, Corn, Parmesan, Bell Peppers","Buffalo, Ranch, BBQ"
+24-40,2024-07-24,NA,"MIX, Cheddar",NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+24-41,2024-07-24,NA,"Pepper Jack Mac, Melted Cheddar",NA,Jalapenos,NA
+24-42,2024-07-24,Bacon,MIX,Garlic Bread,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Mushrooms",Garlic Parmesan
+24-43,2024-07-24,Brisket,Pepper Jack,Cheesy Garlic Bread,"Jalapenos, Breadcrumbs",Buffalo
+24-44,2024-07-24,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+24-45,2024-07-24,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+24-46,2024-07-24,Brisket,Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+24-47,2024-07-24,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+24-48,2024-07-24,Brisket,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+24-49,2024-07-24,Pulled Pork,Alfredo,Cheesy Garlic Bread,"Onions, Corn, Parmesan, Tomatoes","Pesto, Hot Honey"
+24-50,2024-07-24,Grilled Chicken,Cheddar,NA,"Jalapenos, Parmesan, Broccoli, Mushrooms",Garlic Parmesan
+24-51,2024-07-24,Grilled Chicken,Cheddar,NA,Broccoli,NA
+24-52,2024-07-24,Grilled Chicken,Pepper Jack,NA,"Onions, Corn, Breadcrumbs, Mushrooms",Garlic Parmesan
+24-53,2024-07-24,"Pulled Pork, Brisket",Cheddar,"Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs","Ranch, BBQ"
+24-54,2024-07-24,Brisket,"Pepper Jack Mac, Cheddar, Melted Pepper Jack","Cheesecake, Cheesy Garlic Bread","Onions, Breadcrumbs",BBQ
+24-57,2024-07-24,"Pulled Pork, Brisket",Cheddar,"Garlic Bread, Any Bag Of Chips","Broccoli, Breadcrumbs","Ranch, BBQ"
+24-58,2024-07-24,Ham,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn",NA
+24-59,2024-07-24,Brisket,Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Hot Honey
+24-61,2024-07-24,"Bacon, Grilled Chicken",Cheddar,NA,"Breadcrumbs, Tomatoes",Garlic Parmesan
+24-63,2024-07-24,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Onions, Parmesan, Jalapenos","Buffalo, Garlic Parmesan, Hot Honey"
+24-62,2024-07-24,Ham,"Melted Cheddar, Cheddar Mac, Alfredo Mac",Cheesy Garlic Bread,"Parmesan, Mushrooms",NA
+24-64,2024-07-24,"Grilled Chicken, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Pesto, BBQ"
+24-65,2024-07-24,NA,Alfredo,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+24-66,2024-07-24,Grilled Chicken,"MIX, Cheddar",NA,"Corn, Broccoli, Breadcrumbs",BBQ
+24-67,2024-07-24,"Bacon, Ham, Brisket",Alfredo,NA,"Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple","Ranch, Garlic Parmesan"
+24-68,2024-07-24,Grilled Chicken,MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Parmesan, Pineapple","Garlic Parmesan, BBQ"
+24-69,2024-07-24,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Corn, Breadcrumbs","Ranch, Garlic Parmesan"
+24-70,2024-07-24,NA,Alfredo,NA,Broccoli,NA
+24-71,2024-07-24,Grilled Chicken,"Cheddar, Alfredo",Cheesy Garlic Bread,"Broccoli, Breadcrumbs","Garlic Parmesan, BBQ"
+25-1,2024-07-25,Brisket,Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+25-3,2024-07-25,"Grilled Chicken, Ham, Pulled Pork","MIX, Alfredo","Garlic Bread, Any Bag Of Chips","Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+25-4,2024-07-25,Grilled Chicken,Alfredo,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs","Pesto, Ranch, Garlic Parmesan"
+25-5,2024-07-25,NA,MIX,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Pineapple, Mushrooms",NA
+25-6,2024-07-25,Brisket,Cheddar,NA,Corn,BBQ
+25-7,2024-07-25,"Grilled Chicken, Pulled Pork",Cheddar,NA,Tomatoes,"Ranch, Hot Honey"
+25-8,2024-07-25,"Bacon, Ham, Brisket","Cheddar, Alfredo",NA,"Corn, Tomatoes, Broccoli, Onions, Mushrooms",NA
+25-9,2024-07-25,"Grilled Chicken, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos","Garlic Parmesan, BBQ"
+25-10,2024-07-25,Grilled Chicken,Pepper Jack,Garlic Bread,Tomatoes,NA
+25-12,2024-07-25,Brisket,Cheddar,Cheesy Garlic Bread,"Broccoli, Breadcrumbs",Pesto
+25-15,2024-07-25,"Grilled Chicken, Brisket",Cheddar,NA,"Jalapenos, Corn, Bell Peppers","Garlic Parmesan, BBQ"
+25-14,2024-07-25,Bacon,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",NA
+25-13,2024-07-25,Brisket,MIX,NA,"Jalapenos, Parmesan, Breadcrumbs",Hot Honey
+25-16,2024-07-25,Grilled Chicken,Alfredo,NA,"Onions, Corn, Broccoli, Bell Peppers",Pesto
+25-17,2024-07-25,"Bacon, Ham, Pulled Pork","Cheddar, Alfredo","Any Bag Of Chips, Cheesy Garlic Bread","Onions, Parmesan, Breadcrumbs, Jalapenos","Buffalo, BBQ, Hot Honey"
+25-20,2024-07-25,Pulled Pork,Cheddar,NA,NA,"BBQ, Hot Honey"
+25-19,2024-07-25,"Pulled Pork, Brisket",Cheddar,Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos",Hot Honey
+25-21,2024-07-25,Bacon,Cheddar,NA,"Parmesan, Corn",Garlic Parmesan
+25-18,2024-07-25,"Bacon, Ham, Grilled Chicken, Pulled Pork, Brisket","Cheddar, Pepper Jack, Alfredo",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Onions, Bell Peppers, Parmesan, Pineapple, Mushrooms",NA
+25-22,2024-07-25,NA,Cheddar,NA,"Parmesan, Breadcrumbs",NA
+25-25,2024-07-25,Bacon,Cheddar,Cheesy Garlic Bread,NA,NA
+25-23,2024-07-25,NA,Cheddar,NA,NA,NA
+25-24,2024-07-25,NA,NA,Side Mac,NA,NA
+25-27,2024-07-25,Brisket,Cheddar,Side Mac,"Jalapenos, Corn, Mushrooms",Garlic Parmesan
+25-28,2024-07-25,NA,MIX,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Garlic Parmesan
+25-29,2024-07-25,Pulled Pork,Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+25-30,2024-07-25,"Bacon, Brisket",Pepper Jack,NA,Parmesan,NA
+25-26,2024-07-25,"Bacon, Ham, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Bell Peppers, Parmesan","Garlic Parmesan, Hot Honey"
+25-32,2024-07-25,Brisket,Cheddar,Cheesy Garlic Bread,Broccoli,BBQ
+25-34,2024-07-25,NA,"Cheddar Mac, Melted Pepper Jack",NA,"Onions, Corn, Jalapenos, Parmesan","Garlic Parmesan, Hot Honey"
+25-36,2024-07-25,"Bacon, Pulled Pork, Brisket","Melted Cheddar, Cheddar",Cheesy Garlic Bread,"Parmesan, Bell Peppers, Tomatoes","Garlic Parmesan, BBQ, Hot Honey"
+25-37,2024-07-25,"Bacon, Ham",Cheddar,"Side Mac, Cheesy Garlic Bread","Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",Buffalo
+25-38,2024-07-25,Brisket,"MIX, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ, Hot Honey"
+25-39,2024-07-25,Grilled Chicken,Alfredo,Garlic Bread,Broccoli,Ranch
+25-40,2024-07-25,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",BBQ
+25-41,2024-07-25,Pulled Pork,MIX,NA,"Onions, Corn, Tomatoes",Ranch
+25-42,2024-07-25,Grilled Chicken,Cheddar,NA,"Parmesan, Corn, Bell Peppers, Breadcrumbs",NA
+25-43,2024-07-25,Grilled Chicken,MIX,Cheesecake,"Broccoli, Breadcrumbs",Garlic Parmesan
+25-45,2024-07-25,Grilled Chicken,Cheddar,NA,Mushrooms,Buffalo
+25-47,2024-07-25,Bacon,Cheddar,NA,Breadcrumbs,Ranch
+25-46,2024-07-25,Bacon,Cheddar,NA,NA,Ranch
+25-48,2024-07-25,Bacon,Cheddar,NA,Breadcrumbs,Ranch
+25-50,2024-07-25,"Bacon, Grilled Chicken",Cheddar,NA,"Broccoli, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+25-49,2024-07-25,Brisket,Cheddar,Cheesecake,"Onions, Parmesan, Bell Peppers, Tomatoes",Buffalo
+25-52,2024-07-25,Bacon,"Melted Cheddar, Cheddar Mac",Any Bag Of Chips,NA,BBQ
+25-53,2024-07-25,Pulled Pork,"Melted Cheddar, Cheddar",Any Bag Of Chips,NA,BBQ
+25-54,2024-07-25,Brisket,Alfredo,Cheesecake,Parmesan,NA
+25-56,2024-07-25,Bacon,Cheddar,Garlic Bread,NA,Garlic Parmesan
+25-55,2024-07-25,Grilled Chicken,Alfredo,Cheesy Garlic Bread,Parmesan,Garlic Parmesan
+25-57,2024-07-25,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",NA
+25-58,2024-07-25,Grilled Chicken,"MIX, Cheddar","Garlic Bread, Cheesy Garlic Bread","Onions, Parmesan, Breadcrumbs","Buffalo, BBQ"
+25-61,2024-07-25,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+25-62,2024-07-25,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+25-64,2024-07-25,Grilled Chicken,Cheddar,NA,"Onions, Corn, Breadcrumbs",Garlic Parmesan
+25-65,2024-07-25,"Ham, Brisket","Cheddar, Alfredo",Garlic Bread,"Onions, Broccoli, Mushrooms, Tomatoes",Garlic Parmesan
+25-63,2024-07-25,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Breadcrumbs","Pesto, Ranch"
+25-67,2024-07-25,Brisket,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+25-66,2024-07-25,"Bacon, Grilled Chicken",MIX,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Mushrooms","Pesto, Garlic Parmesan"
+25-69,2024-07-25,"Bacon, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Buffalo, BBQ"
+25-68,2024-07-25,Grilled Chicken,"Cheddar, Alfredo",Cheesy Garlic Bread,"Corn, Parmesan, Broccoli, Bell Peppers",Garlic Parmesan
+25-70,2024-07-25,Bacon,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+25-71,2024-07-25,"Grilled Chicken, Brisket",Alfredo,NA,Mushrooms,NA
+25-73,2024-07-25,"Bacon, Grilled Chicken, Brisket",Pepper Jack,NA,"Corn, Breadcrumbs, Jalapenos, Bell Peppers, Parmesan","Buffalo, Ranch, BBQ"
+25-75,2024-07-25,Brisket,Pepper Jack,NA,NA,BBQ
+26-3,2024-07-26,Grilled Chicken,Alfredo,NA,Parmesan,Garlic Parmesan
+26-2,2024-07-26,Brisket,Alfredo,Garlic Bread,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Mushrooms",Hot Honey
+26-5,2024-07-26,Ham,Pepper Jack,NA,"Onions, Broccoli, Jalapenos, Tomatoes",Pesto
+26-7,2024-07-26,Ham,MIX,"Garlic Bread, Cheesy Garlic Bread","Broccoli, Breadcrumbs, Mushrooms",Garlic Parmesan
+26-6,2024-07-26,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Jalapenos, Corn, Broccoli, Bell Peppers",BBQ
+26-9,2024-07-26,Brisket,Cheddar,Cheesy Garlic Bread,"Onions, Corn, Jalapenos",NA
+26-10,2024-07-26,Brisket,Pepper Jack,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Jalapenos, Bell Peppers, Parmesan, Mushrooms",BBQ
+26-8,2024-07-26,"Pulled Pork, Brisket",Pepper Jack,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos",NA
+26-11,2024-07-26,Brisket,Cheddar,NA,"Corn, Breadcrumbs, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, BBQ"
+26-12,2024-07-26,"Bacon, Brisket","Cheddar, Melted Pepper Jack",Garlic Bread,Parmesan,"BBQ, Hot Honey"
+26-13,2024-07-26,Grilled Chicken,Cheddar,NA,"Broccoli, Mushrooms",Buffalo
+26-14,2024-07-26,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+26-15,2024-07-26,"Bacon, Grilled Chicken, Pulled Pork",Cheddar,Any Bag Of Chips,"Parmesan, Broccoli, Breadcrumbs",NA
+26-16,2024-07-26,Grilled Chicken,"MIX, Alfredo",Any Bag Of Chips,"Parmesan, Breadcrumbs, Mushrooms",NA
+26-17,2024-07-26,"Grilled Chicken, Ham",Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Buffalo, Garlic Parmesan, Hot Honey"
+26-21,2024-07-26,Grilled Chicken,Alfredo,NA,"Parmesan, Corn, Broccoli, Breadcrumbs",Pesto
+26-22,2024-07-26,Brisket,Cheddar,NA,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+26-18,2024-07-26,Bacon,Cheddar,Garlic Bread,"Parmesan, Bell Peppers, Tomatoes",Garlic Parmesan
+26-20,2024-07-26,"Grilled Chicken, Ham",Cheddar,Garlic Bread,"Mushrooms, Tomatoes",BBQ
+26-23,2024-07-26,Brisket,MIX,NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs",Ranch
+26-27,2024-07-26,Grilled Chicken,Pepper Jack,NA,"Corn, Breadcrumbs, Onions, Jalapenos, Mushrooms","Buffalo, Hot Honey"
+26-25,2024-07-26,Brisket,Cheddar,NA,"Parmesan, Corn","Garlic Parmesan, Hot Honey"
+26-24,2024-07-26,"Grilled Chicken, Brisket",Alfredo,NA,"Parmesan, Breadcrumbs","Buffalo, Ranch, BBQ"
+26-26,2024-07-26,Brisket,Pepper Jack,NA,"Onions, Corn, Mushrooms, Tomatoes","Garlic Parmesan, BBQ"
+26-28,2024-07-26,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,Breadcrumbs,"Ranch, BBQ"
+26-29,2024-07-26,NA,Cheddar,Cheesy Garlic Bread,"Corn, Broccoli, Onions, Jalapenos, Bell Peppers, Mushrooms",Hot Honey
+26-30,2024-07-26,"Bacon, Grilled Chicken",MIX,Garlic Bread,"Onions, Bell Peppers, Breadcrumbs, Jalapenos",Ranch
+26-31,2024-07-26,"Bacon, Brisket",Cheddar,NA,Breadcrumbs,Buffalo
+26-32,2024-07-26,NA,Cheddar,NA,NA,Buffalo
+26-33,2024-07-26,"Bacon, Grilled Chicken","Melted Cheddar, Cheddar","Side Mac, Cheesy Garlic Bread","Parmesan, Breadcrumbs",Buffalo
+26-36,2024-07-26,"Grilled Chicken, Ham",Alfredo,NA,"Parmesan, Breadcrumbs, Tomatoes",NA
+26-39,2024-07-26,"Bacon, Ham",MIX,NA,Parmesan,NA
+26-38,2024-07-26,Ham,MIX,Cheesy Garlic Bread,"Parmesan, Broccoli",Garlic Parmesan
+26-37,2024-07-26,Grilled Chicken,Cheddar,Garlic Bread,Mushrooms,Buffalo
+26-40,2024-07-26,NA,MIX,NA,NA,NA
+26-42,2024-07-26,"Bacon, Brisket",MIX,NA,"Jalapenos, Breadcrumbs",Hot Honey
+26-43,2024-07-26,"Grilled Chicken, Brisket",MIX,NA,"Corn, Tomatoes","Buffalo, Hot Honey"
+26-44,2024-07-26,Brisket,Pepper Jack,NA,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",BBQ
+26-45,2024-07-26,Grilled Chicken,"Melted Cheddar, Cheddar Mac",NA,Tomatoes,NA
+26-47,2024-07-26,"Bacon, Pulled Pork",MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Hot Honey
+26-48,2024-07-26,Grilled Chicken,Cheddar,NA,NA,NA
+26-49,2024-07-26,Bacon,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Jalapenos,Buffalo
+26-52,2024-07-26,Brisket,Melted Cheddar,NA,Onions,Garlic Parmesan
+26-53,2024-07-26,Brisket,Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs",Hot Honey
+26-55,2024-07-26,Brisket,Pepper Jack,Cheesy Garlic Bread,"Onions, Parmesan",Buffalo
+26-57,2024-07-26,"Bacon, Brisket",Cheddar,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+26-59,2024-07-26,"Grilled Chicken, Brisket",Pepper Jack,"Garlic Bread, Any Bag Of Chips","Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers","Buffalo, Hot Honey"
+26-61,2024-07-26,Grilled Chicken,Pepper Jack,NA,"Parmesan, Broccoli, Breadcrumbs",Ranch
+26-62,2024-07-26,Grilled Chicken,Cheddar,Cheesy Garlic Bread,Parmesan,"Buffalo, Ranch, Garlic Parmesan"
+26-63,2024-07-26,Brisket,Cheddar,NA,"Onions, Corn, Broccoli, Bell Peppers","Ranch, BBQ"
+26-64,2024-07-26,NA,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Buffalo
+26-68,2024-07-26,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs","Ranch, BBQ"
+26-69,2024-07-26,Brisket,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+26-71,2024-07-26,"Bacon, Brisket","Cheddar, Pepper Jack",Garlic Bread,"Onions, Corn, Breadcrumbs",BBQ
+26-70,2024-07-26,"Bacon, Pulled Pork, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Corn, Parmesan, Broccoli, Mushrooms",BBQ
+26-72,2024-07-26,Grilled Chicken,MIX,NA,"Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan","Pesto, Garlic Parmesan"
+26-73,2024-07-26,Brisket,Pepper Jack,NA,"Bell Peppers, Parmesan, Broccoli, Mushrooms",Buffalo
+26-74,2024-07-26,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Bell Peppers, Breadcrumbs",Garlic Parmesan
+26-75,2024-07-26,"Bacon, Brisket",Pepper Jack,Cheesy Garlic Bread,NA,NA
+26-76,2024-07-26,Grilled Chicken,Alfredo,Cheesy Garlic Bread,NA,NA
+26-77,2024-07-26,"Bacon, Grilled Chicken",MIX,NA,Parmesan,NA
+26-79,2024-07-26,Brisket,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers","Garlic Parmesan, Hot Honey"
+26-78,2024-07-26,"Grilled Chicken, Brisket","Cheddar Mac, Cheddar, Melted Pepper Jack","Garlic Bread, Cheesecake, Cheesy Garlic Bread","Onions, Broccoli, Jalapenos, Mushrooms","Ranch, Garlic Parmesan"
+26-80,2024-07-26,"Bacon, Brisket","Alfredo, Pepper Jack",NA,"Onions, Parmesan, Broccoli, Mushrooms","Buffalo, Garlic Parmesan"
+26-81,2024-07-26,Bacon,Cheddar,NA,NA,NA
+26-82,2024-07-26,Brisket,MIX,Cheesecake,NA,Garlic Parmesan
+26-84,2024-07-26,Brisket,Pepper Jack,NA,Jalapenos,BBQ
+26-83,2024-07-26,"Ham, Brisket","MIX, Cheddar","Garlic Bread, Any Bag Of Chips, Cheesy Garlic Bread","Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Parmesan",Garlic Parmesan
+26-85,2024-07-26,Grilled Chicken,Cheddar,Garlic Bread,"Corn, Broccoli",NA
+26-86,2024-07-26,Bacon,Alfredo,NA,"Broccoli, Mushrooms",Garlic Parmesan
+26-87,2024-07-26,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Corn","Ranch, Hot Honey"
+26-89,2024-07-26,Brisket,Cheddar,NA,"Corn, Tomatoes, Onions, Bell Peppers, Parmesan",Hot Honey
+26-90,2024-07-26,Ham,Alfredo,Garlic Bread,NA,NA
+26-91,2024-07-26,"Bacon, Grilled Chicken",Pepper Jack,NA,Jalapenos,NA
+26-92,2024-07-26,NA,Pepper Jack,NA,"Onions, Breadcrumbs, Jalapenos","Pesto, Garlic Parmesan"
+26-93,2024-07-26,NA,Cheddar,NA,"Onions, Parmesan, Jalapenos",Garlic Parmesan
+26-95,2024-07-26,Bacon,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Onions,"Ranch, Garlic Parmesan"
+26-96,2024-07-26,"Grilled Chicken, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",NA,"Parmesan, Breadcrumbs","Ranch, Garlic Parmesan"
+26-97,2024-07-26,Brisket,Melted Cheddar,"Side Mac, Cheesy Garlic Bread",Onions,BBQ
+26-100,2024-07-26,"Bacon, Grilled Chicken",Cheddar,Garlic Bread,Breadcrumbs,Ranch
+26-99,2024-07-26,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Parmesan, Corn, Breadcrumbs, Mushrooms",Hot Honey
+26-98,2024-07-26,NA,Cheddar,Garlic Bread,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan",Pesto
+27-3,2024-07-27,Grilled Chicken,"Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Corn",BBQ
+27-4,2024-07-27,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan","Ranch, Hot Honey"
+27-8,2024-07-27,Pulled Pork,Cheddar,NA,"Parmesan, Breadcrumbs",Buffalo
+27-6,2024-07-27,Grilled Chicken,"MIX, Melted Pepper Jack",Cheesy Garlic Bread,Breadcrumbs,"Buffalo, Ranch"
+27-5,2024-07-27,"Grilled Chicken, Pulled Pork",Cheddar,Cheesy Garlic Bread,"Onions, Parmesan, Breadcrumbs, Jalapenos","Garlic Parmesan, BBQ"
+27-10,2024-07-27,NA,Melted Cheddar,Any Bag Of Chips,NA,NA
+27-9,2024-07-27,Bacon,Cheddar,NA,"Parmesan, Mushrooms",NA
+27-11,2024-07-27,"Bacon, Ham, Brisket","Melted Cheddar, Cheddar, Alfredo Mac",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",Ranch
+27-12,2024-07-27,"Bacon, Brisket",Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, Garlic Parmesan, Hot Honey, Buffalo, Pesto, BBQ"
+27-13,2024-07-27,NA,MIX,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Parmesan, Mushrooms",Garlic Parmesan
+27-14,2024-07-27,Brisket,Cheddar,Cheesy Garlic Bread,"Broccoli, Breadcrumbs",NA
+27-15,2024-07-27,NA,Pepper Jack,NA,"Corn, Mushrooms, Breadcrumbs, Tomatoes",Pesto
+27-16,2024-07-27,Grilled Chicken,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",Hot Honey
+27-17,2024-07-27,Brisket,Cheddar,Cheesy Garlic Bread,"Corn, Mushrooms, Breadcrumbs, Tomatoes",Ranch
+27-18,2024-07-27,Pulled Pork,Pepper Jack,NA,"Jalapenos, Bell Peppers, Breadcrumbs, Tomatoes",Buffalo
+27-20,2024-07-27,"Bacon, Pulled Pork, Brisket",Cheddar,"Cheesy Garlic Bread, Cheesecake","Parmesan, Corn, Broccoli, Breadcrumbs","Ranch, Garlic Parmesan, BBQ"
+27-19,2024-07-27,"Bacon, Pulled Pork, Brisket","MIX, Cheddar","Garlic Bread, Any Bag Of Chips, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan","BBQ, Hot Honey"
+27-21,2024-07-27,"Bacon, Pulled Pork",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs",BBQ
+27-22,2024-07-27,Brisket,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",BBQ
+27-26,2024-07-27,Grilled Chicken,Alfredo,Garlic Bread,Broccoli,Ranch
+27-27,2024-07-27,Grilled Chicken,"Alfredo Mac, Melted Parmesan",NA,"Parmesan, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+27-28,2024-07-27,Bacon,MIX,Garlic Bread,"Parmesan, Breadcrumbs",NA
+27-30,2024-07-27,"Bacon, Brisket","Cheddar, Alfredo",NA,"Parmesan, Corn, Bell Peppers",BBQ
+27-32,2024-07-27,Brisket,Cheddar,NA,"Broccoli, Breadcrumbs",BBQ
+27-33,2024-07-27,"Bacon, Brisket",MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, BBQ"
+27-34,2024-07-27,Brisket,Pepper Jack,NA,"Onions, Corn, Jalapenos","Ranch, Hot Honey"
+27-37,2024-07-27,"Grilled Chicken, Pulled Pork",Cheddar,Garlic Bread,"Onions, Parmesan, Broccoli, Breadcrumbs","Garlic Parmesan, BBQ"
+27-35,2024-07-27,"Grilled Chicken, Brisket","Pepper Jack Mac, Melted Cheddar, Cheddar",NA,"Corn, Breadcrumbs, Bell Peppers, Parmesan, Mushrooms","BBQ, Hot Honey"
+27-36,2024-07-27,"Grilled Chicken, Brisket","MIX, Cheddar, Melted Parmesan",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Jalapenos, Onions, Parmesan","Buffalo, Ranch, Garlic Parmesan, Hot Honey"
+27-38,2024-07-27,Grilled Chicken,Cheddar,NA,Parmesan,Garlic Parmesan
+27-39,2024-07-27,Pulled Pork,Cheddar,Side Mac,"Corn, Breadcrumbs, Onions, Parmesan, Mushrooms",Garlic Parmesan
+27-40,2024-07-27,Brisket,Cheddar,NA,"Parmesan, Corn, Broccoli, Breadcrumbs",Pesto
+27-41,2024-07-27,"Bacon, Grilled Chicken",Cheddar,Side Mac,"Onions, Breadcrumbs","Garlic Parmesan, BBQ"
+27-42,2024-07-27,Brisket,MIX,NA,"Onions, Corn, Breadcrumbs, Jalapenos",BBQ
+27-43,2024-07-27,"Grilled Chicken, Brisket",MIX,NA,"Onions, Parmesan, Bell Peppers","Buffalo, Ranch, BBQ"
+27-45,2024-07-27,"Ham, Brisket","Cheddar, Alfredo",Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Jalapenos, Bell Peppers, Parmesan",NA
+27-46,2024-07-27,"Grilled Chicken, Ham, Pulled Pork",Cheddar,NA,"Jalapenos, Parmesan, Broccoli, Mushrooms",BBQ
+27-47,2024-07-27,"Bacon, Grilled Chicken, Pulled Pork",Cheddar,Cheesy Garlic Bread,"Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Buffalo, Ranch, BBQ"
+27-48,2024-07-27,"Grilled Chicken, Brisket, Pulled Pork",Cheddar,NA,"Parmesan, Breadcrumbs","Pesto, BBQ"
+27-49,2024-07-27,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Hot Honey
+27-50,2024-07-27,"Grilled Chicken, Brisket",Cheddar,Cheesy Garlic Bread,"Jalapenos, Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+27-52,2024-07-27,Grilled Chicken,Cheddar,NA,"Onions, Parmesan","Pesto, Garlic Parmesan"
+27-53,2024-07-27,Brisket,Alfredo,Cheesy Garlic Bread,"Broccoli, Breadcrumbs",NA
+27-55,2024-07-27,Brisket,MIX,NA,"Onions, Corn, Breadcrumbs, Jalapenos",NA
+27-56,2024-07-27,NA,"Melted Cheddar, Cheddar Mac",NA,NA,NA
+27-57,2024-07-27,NA,Alfredo,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan",Garlic Parmesan
+27-54,2024-07-27,"Pulled Pork, Grilled Chicken","Alfredo, Pepper Jack",Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan","Pesto, Ranch"
+27-58,2024-07-27,"Bacon, Pulled Pork, Brisket",MIX,"Cheesecake, Cheesy Garlic Bread","Onions, Parmesan, Bell Peppers, Jalapenos",BBQ
+27-60,2024-07-27,Brisket,"Cheddar Mac, Melted Pepper Jack",NA,"Jalapenos, Tomatoes",BBQ
+27-61,2024-07-27,Bacon,Alfredo,NA,"Parmesan, Corn, Breadcrumbs",Garlic Parmesan
+27-62,2024-07-27,Grilled Chicken,Alfredo,NA,"Parmesan, Corn, Breadcrumbs",Pesto
+27-63,2024-07-27,"Grilled Chicken, Brisket",Pepper Jack,NA,"Jalapenos, Onions","Buffalo, BBQ"
+27-64,2024-07-27,"Bacon, Grilled Chicken",Pepper Jack,NA,Broccoli,Buffalo
+27-65,2024-07-27,Bacon,Alfredo,NA,"Onions, Bell Peppers",Hot Honey
+27-66,2024-07-27,Bacon,Alfredo,NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+28-4,2024-07-28,"Grilled Chicken, Brisket","Cheddar, Alfredo",NA,"Parmesan, Breadcrumbs",Ranch
+28-5,2024-07-28,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+28-10,2024-07-28,Grilled Chicken,Cheddar,NA,"Onions, Corn, Parmesan","Ranch, Garlic Parmesan"
+28-11,2024-07-28,Bacon,"MIX, Cheddar",NA,"Parmesan, Breadcrumbs, Mushrooms","Ranch, Hot Honey"
+28-12,2024-07-28,Grilled Chicken,Alfredo,NA,"Onions, Bell Peppers, Mushrooms, Tomatoes","Buffalo, Ranch"
+28-14,2024-07-28,"Bacon, Ham, Brisket","MIX, Cheddar, Melted Cheddar","Garlic Bread, Any Bag Of Chips","Parmesan, Broccoli","Pesto, BBQ, Hot Honey"
+28-15,2024-07-28,"Pulled Pork, Brisket","Cheddar, Melted Parmesan",Doritos,"Onions, Parmesan, Mushrooms",Garlic Parmesan
+28-16,2024-07-28,Brisket,"Pepper Jack Mac, Melted Cheddar",Any Bag Of Chips,NA,"Ranch, BBQ"
+28-19,2024-07-28,Brisket,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Pesto
+28-20,2024-07-28,Brisket,"Cheddar, Alfredo",NA,"Breadcrumbs, Onions, Bell Peppers, Parmesan, Mushrooms",Pesto
+28-21,2024-07-28,Ham,Cheddar,NA,Corn,Garlic Parmesan
+28-24,2024-07-28,"Bacon, Pulled Pork, Grilled Chicken","Pepper Jack Mac, Cheddar, Melted Pepper Jack, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan","Buffalo, Ranch, BBQ"
+28-25,2024-07-28,Brisket,Cheddar,Cheesy Garlic Bread,"Broccoli, Breadcrumbs",BBQ
+28-26,2024-07-28,Grilled Chicken,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+28-27,2024-07-28,"Grilled Chicken, Brisket",Cheddar,NA,"Parmesan, Breadcrumbs",BBQ
+28-28,2024-07-28,"Bacon, Pulled Pork, Brisket","MIX, Cheddar",Cheesy Garlic Bread,"Corn, Parmesan, Broccoli, Breadcrumbs",BBQ
+28-23,2024-07-28,"Bacon, Grilled Chicken, Brisket",Cheddar,"Garlic Bread, Any Bag Of Chips","Jalapenos, Bell Peppers, Breadcrumbs, Tomatoes",BBQ
+28-30,2024-07-28,Pulled Pork,"MIX, Cheddar",Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions",BBQ
+28-31,2024-07-28,Bacon,Cheddar,Cheesy Garlic Bread,NA,NA
+28-32,2024-07-28,NA,Cheddar,NA,Parmesan,NA
+28-33,2024-07-28,Pulled Pork,Cheddar,"Side Mac, Cheesy Garlic Bread","Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan, Mushrooms",Ranch
+28-35,2024-07-28,"Bacon, Brisket",MIX,NA,"Broccoli, Breadcrumbs",Garlic Parmesan
+28-36,2024-07-28,Pulled Pork,Pepper Jack,NA,Parmesan,Buffalo
+28-37,2024-07-28,NA,Cheddar,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+28-43,2024-07-28,Ham,Cheddar,NA,"Parmesan, Broccoli, Breadcrumbs",NA
+28-42,2024-07-28,"Bacon, Grilled Chicken, Brisket",MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Garlic Parmesan"
+28-47,2024-07-28,Brisket,Cheddar,NA,Parmesan,Ranch
+28-46,2024-07-28,"Grilled Chicken, Brisket","MIX, Alfredo",NA,"Parmesan, Mushrooms",Garlic Parmesan
+28-48,2024-07-28,Bacon,MIX,NA,"Parmesan, Breadcrumbs",NA
+28-49,2024-07-28,Brisket,"Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Onions, Jalapenos, Bell Peppers, Mushrooms",BBQ
+28-50,2024-07-28,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Corn, Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms","Garlic Parmesan, Ranch, BBQ, Hot Honey"
+28-51,2024-07-28,NA,Cheddar,NA,Broccoli,NA
+28-53,2024-07-28,Brisket,Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",Hot Honey
+28-52,2024-07-28,"Bacon, Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,"Parmesan, Corn, Broccoli, Breadcrumbs","Garlic Parmesan, BBQ"
+28-55,2024-07-28,"Bacon, Pulled Pork",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs","BBQ, Hot Honey"
+28-56,2024-07-28,Bacon,Cheddar,NA,Breadcrumbs,Ranch
+28-57,2024-07-28,"Grilled Chicken, Brisket",Alfredo,Cheetos,NA,"Ranch, BBQ"
+28-58,2024-07-28,Grilled Chicken,Alfredo,Doritos,NA,Ranch
+28-60,2024-07-28,Pulled Pork,Cheddar,Cheesy Garlic Bread,Corn,BBQ
+28-62,2024-07-28,NA,Cheddar,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+28-59,2024-07-28,"Bacon, Pulled Pork",Cheddar,NA,"Parmesan, Breadcrumbs",NA
+28-61,2024-07-28,Bacon,MIX,NA,"Onions, Corn, Parmesan","Garlic Parmesan, Hot Honey"
+28-63,2024-07-28,"Grilled Chicken, Brisket",Cheddar,Any Bag Of Chips,Parmesan,BBQ
+28-64,2024-07-28,Grilled Chicken,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Buffalo, Ranch, Garlic Parmesan"
+28-66,2024-07-28,"Pulled Pork, Brisket",Cheddar,Cheesy Garlic Bread,Parmesan,BBQ
+29-2,2024-07-29,"Bacon, Grilled Chicken",MIX,NA,"Onions, Broccoli, Breadcrumbs","Garlic Parmesan, Ranch"
+29-3,2024-07-29,NA,NA,Cheesy Garlic Bread,NA,NA
+29-4,2024-07-29,Brisket,Cheddar,NA,"Parmesan, Bell Peppers, Breadcrumbs","Buffalo, Ranch"
+29-5,2024-07-29,Bacon,Alfredo,Garlic Bread,"Parmesan, Broccoli, Breadcrumbs, Mushrooms",Garlic Parmesan
+29-6,2024-07-29,Pulled Pork,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+29-7,2024-07-29,Brisket,MIX,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Parmesan, Mushrooms","Garlic Parmesan, Hot Honey"
+29-9,2024-07-29,"Pulled Pork, Brisket",Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Parmesan, Mushrooms",BBQ
+29-8,2024-07-29,Grilled Chicken,"Cheddar, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+29-10,2024-07-29,"Bacon, Brisket",Cheddar,NA,"Tomatoes, Broccoli, Onions, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+29-11,2024-07-29,NA,Cheddar,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+29-12,2024-07-29,Brisket,Alfredo,NA,"Broccoli, Mushrooms",Buffalo
+29-13,2024-07-29,Pulled Pork,Pepper Jack,Cheesecake,"Jalapenos, Corn, Breadcrumbs, Parmesan",Buffalo
+29-14,2024-07-29,"Bacon, Grilled Chicken, Ham, Pulled Pork, Brisket",Alfredo,NA,"Corn, Breadcrumbs, Jalapenos, Parmesan, Mushrooms",Garlic Parmesan
+29-15,2024-07-29,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",NA,Breadcrumbs,"Garlic Parmesan, BBQ, Hot Honey"
+29-16,2024-07-29,"Bacon, Grilled Chicken",Pepper Jack,Cheesecake,"Jalapenos, Parmesan",Buffalo
+29-17,2024-07-29,NA,Cheddar,Side Mac,Breadcrumbs,NA
+29-18,2024-07-29,"Bacon, Grilled Chicken, Pulled Pork","Melted Cheddar, Cheddar, Cheddar Mac","Garlic Bread, Cheesy Garlic Bread","Corn, Parmesan, Breadcrumbs, Mushrooms",BBQ
+29-19,2024-07-29,Grilled Chicken,Cheddar,"Garlic Bread, Cheesy Garlic Bread, Cheesecake","Breadcrumbs, Tomatoes, Onions, Bell Peppers, Parmesan",BBQ
+29-20,2024-07-29,Bacon,"Cheddar, Pepper Jack",NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Pesto, BBQ"
+29-21,2024-07-29,"Bacon, Grilled Chicken",Cheddar,Cheesy Garlic Bread,"Corn, Mushrooms","Buffalo, Ranch"
+29-23,2024-07-29,"Grilled Chicken, Brisket",MIX,NA,"Onions, Bell Peppers, Jalapenos, Mushrooms",BBQ
+29-22,2024-07-29,Pulled Pork,MIX,NA,Corn,BBQ
+29-24,2024-07-29,Grilled Chicken,Pepper Jack,NA,"Jalapenos, Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+29-25,2024-07-29,Brisket,"MIX, Cheddar",NA,"Parmesan, Breadcrumbs, Tomatoes",BBQ
+29-27,2024-07-29,Grilled Chicken,"Melted Cheddar, Cheddar Mac",Garlic Bread,"Onions, Corn, Bell Peppers, Breadcrumbs",Garlic Parmesan
+29-29,2024-07-29,Brisket,"Melted Pepper Jack, Alfredo Mac",NA,"Onions, Corn, Mushrooms",Hot Honey
+29-28,2024-07-29,"Bacon, Grilled Chicken, Pulled Pork","MIX, Cheddar",Garlic Bread,"Onions, Parmesan, Bell Peppers",NA
+29-30,2024-07-29,Brisket,Cheddar,NA,Corn,Buffalo
+29-31,2024-07-29,NA,Cheddar,NA,NA,Hot Honey
+29-32,2024-07-29,"Pulled Pork, Brisket",Pepper Jack,NA,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers",Pesto
+29-33,2024-07-29,Pulled Pork,Cheddar,NA,"Broccoli, Onions, Jalapenos, Bell Peppers, Mushrooms",Pesto
+29-34,2024-07-29,Bacon,Cheddar,NA,"Onions, Bell Peppers, Tomatoes",BBQ
+29-35,2024-07-29,"Bacon, Grilled Chicken","Cheddar, Pepper Jack","Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Garlic Parmesan
+29-37,2024-07-29,"Bacon, Pulled Pork, Brisket","Melted Cheddar, Cheddar, Cheddar Mac",Cheesy Garlic Bread,"Corn, Tomatoes, Onions, Jalapenos, Bell Peppers","Buffalo, BBQ"
+29-36,2024-07-29,"Bacon, Pulled Pork",MIX,NA,"Onions, Parmesan, Bell Peppers, Breadcrumbs",Garlic Parmesan
+29-39,2024-07-29,Brisket,"Pepper Jack, Alfredo",NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, Garlic Parmesan"
+29-42,2024-07-29,"Grilled Chicken, Ham",Cheddar,"Garlic Bread, Cheesy Garlic Bread","Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan","Pesto, Ranch, Garlic Parmesan"
+29-41,2024-07-29,NA,Cheddar,NA,"Parmesan, Breadcrumbs",NA
+29-40,2024-07-29,Pulled Pork,Cheddar,NA,"Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+29-43,2024-07-29,NA,Cheddar,Cheesecake,Parmesan,NA
+29-44,2024-07-29,NA,Cheddar,Cheesecake,"Parmesan, Breadcrumbs",Ranch
+29-45,2024-07-29,"Pulled Pork, Grilled Chicken","Cheddar Mac, Cheddar, Melted Pepper Jack",Cheesy Garlic Bread,"Corn, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Ranch, BBQ"
+29-46,2024-07-29,"Bacon, Pulled Pork",Cheddar,Cheesy Garlic Bread,Parmesan,BBQ
+30-1,2024-07-30,Grilled Chicken,Cheddar,NA,"Onions, Bell Peppers, Jalapenos","Buffalo, Ranch"
+30-2,2024-07-30,"Grilled Chicken, Brisket","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Jalapenos, Corn, Breadcrumbs, Parmesan","Buffalo, BBQ"
+30-4,2024-07-30,NA,"Cheddar, Alfredo",Garlic Bread,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+30-5,2024-07-30,Brisket,Pepper Jack,NA,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms","Pesto, BBQ"
+30-7,2024-07-30,Bacon,MIX,NA,"Parmesan, Breadcrumbs",NA
+30-6,2024-07-30,Bacon,MIX,NA,"Onions, Corn, Tomatoes",Garlic Parmesan
+30-8,2024-07-30,Ham,Melted Cheddar,Any Bag Of Chips,Parmesan,NA
+30-10,2024-07-30,Brisket,"Cheddar Mac, Melted Pepper Jack",NA,NA,NA
+30-11,2024-07-30,Bacon,"Cheddar Mac, Melted Pepper Jack",NA,"Onions, Corn, Mushrooms",Garlic Parmesan
+30-12,2024-07-30,"Pulled Pork, Brisket",Pepper Jack,NA,"Breadcrumbs, Onions, Jalapenos, Bell Peppers, Mushrooms",Ranch
+30-13,2024-07-30,Pulled Pork,Pepper Jack,Side Mac,"Onions, Bell Peppers, Breadcrumbs, Mushrooms",BBQ
+30-15,2024-07-30,Brisket,Pepper Jack,NA,"Onions, Bell Peppers, Pineapple",Buffalo
+30-14,2024-07-30,"Bacon, Grilled Chicken","Melted Cheddar, Alfredo Mac, MIX","Any Bag Of Chips, Cheesy Garlic Bread","Parmesan, Bell Peppers, Breadcrumbs, Mushrooms",Garlic Parmesan
+30-16,2024-07-30,Grilled Chicken,Alfredo,Cheesy Garlic Bread,"Parmesan, Breadcrumbs",Garlic Parmesan
+30-18,2024-07-30,Ham,Alfredo,NA,"Corn, Tomatoes, Broccoli, Bell Peppers, Mushrooms",Ranch
+30-17,2024-07-30,Grilled Chicken,"Cheddar, Alfredo","Garlic Bread, Cheesy Garlic Bread","Parmesan, Broccoli, Breadcrumbs",NA
+30-19,2024-07-30,NA,Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan",Garlic Parmesan
+30-20,2024-07-30,Pulled Pork,Melted Pepper Jack,NA,"Onions, Broccoli",Hot Honey
+30-21,2024-07-30,Brisket,MIX,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers, Mushrooms",NA
+30-22,2024-07-30,Pulled Pork,MIX,Any Bag Of Chips,Parmesan,NA
+30-23,2024-07-30,Brisket,Pepper Jack,NA,Onions,NA
+30-24,2024-07-30,Grilled Chicken,Pepper Jack,NA,"Onions, Broccoli, Mushrooms, Tomatoes",Ranch
+30-25,2024-07-30,Brisket,Pepper Jack,NA,Parmesan,Buffalo
+30-26,2024-07-30,"Pulled Pork, Ham",Pepper Jack,Cheesy Garlic Bread,"Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan",Garlic Parmesan
+30-28,2024-07-30,Bacon,Cheddar,Garlic Bread,"Onions, Breadcrumbs, Jalapenos",Buffalo
+30-29,2024-07-30,"Bacon, Brisket",Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+30-31,2024-07-30,Bacon,Cheddar,NA,NA,"Buffalo, BBQ, Hot Honey"
+30-32,2024-07-30,Grilled Chicken,Pepper Jack,NA,"Breadcrumbs, Tomatoes, Broccoli, Jalapenos, Bell Peppers",Buffalo
+30-33,2024-07-30,Brisket,Pepper Jack,NA,"Jalapenos, Breadcrumbs, Mushrooms","BBQ, Hot Honey"
+30-35,2024-07-30,"Pulled Pork, Brisket",Cheddar,NA,"Corn, Tomatoes, Broccoli, Onions, Jalapenos, Bell Peppers",BBQ
+30-34,2024-07-30,Grilled Chicken,Alfredo,NA,"Pineapple, Mushrooms",BBQ
+30-36,2024-07-30,Brisket,Alfredo,NA,"Parmesan, Bell Peppers, Breadcrumbs, Tomatoes","Pesto, Garlic Parmesan"
+30-37,2024-07-30,"Bacon, Grilled Chicken, Ham, Pulled Pork, Brisket",Alfredo,NA,"Parmesan, Corn, Breadcrumbs, Mushrooms","Ranch, Garlic Parmesan"
+30-38,2024-07-30,Brisket,Pepper Jack,NA,"Jalapenos, Onions, Bell Peppers",BBQ
+30-40,2024-07-30,Grilled Chicken,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms","Garlic Parmesan, Buffalo, Pesto, BBQ"
+30-39,2024-07-30,Brisket,Cheddar,NA,"Breadcrumbs, Mushrooms",BBQ
+30-43,2024-07-30,"Bacon, Brisket",Cheddar,Lays Classic,"Onions, Broccoli",Garlic Parmesan
+30-42,2024-07-30,Grilled Chicken,Alfredo,"Cheesecake, Cheesy Garlic Bread","Onions, Jalapenos",Garlic Parmesan
+30-44,2024-07-30,"Bacon, Grilled Chicken",MIX,NA,"Parmesan, Breadcrumbs",NA
+30-45,2024-07-30,NA,MIX,Cheesy Garlic Bread,"Tomatoes, Broccoli, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",Garlic Parmesan
+30-46,2024-07-30,Brisket,Cheddar,Doritos,"Corn, Breadcrumbs, Onions, Bell Peppers, Parmesan","Pesto, Ranch, Garlic Parmesan"
+30-47,2024-07-30,"Bacon, Grilled Chicken","Cheddar, Pepper Jack",Cheesy Garlic Bread,"Parmesan, Broccoli",Garlic Parmesan
+30-48,2024-07-30,Pulled Pork,Cheddar,NA,"Breadcrumbs, Tomatoes, Onions, Jalapenos, Parmesan","Garlic Parmesan, BBQ"
+30-41,2024-07-30,NA,MIX,NA,Parmesan,"Pesto, Garlic Parmesan"
+30-51,2024-07-30,NA,MIX,Cheesy Garlic Bread,NA,Ranch
+30-50,2024-07-30,NA,MIX,NA,"Parmesan, Broccoli, Breadcrumbs",Garlic Parmesan
+30-57,2024-07-30,Grilled Chicken,MIX,NA,"Onions, Broccoli, Breadcrumbs",Garlic Parmesan
+30-58,2024-07-30,Brisket,MIX,NA,"Onions, Broccoli, Jalapenos","BBQ, Hot Honey"
+30-55,2024-07-30,Grilled Chicken,MIX,NA,"Corn, Broccoli, Onions, Bell Peppers, Parmesan","Pesto, Garlic Parmesan"
+30-56,2024-07-30,Grilled Chicken,MIX,NA,"Corn, Broccoli, Onions, Jalapenos, Bell Peppers, Parmesan, Mushrooms",Buffalo
+30-64,2024-07-30,Brisket,Pepper Jack,NA,"Onions, Broccoli, Jalapenos, Mushrooms","BBQ, Hot Honey"
+30-63,2024-07-30,Grilled Chicken,MIX,Cheesy Garlic Bread,"Parmesan, Breadcrumbs","Buffalo, Ranch"
+30-62,2024-07-30,Grilled Chicken,Pepper Jack,NA,"Onions, Parmesan, Bell Peppers, Jalapenos","Garlic Parmesan, Hot Honey"
+30-61,2024-07-30,Brisket,MIX,NA,"Parmesan, Bell Peppers, Breadcrumbs, Mushrooms","Garlic Parmesan, BBQ"
+30-66,2024-07-30,Brisket,Cheddar,Cheesy Garlic Bread,NA,BBQ
+30-65,2024-07-30,Grilled Chicken,MIX,NA,Breadcrumbs,"Buffalo, Ranch"
+30-68,2024-07-30,Grilled Chicken,Cheddar,NA,"Jalapenos, Parmesan, Breadcrumbs",Garlic Parmesan
+30-69,2024-07-30,"Bacon, Brisket",MIX,NA,"Parmesan, Breadcrumbs",Garlic Parmesan
+30-70,2024-07-30,Brisket,Cheddar,Cheesy Garlic Bread,NA,Garlic Parmesan
+30-73,2024-07-30,Grilled Chicken,Alfredo,Garlic Bread,Broccoli,Ranch
+30-74,2024-07-30,NA,Cheddar,Garlic Bread,Broccoli,NA
+30-75,2024-07-30,Grilled Chicken,Pepper Jack,NA,"Onions, Parmesan, Pineapple, Jalapenos","BBQ, Hot Honey"
+30-76,2024-07-30,NA,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+30-77,2024-07-30,Bacon,"Melted Cheddar, Cheddar Mac",NA,NA,NA
+30-78,2024-07-30,Bacon,MIX,NA,"Parmesan, Bell Peppers, Pineapple, Breadcrumbs",Ranch
+30-79,2024-07-30,Brisket,Cheddar,NA,Parmesan,BBQ
+30-81,2024-07-30,Grilled Chicken,MIX,NA,"Onions, Corn, Broccoli, Breadcrumbs",Hot Honey
+30-80,2024-07-30,Grilled Chicken,MIX,NA,"Corn, Breadcrumbs, Tomatoes, Onions, Parmesan",Hot Honey
+31-2,2024-07-31,NA,Cheddar,Garlic Bread,NA,NA
+31-4,2024-07-31,Brisket,Cheddar,NA,"Corn, Pineapple",NA
+31-5,2024-07-31,Grilled Chicken,Alfredo,NA,"Parmesan, Breadcrumbs","Pesto, Ranch"
+31-6,2024-07-31,Grilled Chicken,Alfredo,Cheesy Garlic Bread,Parmesan,NA
+31-7,2024-07-31,Grilled Chicken,Cheddar,"Garlic Bread, Cheesy Garlic Bread",Broccoli,"Buffalo, Ranch"
+31-8,2024-07-31,"Bacon, Grilled Chicken",Cheddar,Side Mac,NA,NA
+31-10,2024-07-31,Pulled Pork,"Melted Cheddar, Cheddar Mac",Cheesy Garlic Bread,Parmesan,BBQ
+31-9,2024-07-31,"Bacon, Grilled Chicken, Ham, Pulled Pork, Brisket",Cheddar,Garlic Bread,"Onions, Bell Peppers, Jalapenos","Buffalo, BBQ"
+31-11,2024-07-31,Brisket,Cheddar,NA,"Onions, Corn, Bell Peppers, Breadcrumbs",BBQ
+31-14,2024-07-31,"Bacon, Grilled Chicken, Brisket, Pulled Pork","MIX, Cheddar",Cheesy Garlic Bread,"Jalapenos, Tomatoes","Buffalo, BBQ"
+31-15,2024-07-31,"Bacon, Grilled Chicken",Cheddar,NA,"Parmesan, Breadcrumbs",NA
+31-16,2024-07-31,Pulled Pork,Cheddar,NA,"Parmesan, Breadcrumbs",Ranch
+31-17,2024-07-31,"Bacon, Grilled Chicken","MIX, Cheddar",Cheesy Garlic Bread,"Parmesan, Breadcrumbs",NA
+31-18,2024-07-31,Grilled Chicken,"MIX, Cheddar",NA,"Tomatoes, Onions, Jalapenos, Parmesan, Mushrooms",Buffalo
+31-19,2024-07-31,NA,Pepper Jack,Side Mac,"Parmesan, Breadcrumbs",NA
+31-20,2024-07-31,"Grilled Chicken, Brisket","MIX, Melted Pepper Jack",NA,"Parmesan, Breadcrumbs","Buffalo, BBQ"
+31-21,2024-07-31,"Bacon, Grilled Chicken, Brisket","MIX, Alfredo",Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Broccoli, Onions, Jalapenos, Parmesan, Pineapple",Pesto
+31-22,2024-07-31,Grilled Chicken,MIX,NA,"Corn, Broccoli, Onions, Parmesan, Mushrooms",Pesto
+31-24,2024-07-31,"Bacon, Grilled Chicken","Cheddar, Alfredo",Cheesy Garlic Bread,"Parmesan, Broccoli, Tomatoes",Pesto
+31-25,2024-07-31,Bacon,Cheddar,NA,"Corn, Bell Peppers, Mushrooms",NA
+31-26,2024-07-31,NA,Cheddar,Any Bag Of Chips,Broccoli,NA
+31-27,2024-07-31,Bacon,Alfredo,Cheesy Garlic Bread,"Bell Peppers, Parmesan, Broccoli, Breadcrumbs",NA
+31-29,2024-07-31,Brisket,Cheddar,Cheesy Garlic Bread,NA,NA
+31-30,2024-07-31,Brisket,MIX,NA,"Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",BBQ
+31-32,2024-07-31,NA,Cheddar,Cheesy Garlic Bread,"Corn, Breadcrumbs, Tomatoes, Onions, Jalapenos, Bell Peppers, Parmesan, Pineapple, Mushrooms",Hot Honey
+31-33,2024-07-31,"Bacon, Grilled Chicken",MIX,NA,NA,Ranch
+31-34,2024-07-31,Bacon,Cheddar,NA,Jalapenos,Ranch
+31-35,2024-07-31,Brisket,MIX,Garlic Bread,"Onions, Corn, Pineapple, Tomatoes",Ranch
+31-36,2024-07-31,Grilled Chicken,Cheddar,NA,"Breadcrumbs, Broccoli, Onions, Bell Peppers, Parmesan",Ranch
+31-37,2024-07-31,NA,"Chicken Bacon Ranch (Cheddar, Chicken, Bacon, Ranch), Texas BBQ (Pepper Jack, Brisket, Jalapenos, BBQ), Buffalo Chicken (Cheddar, Chicken, Onions, Buffalo), Classic Mac (Cheddar, Breadcrumbs, Garlic Parmesan)",NA,NA,NA
+31-38,2024-07-31,"Grilled Chicken, Brisket","MIX, Cheddar",Garlic Bread,"Breadcrumbs, Onions, Bell Peppers, Pineapple, Mushrooms",BBQ
+31-39,2024-07-31,"Grilled Chicken, Ham, Brisket","Cheddar, Alfredo",NA,"Parmesan, Broccoli, Breadcrumbs, Mushrooms","Buffalo, Ranch"
+31-40,2024-07-31,Grilled Chicken,Alfredo,Cheesecake,"Parmesan, Broccoli",Pesto
+31-43,2024-07-31,Brisket,Cheddar,Cheesecake,"Onions, Parmesan, Breadcrumbs",Ranch
+31-44,2024-07-31,"Bacon, Pulled Pork",Alfredo,Cheesecake,Parmesan,BBQ
+31-45,2024-07-31,Grilled Chicken,Cheddar,NA,"Corn, Broccoli, Breadcrumbs",Buffalo
+31-46,2024-07-31,Pulled Pork,Cheddar,NA,Breadcrumbs,NA
+31-47,2024-07-31,Brisket,Pepper Jack,Cheesy Garlic Bread,"Parmesan, Bell Peppers, Breadcrumbs",BBQ
+31-50,2024-07-31,Brisket,Cheddar,Garlic Bread,"Parmesan, Breadcrumbs",NA
+31-51,2024-07-31,NA,NA,Side Mac,NA,NA
+31-52,2024-07-31,Bacon,Pepper Jack,NA,"Onions, Corn, Jalapenos, Parmesan","Garlic Parmesan, Hot Honey"
+31-49,2024-07-31,"Bacon, Grilled Chicken","Melted Cheddar, Cheddar, MIX",Any Bag Of Chips,"Breadcrumbs, Tomatoes, Broccoli, Onions, Parmesan, Mushrooms","Pesto, Garlic Parmesan"
+31-54,2024-07-31,Brisket,Cheddar,NA,NA,BBQ
+31-58,2024-07-31,Brisket,Cheddar,NA,"Onions, Pineapple, Jalapenos",BBQ
+31-56,2024-07-31,Bacon,MIX,NA,Parmesan,Ranch
+31-62,2024-07-31,"Pulled Pork, Brisket","Melted Cheddar, Cheddar, Cheddar Mac","Side Mac, Cheesy Garlic Bread","Onions, Parmesan, Breadcrumbs, Mushrooms",Garlic Parmesan
+31-61,2024-07-31,"Bacon, Brisket",Cheddar,Cheesy Garlic Bread,"Onions, Corn, Bell Peppers, Parmesan",NA
+31-63,2024-07-31,Grilled Chicken,Pepper Jack,Cheetos,NA,Buffalo
+31-64,2024-07-31,Pulled Pork,Pepper Jack,NA,"Onions, Corn, Pineapple, Jalapenos",BBQ
